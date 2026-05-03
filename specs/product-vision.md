@@ -4,7 +4,7 @@
 
 Restaurant discovery usually starts with places: users search for a restaurant, inspect ratings, then dig through photos and menus to figure out whether the restaurant sells the specific food they want. This is slow, especially for cravings, dietary needs, cafe hopping, and food-specific recommendations.
 
-LetsEat flips the search model. Users start with the food, and the app finds places that sell it.
+LetsEat flips the search model. Users start with the food, choose the type of place they are in the mood for, and the app finds matching places that sell it.
 
 ## Target Users
 
@@ -26,6 +26,7 @@ The product must show why it believes a place sells the searched food. Evidence 
 ## Product Principles
 
 - Food-first: search, ranking, and place pages should prioritize dishes and menu items over venue marketing.
+- Category-aware: users should be able to move between place categories such as cafes, restaurants, bakeries, dessert shops, and hawker stalls without losing their food query.
 - Evidence-backed: every food/place match should have at least one source or confidence explanation.
 - Latest-menu-first: each place should expose one current active menu for search and display.
 - Map-native: users should be able to move from discovery to directions quickly.
@@ -40,16 +41,17 @@ Included:
 - Progressive Web App experience.
 - Postgres-backed place and menu database.
 - Food search with place results.
+- Category tabs for scoping food search, starting with cafe-quality data and expanding as coverage grows.
 - Place detail page.
 - Menu extraction from images and available menu sources.
 - Open Google Maps reviews externally.
 - Save places locally without a user account.
 - Open places in Google Maps.
-- Sort independently by relevance or Google review quality.
+- Sort independently by relevance, Google review quality, or distance.
 
 Deferred:
 
-- Full restaurant category expansion.
+- Full restaurant category expansion beyond the initial supported categories and launch geography.
 - Account system and cross-device saved places.
 - Personalized recommendations.
 - Social feeds.

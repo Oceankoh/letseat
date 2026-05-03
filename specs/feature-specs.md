@@ -4,11 +4,19 @@
 
 ### Goal
 
-Let users search for a food, drink, ingredient, or dish and see cafes that likely sell it.
+Let users search for a food, drink, ingredient, or dish and see places in the selected category that likely sell it.
 
 ### Requirements
 
 - Accept free-text food queries such as `latte`, `banana bread`, `carbonara`, `gluten free cake`.
+- Provide category tabs so users can choose the type of place they want to search within:
+  - All.
+  - Cafes.
+  - Restaurants.
+  - Bakeries.
+  - Dessert shops.
+  - Hawker stalls or food courts where relevant.
+- The selected category tab scopes the food search. For example, under the Cafes tab, a search for `tiramisu` should return cafes whose latest menu evidence includes tiramisu or a related match.
 - Normalize common variants, spelling differences, plurals, and synonyms.
 - Support partial matching for menu item names.
 - Return a ranked list of places with:
@@ -22,6 +30,7 @@ Let users search for a food, drink, ingredient, or dish and see cafes that likel
   - Confidence indicator.
 - Allow switching between list and map views.
 - Allow filters:
+  - Place category.
   - Open now.
   - Distance.
   - Rating threshold.
@@ -36,6 +45,19 @@ Food search should not use one blended ranking model in the MVP. Users should be
 - Relevance: exact and partial food matches in the latest menu, with stronger matches first.
 - Google review quality: Google rating and review count, with higher-rated and better-supported places first.
 - Distance: nearest places first when location or map area is available.
+
+### Category Tabs
+
+Category tabs are a primary search control, not only a filter drawer option. Tabs should remain visible near the search field so users can quickly switch between place types without re-entering the food query.
+
+Requirements:
+
+- Preserve the current food query when switching tabs.
+- Re-run the same query against the newly selected category.
+- Show result counts per tab when inexpensive enough to compute.
+- Keep Cafes as the strongest initial category for MVP data quality.
+- Support an All tab that searches across every available place category.
+- If a category has no matching results, show category-aware empty states and suggest nearby tabs or related foods.
 
 ### Empty State
 
@@ -55,6 +77,7 @@ Help users compare places quickly and decide where to go.
 ### Requirements
 
 - Results should be place cards optimized around the searched food.
+- Results should reflect the active category tab.
 - Each card must show the strongest evidence for the query.
 - Cards should expose quick actions:
   - Save.

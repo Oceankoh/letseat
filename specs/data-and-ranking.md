@@ -8,7 +8,7 @@ Use Postgres for the MVP. PostGIS should be enabled if the app needs radius sear
 
 ### Place
 
-Represents a cafe or food business.
+Represents a cafe, restaurant, or other food business.
 
 Fields:
 
@@ -28,6 +28,19 @@ Fields:
 - `source`
 - `created_at`
 - `updated_at`
+
+Category requirements:
+
+- `categories` should use a controlled vocabulary so category tabs and filters remain consistent.
+- A place may have multiple categories, but one should be treated as the primary display category when needed.
+- Initial category values:
+  - `cafe`
+  - `restaurant`
+  - `bakery`
+  - `dessert_shop`
+  - `hawker_stall`
+  - `food_court`
+- The launch dataset can be cafe-first, but the schema and API should not assume every place is a cafe.
 
 ### Menu
 
@@ -132,6 +145,7 @@ Recommended indexes:
 
 - Full-text index on `MenuItem.name`, `MenuItem.description`.
 - Geospatial index on place coordinates.
+- Index on `Place.categories` or a join table equivalent for category-scoped search.
 - Composite index on `place_id`, `food_term_id`, `confidence`.
 - Composite index on `food_term_id`, `seen_at`.
 - Optional future vector index on menu item embeddings.
@@ -160,6 +174,18 @@ Examples:
 - `iced matcha` should match `iced matcha latte`.
 - `flat white` should not be swallowed by generic `coffee` unless fallback mode is active.
 - `cake` can match `black sesame chiffon cake`, but exact cake types should rank higher for specific queries.
+
+## Category-Scoped Search
+
+Food search should accept an optional active place category from the category tabs.
+
+Behavior:
+
+- `all` searches every available place category.
+- A specific category searches only places whose `categories` include that category.
+- The active category is an inclusion filter applied before sort modes.
+- Switching categories should preserve the query and re-run matching against the new category scope.
+- Category counts can be computed from the same matched result set when performance allows.
 
 ## Sort Modes
 

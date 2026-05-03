@@ -12,15 +12,17 @@ This spec package is split by concern:
 
 ## MVP Focus
 
-The first version should focus on cafes in one target geography. A narrow launch area makes crawling, ranking, deduplication, and manual QA tractable while still proving the core food-first workflow.
+The first version should focus on cafes in one target geography while establishing category tabs for place types such as cafes, restaurants, bakeries, dessert shops, and hawker stalls. A narrow launch area makes crawling, ranking, deduplication, and manual QA tractable while still proving the core food-first workflow.
 
 ## Core User Flow
 
-1. User searches for a food or drink, for example `matcha latte`, `croissant`, or `eggs benedict`.
-2. LetsEat finds matching menu items and review evidence across cafe places.
-3. User sees a ranked list or map of cafes selling that item.
-4. User opens a cafe detail page to inspect menu evidence, photos, price hints, opening status, and Google rating/review count.
-5. User saves the place or opens it in Google Maps.
+1. User chooses a place-category tab, such as Cafes or Restaurants.
+2. User searches for a food or drink, for example `matcha latte`, `croissant`, or `eggs benedict`.
+3. LetsEat finds matching menu items and evidence within the active category.
+4. User sees a ranked list or map of places in that category selling the item.
+5. User can switch tabs without losing the query to compare cafes, restaurants, bakeries, or other supported categories.
+6. User opens a place detail page to inspect menu evidence, photos, price hints, opening status, and Google rating/review count.
+7. User saves the place or opens it in Google Maps.
 
 ## Current Technical Direction
 
@@ -29,7 +31,8 @@ The first version should focus on cafes in one target geography. A narrow launch
 - Auth: no account system for MVP.
 - Menus: keep only the latest active menu per place.
 - Reviews: open Google Maps reviews externally instead of storing or rendering reviews in-app.
-- Sorting: offer independent sort modes for relevance and Google review quality.
+- Search categories: expose category tabs that scope the active food query.
+- Sorting: offer independent sort modes for relevance, Google review quality, and distance.
 
 ## Important Constraint
 

@@ -10,6 +10,7 @@ Deliverables:
 - Postgres database setup.
 - Seed cafe dataset for one geography.
 - Basic place model.
+- Place category taxonomy and category-aware place model.
 - Basic latest-menu and menu item models.
 - Manual CSV or admin import for menus.
 - Food search endpoint.
@@ -19,6 +20,7 @@ Deliverables:
 Exit criteria:
 
 - A user can search for a food and see seeded cafes that sell it.
+- A user can use a Cafes tab to scope the food search to cafes.
 - Each result shows at least one menu item as evidence.
 
 ## Phase 1: User-Facing MVP
@@ -28,6 +30,7 @@ Goal: make the core food-first experience usable.
 Deliverables:
 
 - Food search UI with filters and sorting.
+- Category tabs near the food search field, with the active tab scoping results.
 - Place detail page with latest menu and Google Maps review handoff.
 - Local saved places without auth.
 - Open in Google Maps.
@@ -37,6 +40,7 @@ Deliverables:
 Exit criteria:
 
 - Users can search, compare places, save them, and open directions.
+- Users can switch category tabs without losing the current food query.
 - Search results can be sorted by relevance, Google review quality, and distance.
 
 ## Phase 2: Menu Photo Upload And OCR
@@ -98,10 +102,12 @@ Goal: expand beyond cafes.
 Deliverables:
 
 - Additional place categories:
+  - Cafes.
   - Bakeries.
   - Dessert shops.
   - Restaurants.
   - Hawker stalls or food courts where relevant.
+- Cross-category search tabs with reliable result counts and empty states.
 - Cuisine and dietary filters.
 - Multi-language OCR and search.
 - Partner or owner menu submission flow.
