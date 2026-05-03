@@ -1,5 +1,9 @@
 # Data And Ranking
 
+## Database
+
+Use Postgres for the MVP. PostGIS should be enabled if the app needs radius search, map bounds search, or distance sorting. Full-text search can be handled with native Postgres indexes before adding a dedicated search service.
+
 ## Core Entities
 
 ### Place
@@ -25,9 +29,9 @@ Fields:
 - `created_at`
 - `updated_at`
 
-### MenuSource
+### Menu
 
-Represents where menu evidence came from.
+Represents the latest active menu for a place. Each place should have at most one active menu in the MVP.
 
 Fields:
 
@@ -36,10 +40,11 @@ Fields:
 - `source_type`: `user_upload`, `approved_api`, `restaurant_website`, `partner`, `manual`, `admin`
 - `source_url`
 - `captured_at`
-- `submitted_by_user_id`
 - `license_status`
 - `processing_status`
+- `is_active`
 - `created_at`
+- `updated_at`
 
 ### MenuImage
 
@@ -48,7 +53,7 @@ Stores or references an image used for OCR.
 Fields:
 
 - `id`
-- `menu_source_id`
+- `menu_id`
 - `image_url`
 - `image_hash`
 - `width`
@@ -65,7 +70,7 @@ Fields:
 
 - `id`
 - `place_id`
-- `menu_source_id`
+- `menu_id`
 - `name`
 - `description`
 - `category`
@@ -74,9 +79,8 @@ Fields:
 - `dietary_tags`
 - `ocr_confidence`
 - `extraction_confidence`
-- `first_seen_at`
-- `last_seen_at`
-- `verified_at`
+- `created_at`
+- `updated_at`
 
 ### FoodTerm
 
@@ -94,7 +98,7 @@ Fields:
 
 ### FoodPlaceEvidence
 
-Connects a food query or food term to a place.
+Connects a food query or food term to a place using the latest active menu.
 
 Fields:
 
@@ -102,39 +106,20 @@ Fields:
 - `place_id`
 - `food_term_id`
 - `menu_item_id`
-- `evidence_type`: `menu_item`, `review_text`, `photo_ocr`, `user_report`, `website`
+- `evidence_type`: `menu_item`, `photo_ocr`, `website`, `manual`
 - `evidence_text`
 - `source_id`
 - `confidence`
 - `seen_at`
 - `created_at`
 
-### Review
-
-Represents review data when permitted.
-
-Fields:
-
-- `id`
-- `place_id`
-- `source`
-- `source_review_id`
-- `rating`
-- `text`
-- `language`
-- `author_display_name`
-- `reviewed_at`
-- `source_url`
-- `created_at`
-
 ### SavedPlace
 
-Represents a user's saved place.
+Represents a place saved locally by a browser/device. The MVP does not have user accounts or cross-device sync.
 
 Fields:
 
 - `id`
-- `user_id`
 - `place_id`
 - `food_query`
 - `note`
@@ -146,15 +131,14 @@ Fields:
 Recommended indexes:
 
 - Full-text index on `MenuItem.name`, `MenuItem.description`.
-- Full-text index on permitted `Review.text`.
-- Vector index on menu item embeddings.
 - Geospatial index on place coordinates.
 - Composite index on `place_id`, `food_term_id`, `confidence`.
 - Composite index on `food_term_id`, `seen_at`.
+- Optional future vector index on menu item embeddings.
 
 ## Food Matching
 
-Food matching should combine lexical and semantic signals.
+Food matching should start with lexical signals from the latest active menu.
 
 Lexical:
 
@@ -164,7 +148,7 @@ Lexical:
 - Common spelling variants.
 - Alias table.
 
-Semantic:
+Deferred semantic signals:
 
 - Embedding similarity between query and menu item.
 - Food taxonomy relationships.
@@ -177,59 +161,53 @@ Examples:
 - `flat white` should not be swallowed by generic `coffee` unless fallback mode is active.
 - `cake` can match `black sesame chiffon cake`, but exact cake types should rank higher for specific queries.
 
-## Place Ranking
+## Sort Modes
 
-Default food search score:
+The MVP should not use a blended ranking score. Food search returns matching places, then applies one selected sort mode.
 
-```text
-score =
-  food_match_score * 0.40 +
-  evidence_confidence * 0.20 +
-  freshness_score * 0.15 +
-  google_quality_score * 0.15 +
-  distance_score * 0.10
-```
+### Relevance Sort
 
-Where:
+Order by menu match quality:
 
-- `food_match_score`: exact and semantic match quality.
-- `evidence_confidence`: reliability of the underlying source.
-- `freshness_score`: recent menu evidence ranks higher.
-- `google_quality_score`: rating, review count, and optional ranking signal.
-- `distance_score`: proximity to user or selected map area.
+1. Exact normalized menu item match.
+2. Exact alias match.
+3. Prefix or token match.
+4. Partial substring match.
+5. OCR/extraction confidence as a tiebreaker.
 
-## Google Quality Score
+### Google Review Quality Sort
 
-For MVP:
+Order by Google review quality using rating and review count:
 
 ```text
-google_quality_score = normalized_rating * 0.65 + normalized_review_count * 0.35
+google_review_quality = normalized_rating * 0.70 + normalized_review_count * 0.30
 ```
 
-If an approved API provides prominence or ranking order, include it as an additional ranking signal. Do not invent or imply an official Google Maps rank if the product only has rating and review count.
+Use menu relevance as an inclusion filter before applying this sort. Do not imply this is an official Google Maps ranking unless the data source explicitly provides such a rank.
 
-## Freshness
+### Distance Sort
 
-Suggested freshness windows:
+Order by distance from the user's location or selected map area. If the user has not granted location permission, use the selected map bounds or neighborhood.
 
-- Cafe menus: strong freshness for 0-90 days.
-- Acceptable freshness: 90-180 days.
-- Stale evidence: older than 180 days.
-- Seasonal items: stale after 45 days unless reconfirmed.
+## Latest Menu Policy
 
-Stale evidence should still be searchable but labeled clearly.
+- Each place has one latest active menu.
+- New approved menu submissions replace the active menu.
+- Replaced menu items should be removed from the searchable index.
+- The app should show the active menu's `updated_at` or `captured_at` date.
+- Historical menu storage is deferred.
 
 ## Confidence Labels
 
-- High: direct menu item match from recent menu source or verified user submission.
-- Medium: older menu evidence, restaurant website, or multiple review mentions.
-- Low: single review mention, uncertain OCR, or weak semantic match.
+- High: direct menu item match with high OCR or manual confidence.
+- Medium: partial menu item match or moderate OCR confidence.
+- Low: uncertain OCR or weak alias match.
 
 ## Data Quality Rules
 
 - Deduplicate places by Google Place ID first, then name/address/geolocation similarity.
 - Deduplicate menu items by normalized name, source, and price.
 - Preserve original OCR text for auditability.
-- Keep all evidence tied to source metadata.
-- Never overwrite old menu data without retaining history.
+- Keep active menu evidence tied to source metadata.
+- Replace the active menu when a newer submission is approved.
 - Track user reports that mark menu items as unavailable.

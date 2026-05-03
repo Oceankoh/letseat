@@ -21,13 +21,13 @@ Start with cafes in one city or neighborhood cluster. Cafes are a good first seg
 
 "Search any food. See where to eat it."
 
-The product must show why it believes a place sells the searched food. Evidence matters: menu OCR snippets, menu photos, review mentions, review images, user uploads, and confidence scores should be visible enough that users can trust the result.
+The product must show why it believes a place sells the searched food. Evidence matters: menu OCR snippets, menu photos, user uploads, and confidence scores should be visible enough that users can trust the result.
 
 ## Product Principles
 
 - Food-first: search, ranking, and place pages should prioritize dishes and menu items over venue marketing.
 - Evidence-backed: every food/place match should have at least one source or confidence explanation.
-- Freshness-aware: menus change; stale evidence must be labeled and ranked lower.
+- Latest-menu-first: each place should expose one current active menu for search and display.
 - Map-native: users should be able to move from discovery to directions quickly.
 - Narrow but deep: the MVP should be strong for cafes before expanding to all food places.
 - Respect data rights: use compliant APIs, licensed sources, user submissions, and public data responsibly.
@@ -37,28 +37,32 @@ The product must show why it believes a place sells the searched food. Evidence 
 Included:
 
 - Cafe place catalog for a selected launch area.
+- Progressive Web App experience.
+- Postgres-backed place and menu database.
 - Food search with place results.
 - Place detail page.
 - Menu extraction from images and available menu sources.
-- Review viewing and review-food evidence.
-- Save places.
-- Open in Google Maps.
-- Sort by relevance, Google Maps rank/rating signals, distance, and confidence.
+- Open Google Maps reviews externally.
+- Save places locally without a user account.
+- Open places in Google Maps.
+- Sort independently by relevance or Google review quality.
 
 Deferred:
 
 - Full restaurant category expansion.
+- Account system and cross-device saved places.
 - Personalized recommendations.
 - Social feeds.
 - In-app ordering.
 - Automated crawling at large geographic scale.
 - Creator/restaurant owner dashboards.
+- In-app Google Maps review display.
 
 ## Success Metrics
 
 - Search success rate: percentage of food searches with at least one useful place result.
-- Evidence coverage: percentage of returned places with menu or review evidence.
+- Evidence coverage: percentage of returned places with menu evidence.
 - Click-through to maps: percentage of searches that lead to "open in maps".
 - Save rate: percentage of result views that are saved.
-- Freshness: percentage of menu evidence updated within the target freshness window.
+- Menu update coverage: percentage of active places with a latest menu.
 - User correction rate: number of incorrect food/place matches reported per 100 result views.

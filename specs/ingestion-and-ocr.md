@@ -2,9 +2,9 @@
 
 ## Overview
 
-LetsEat needs a pipeline that turns place data, menu photos, review text, and restaurant websites into searchable food/place evidence.
+LetsEat needs a pipeline that turns place data, menu photos, and restaurant websites into searchable food/place evidence.
 
-The pipeline should be source-aware. A user-uploaded menu photo, an approved API result, and a restaurant website menu have different reliability, rights, freshness, and attribution requirements.
+The pipeline should be source-aware. A user-uploaded menu photo, an approved API result, and a restaurant website menu have different reliability, rights, update behavior, and attribution requirements.
 
 ## Data Sources
 
@@ -22,7 +22,7 @@ The pipeline should be source-aware. A user-uploaded menu photo, an approved API
 
 - Automated scraping of Google Maps pages or review photos.
 - Bulk extraction from copyrighted review images without permission.
-- Storage of data that source terms allow only for display or transient use.
+- Storage of Google review text or other data that source terms allow only for display or transient use.
 
 Before production use, any scraper should go through legal, privacy, and platform review.
 
@@ -140,21 +140,11 @@ Parsed items:
 ]
 ```
 
-## Food Extraction From Reviews
+## Google Reviews
 
-If review text is available through permitted sources:
+The MVP should not ingest, store, or render Google review text. Place pages should show Google rating and review count when available, then hand users off to Google Maps for review reading.
 
-- Run food entity extraction on review text.
-- Link mentions to canonical food terms.
-- Track sentiment only when enough context exists.
-- Avoid over-weighting single mentions.
-- Store review evidence with source and date.
-
-Examples:
-
-- "The tiramisu was excellent" creates positive tiramisu evidence.
-- "They no longer serve waffles" should create an unavailable or negative freshness signal.
-- "Coffee was okay" should not strongly rank the place for every coffee drink.
+Google review text extraction and review-food evidence are deferred until there is a compliant data source and a clear product need.
 
 ## Human Review And Corrections
 
@@ -173,10 +163,11 @@ Admin actions:
 - Merge duplicate item.
 - Mark unavailable.
 - Reject source.
+- Approve a menu replacement as the latest active menu.
 
 ## Pipeline States
 
-Menu source states:
+Menu states:
 
 - `uploaded`
 - `preprocessing`
@@ -184,7 +175,7 @@ Menu source states:
 - `ocr_failed`
 - `parsing_running`
 - `needs_review`
-- `approved`
+- `approved_active`
 - `rejected`
 
 Place ingestion states:
@@ -204,5 +195,5 @@ Track:
 - Parsing success rate.
 - Manual correction rate.
 - Time from upload to searchable.
-- Percentage of places with fresh menu evidence.
+- Percentage of places with an active latest menu.
 - Search queries with no results.

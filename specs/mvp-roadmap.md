@@ -6,10 +6,11 @@ Goal: make the product shape testable with seeded data.
 
 Deliverables:
 
-- Repo scaffold for app, backend, and docs.
+- Repo scaffold for PWA, backend, and docs.
+- Postgres database setup.
 - Seed cafe dataset for one geography.
 - Basic place model.
-- Basic menu item model.
+- Basic latest-menu and menu item models.
 - Manual CSV or admin import for menus.
 - Food search endpoint.
 - List results page.
@@ -27,17 +28,16 @@ Goal: make the core food-first experience usable.
 Deliverables:
 
 - Food search UI with filters and sorting.
-- Place detail page with menu and review sections.
-- Save places.
+- Place detail page with latest menu and Google Maps review handoff.
+- Local saved places without auth.
 - Open in Google Maps.
 - Basic map/list toggle.
-- Auth for saved places.
 - Analytics for search, save, and open-in-maps actions.
 
 Exit criteria:
 
 - Users can search, compare places, save them, and open directions.
-- Search results can be sorted by best match, rating, review count, and distance.
+- Search results can be sorted by relevance, Google review quality, and distance.
 
 ## Phase 2: Menu Photo Upload And OCR
 
@@ -50,11 +50,11 @@ Deliverables:
 - Menu item extraction.
 - User review screen for extracted items.
 - Admin moderation queue.
-- Freshness labels.
+- Latest menu replacement flow.
 
 Exit criteria:
 
-- A submitted menu photo becomes searchable after OCR and approval.
+- An approved submitted menu photo replaces the latest active menu and becomes searchable.
 - Low-confidence OCR is routed to review instead of silently polluting search.
 
 ## Phase 3: External Place Enrichment
@@ -66,7 +66,7 @@ Deliverables:
 - Approved place data integration.
 - Place enrichment jobs.
 - Deduplication tooling.
-- Review display or source links depending on API permissions.
+- Google Maps review links.
 - Restaurant website menu ingestion for selected cafes.
 
 Exit criteria:
@@ -74,22 +74,22 @@ Exit criteria:
 - New cafes can be discovered and enriched without manual database edits.
 - Place pages show provider attribution correctly.
 
-## Phase 4: Food-Specific Ranking
+## Phase 4: Search Quality
 
-Goal: rank places by dish quality and confidence, not only venue quality.
+Goal: make relevance and Google review quality sorts feel trustworthy.
 
 Deliverables:
 
-- Food/place evidence scoring.
-- Review-food mention extraction when permitted.
-- Food-specific badges.
+- Better food alias tables.
+- Relevance tuning.
+- Google review quality sort tuning.
 - User feedback on incorrect results.
-- Ranking analytics and tuning dashboard.
+- Search analytics and tuning dashboard.
 
 Exit criteria:
 
 - For common cafe searches, top results are meaningfully better than simple text search.
-- Users can see why a place ranks highly for a specific food.
+- Users can choose whether they want the most relevant menu match or the strongest Google-reviewed place.
 
 ## Phase 5: Expansion
 
@@ -105,6 +105,7 @@ Deliverables:
 - Cuisine and dietary filters.
 - Multi-language OCR and search.
 - Partner or owner menu submission flow.
+- Account system and synced saved places if needed.
 
 Exit criteria:
 
@@ -115,16 +116,16 @@ Exit criteria:
 - Google Maps scraping may be legally or technically unsuitable.
 - Places APIs may not provide enough menu or review data.
 - OCR quality may be poor for handwritten, reflective, or angled menus.
-- Menus change often and can make stale results misleading.
+- Replacing menus can accidentally remove still-valid items if OCR or moderation misses them.
 - Food synonyms and ambiguous queries can produce noisy matches.
-- Ranking may be biased toward places with more online data rather than better food.
+- Google review quality sort may favor popular places over the most relevant food match.
 
 ## Product Risks
 
 - Users may not trust results without visible evidence.
 - Search may feel empty until enough menu data exists.
 - Cafe-first scope must still feel useful enough to retain users.
-- Saved places may need stronger organization once users save many food-specific places.
+- Local saved places will not sync across devices until auth exists.
 
 ## Open Questions
 

@@ -17,8 +17,8 @@ Let users search for a food, drink, ingredient, or dish and see cafes that likel
   - Rating and review count.
   - Distance or area.
   - Opening status if available.
-  - Matched menu item or review phrase.
-  - Evidence source: menu, review, user photo, business website, or external API.
+  - Matched menu item or OCR phrase.
+  - Evidence source: latest menu, user photo, business website, or external API.
   - Confidence indicator.
 - Allow switching between list and map views.
 - Allow filters:
@@ -29,15 +29,13 @@ Let users search for a food, drink, ingredient, or dish and see cafes that likel
   - Price level if available.
   - Saved only.
 
-### Ranking Inputs
+### Sort Options
 
-- Exact food match in menu item name.
-- Semantic similarity between query and menu item.
-- Frequency and recency of review mentions.
-- Google Maps rating and review count.
-- Distance from user or selected area.
-- Evidence freshness.
-- Source reliability.
+Food search should not use one blended ranking model in the MVP. Users should be able to choose independent sort modes:
+
+- Relevance: exact and partial food matches in the latest menu, with stronger matches first.
+- Google review quality: Google rating and review count, with higher-rated and better-supported places first.
+- Distance: nearest places first when location or map area is available.
 
 ### Empty State
 
@@ -45,7 +43,7 @@ If no exact matches exist, show nearby or related suggestions:
 
 - Similar foods.
 - Broader categories.
-- Places with weak review mentions.
+- Places with weak menu matches.
 - Prompt to upload a menu photo for a known place.
 
 ## 2. Search Results
@@ -62,14 +60,11 @@ Help users compare places quickly and decide where to go.
   - Save.
   - Open in Google Maps.
   - View menu evidence.
-  - View reviews.
+  - Open Google Maps reviews.
 - Users can sort by:
-  - Best match.
-  - Google Maps rank signal.
-  - Rating.
-  - Review count.
+  - Relevance.
+  - Google review quality.
   - Distance.
-  - Recently verified.
 - Users can tap a card to open the place detail page.
 
 ## 3. Place Detail Page
@@ -96,9 +91,8 @@ Show everything needed to verify that a place sells the searched food and decide
   - OCR text view for debugging or transparency.
   - Search within menu.
 - Reviews section:
-  - Google Maps reviews if available through permitted APIs or user-visible links.
-  - Highlighted review mentions of the searched food.
-  - Review date, rating, author display name if permitted by data source.
+  - Button or link to open the place reviews in Google Maps.
+  - No in-app storage or rendering of Google review text for MVP.
 - Photos section:
   - Menu photos.
   - Food photos that include matching OCR or user tags.
@@ -106,28 +100,24 @@ Show everything needed to verify that a place sells the searched food and decide
   - Users can report that an item is unavailable.
   - Users can submit a new menu photo.
 
-## 4. Google Maps Reviews
+## 4. Google Maps Reviews Handoff
 
 ### Goal
 
-Let users inspect review context without manually jumping between apps.
+Let users inspect Google Maps review context through Google Maps instead of storing or rendering reviews in LetsEat.
 
 ### Requirements
 
-- Show reviews associated with a place when data access is permitted.
-- Highlight mentions of the searched food or related terms.
-- Preserve attribution required by the data provider.
-- Link back to the source review/place when required.
-- Do not store or display personal data beyond what the data source permits.
+- Show Google rating and review count on place cards and place detail pages when available.
+- Provide a clear action to open reviews in Google Maps.
+- Use the Google place URL or place ID when available.
+- Do not store Google review text in the MVP.
+- Do not render Google review author names, review bodies, or review snippets in-app.
+- Preserve attribution and provider requirements for Google place data.
 
 ### Notes
 
-Google Places APIs may provide limited review data. If full Google Maps review access is not legally or technically available, the MVP can show:
-
-- A link to open reviews in Google Maps.
-- Permitted review excerpts from approved APIs.
-- User-submitted notes and corrections.
-- Review evidence from licensed or first-party data.
+Review text extraction and review-food evidence are deferred. The MVP can still use Google rating and review count as a sort option.
 
 ## 5. Menu Viewer
 
@@ -149,6 +139,7 @@ Show extracted menus and original menu evidence in a way users can trust.
 - Mark uncertain OCR text.
 - Show last updated date and source.
 - Allow users to search within a menu.
+- Each place has one latest active menu. New approved menu submissions replace the active menu.
 
 ## 6. Take Picture Of Menu
 
@@ -166,8 +157,9 @@ Let users add or refresh menu data for a specified place.
   - Whether prices are visible.
 - App runs OCR and extraction.
 - User can review extracted items before submission.
-- Submission creates a menu evidence record.
-- Admin or automated moderation can approve, reject, or merge the record.
+- Submission creates a pending menu replacement.
+- Admin or automated moderation can approve, reject, or edit the replacement.
+- Approved submissions become the latest active menu for the place.
 
 ### Edge Cases
 
@@ -186,7 +178,8 @@ Let users keep track of places they want to visit or revisit.
 
 ### Requirements
 
-- Save and unsave places from search results and place detail pages.
+- Save and unsave places from search results and place detail pages without signing in.
+- Store saved places locally on the device/browser for MVP.
 - Saved list should show:
   - Place name.
   - Saved food query or reason if applicable.
@@ -200,6 +193,7 @@ Let users keep track of places they want to visit or revisit.
   - Date ideas.
   - Work cafes.
 - Saved places should be filterable by food query.
+- Cross-device sync is deferred until an account system exists.
 
 ## 8. Open In Maps
 
@@ -215,28 +209,27 @@ Move users from discovery to navigation.
 - Track outbound clicks for product analytics.
 - Preserve attribution and provider requirements.
 
-## 9. Restaurant Ranking By Food
+## 9. Food Search Sorting
 
 ### Goal
 
-Rank places specifically for a dish, not just overall venue quality.
+Let users choose whether food results are ordered by menu relevance or Google review quality.
 
 ### Requirements
 
-- For a selected food, compute a food-specific rank.
-- Inputs may include:
-  - Menu match confidence.
-  - Review sentiment around that food.
-  - Number of unique review mentions.
-  - Recency of mentions.
-  - User saves and clicks for that food.
-  - Overall place rating and review count.
-- Show food-specific badges such as:
-  - Strong menu match.
-  - Popular in reviews.
-  - Recently verified.
-  - User favorite.
+- Relevance sort:
+  - Prioritize exact menu item matches.
+  - Then partial menu item matches.
+  - Then alias/synonym matches.
+  - Use OCR/extraction confidence as a tiebreaker.
+- Google review quality sort:
+  - Prioritize places with stronger Google rating and review count.
+  - Use menu relevance as a minimum inclusion filter, not the primary ordering.
+  - Do not imply this is an official Google Maps ranking unless the data source explicitly provides such a rank.
+- Distance sort:
+  - Prioritize nearest matching places.
+  - Require user location permission or a selected map area.
 
 ### MVP Status
 
-Use a simple score for MVP. More sophisticated food-specific ranking can come after enough usage and review evidence exists.
+Keep sort options independent. Do not build a blended food-specific ranking model for MVP.

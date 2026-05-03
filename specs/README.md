@@ -1,12 +1,12 @@
 # LetsEat Specs
 
-LetsEat is a food-first discovery app. Instead of asking "where should I eat?", users ask "where can I get this food?" and the app returns nearby places that appear to sell it, with evidence from menus, review photos, review text, and user-submitted menu images.
+LetsEat is a food-first discovery app. Instead of asking "where should I eat?", users ask "where can I get this food?" and the app returns nearby places that appear to sell it, with evidence from latest menus, OCR, restaurant websites, and user-submitted menu images.
 
 This spec package is split by concern:
 
 - [Product Vision](./product-vision.md): target users, core promise, principles, and scope.
 - [Feature Specs](./feature-specs.md): user-facing requirements for search, place pages, menus, reviews, saved places, maps, and ranking.
-- [Data And Ranking](./data-and-ranking.md): entities, evidence model, food/place ranking, and freshness rules.
+- [Data And Ranking](./data-and-ranking.md): Postgres entities, latest-menu model, food search, and sort options.
 - [Ingestion And OCR](./ingestion-and-ocr.md): menu/photo capture, OCR, parsing, food extraction, and external data considerations.
 - [MVP Roadmap](./mvp-roadmap.md): build phases, milestones, risks, and open questions.
 
@@ -19,8 +19,17 @@ The first version should focus on cafes in one target geography. A narrow launch
 1. User searches for a food or drink, for example `matcha latte`, `croissant`, or `eggs benedict`.
 2. LetsEat finds matching menu items and review evidence across cafe places.
 3. User sees a ranked list or map of cafes selling that item.
-4. User opens a cafe detail page to inspect menu evidence, Google Maps review context, photos, price hints, and opening status.
+4. User opens a cafe detail page to inspect menu evidence, photos, price hints, opening status, and Google rating/review count.
 5. User saves the place or opens it in Google Maps.
+
+## Current Technical Direction
+
+- Platform: Progressive Web App.
+- Database: Postgres.
+- Auth: no account system for MVP.
+- Menus: keep only the latest active menu per place.
+- Reviews: open Google Maps reviews externally instead of storing or rendering reviews in-app.
+- Sorting: offer independent sort modes for relevance and Google review quality.
 
 ## Important Constraint
 
