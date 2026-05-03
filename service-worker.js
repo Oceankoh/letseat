@@ -1,12 +1,12 @@
 "use strict";
 
-const CACHE_NAME = "letseat-static-v2";
+const CACHE_NAME = "letseat-static-v7";
 const ASSETS = [
   "./",
   "./index.html",
-  "./styles.css",
-  "./app.js",
-  "./data/seed-cafes.json",
+  "./styles.css?v=real-data-1",
+  "./app.js?v=real-data-1",
+  "./data/real-cafes.json",
   "./manifest.webmanifest",
   "./assets/icons/letseat-icon.svg"
 ];
@@ -30,13 +30,14 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
   event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) return cached;
-      return fetch(event.request).then((response) => {
+    fetch(event.request).then((response) => {
+      if (response.ok) {
         const copy = response.clone();
         caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
-        return response;
-      });
+      }
+      return response;
+    }).catch(() => {
+      return caches.match(event.request);
     })
   );
 });

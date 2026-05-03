@@ -1,6 +1,6 @@
 "use strict";
 
-const DATA_URL = "data/seed-cafes.json";
+const DATA_URL = "data/real-cafes.json";
 const SAVED_KEY = "letseat.savedPlaces.v1";
 const SINGAPORE_CENTER = { latitude: 1.2897, longitude: 103.8501 };
 

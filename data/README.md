@@ -5,6 +5,7 @@ This folder contains practical data for the Singapore cafe-first MVP. It include
 ## Files
 
 - `seed-cafes.json`: seed cafes, latest active menus, menu images, food terms, and food-place evidence.
+- `real-cafes.json`: static PWA data export generated from the local Postgres database.
 - `imports/`: generated Google Places import artifacts. The generated JSON and SQL files are ignored because they may be large or environment-specific.
 - `menu-research/`: manually or agentically researched menu batches. These are source-attributed snapshots used to populate latest active menus in the local database.
 

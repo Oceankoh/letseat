@@ -5,7 +5,7 @@ LetsEat is a food-first cafe discovery PWA. Search for the food or drink you wan
 ## MVP Direction
 
 - Platform: dependency-free Progressive Web App.
-- Data: seeded cafe/menu JSON for the first prototype.
+- Data: static real-data export from local Postgres for the current prototype.
 - Database target: Postgres schema in `db/schema.sql`.
 - Auth: none for MVP.
 - Saved places: local browser storage.
@@ -36,6 +36,12 @@ docker compose down
 ```
 
 Postgres also runs in Docker. The schema in `db/schema.sql` is mounted into the Postgres init directory and applied when the database volume is first created.
+
+The PWA reads `data/real-cafes.json`, a static export generated from the local Postgres data. After importing or changing menu data, refresh the export:
+
+```sh
+node scripts/export-static-data.mjs
+```
 
 ## Import Real Singapore Cafes
 
