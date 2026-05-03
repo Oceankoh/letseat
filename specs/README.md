@@ -27,6 +27,7 @@ The first version should focus on cafes in one target geography while establishi
 ## Current Technical Direction
 
 - Platform: Progressive Web App.
+- App icon: friendly lion eating icon, with the source asset in [`../assets/app-icon.svg`](../assets/app-icon.svg).
 - Database: Postgres.
 - Auth: no account system for MVP.
 - Menus: keep only the latest active menu per place.
