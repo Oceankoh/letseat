@@ -1,0 +1,62 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LetsEat app icon</title>
+  <desc id="desc">A friendly lion eating from a bowl, used as the LetsEat application icon.</desc>
+  <defs>
+    <clipPath id="app-shape">
+      <rect width="512" height="512" rx="112"/>
+    </clipPath>
+    <linearGradient id="bg" x1="70" y1="42" x2="442" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFCB5C"/>
+      <stop offset="0.55" stop-color="#F97945"/>
+      <stop offset="1" stop-color="#D84936"/>
+    </linearGradient>
+    <linearGradient id="mane" x1="114" y1="106" x2="398" y2="422" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B85A23"/>
+      <stop offset="1" stop-color="#753516"/>
+    </linearGradient>
+    <linearGradient id="face" x1="166" y1="132" x2="346" y2="368" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD47A"/>
+      <stop offset="1" stop-color="#F59B3A"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#app-shape)">
+    <rect width="512" height="512" fill="url(#bg)"/>
+    <circle cx="95" cy="86" r="48" fill="#FFE8A3" opacity="0.32"/>
+    <circle cx="425" cy="96" r="68" fill="#FFE8A3" opacity="0.18"/>
+    <circle cx="438" cy="411" r="96" fill="#8D2C25" opacity="0.18"/>
+
+    <path d="M156 138c-30 7-53 37-50 69 3 29 28 48 57 45l22-94-29-20Z" fill="#6E3214"/>
+    <path d="M356 138c30 7 53 37 50 69-3 29-28 48-57 45l-22-94 29-20Z" fill="#6E3214"/>
+    <path d="M257 84c-93 0-169 74-169 166 0 94 76 170 169 170 92 0 167-76 167-170 0-92-75-166-167-166Z" fill="url(#mane)"/>
+
+    <path d="M144 228c-22 5-41 19-51 39 7 6 18 10 30 11-16 16-23 36-20 57 20-1 39-10 53-24 1 25 15 48 39 60 12-15 18-33 17-52l88 1c-1 19 5 37 17 52 24-12 38-35 39-60 14 14 33 23 53 24 3-21-4-41-20-57 12-1 23-5 30-11-10-20-29-34-51-39-8-83-51-131-112-131-61 0-104 48-112 130Z" fill="#8B3F19"/>
+    <path d="M256 128c-71 0-119 56-119 137 0 78 49 129 119 129s119-51 119-129c0-81-48-137-119-137Z" fill="url(#face)"/>
+
+    <path d="M185 211c9-18 25-28 45-29-9-17-28-28-48-26-17 2-31 13-36 29 16-1 29 8 39 26Z" fill="#F4A23A"/>
+    <path d="M327 211c-9-18-25-28-45-29 9-17 28-28 48-26 17 2 31 13 36 29-16-1-29 8-39 26Z" fill="#F4A23A"/>
+
+    <circle cx="209" cy="241" r="14" fill="#3E2519"/>
+    <circle cx="303" cy="241" r="14" fill="#3E2519"/>
+    <circle cx="214" cy="236" r="4" fill="#FFF4D9"/>
+    <circle cx="308" cy="236" r="4" fill="#FFF4D9"/>
+
+    <path d="M239 276c0-9 8-16 17-16s17 7 17 16c0 10-8 18-17 18s-17-8-17-18Z" fill="#5B2A18"/>
+    <path d="M256 292v21" stroke="#5B2A18" stroke-width="10" stroke-linecap="round"/>
+    <path d="M233 315c12 16 34 17 47 0" stroke="#5B2A18" stroke-width="10" stroke-linecap="round"/>
+
+    <path d="M168 332c16 55 47 82 88 82s72-27 88-82H168Z" fill="#FFF2D0"/>
+    <path d="M174 333h164c-6 42-36 70-82 70s-76-28-82-70Z" fill="#F9A73B"/>
+    <path d="M196 335c7 32 28 50 60 50s53-18 60-50H196Z" fill="#F14B3B"/>
+
+    <path d="M133 309c36 18 78 27 123 27s87-9 123-27" stroke="#FFF2D0" stroke-width="18" stroke-linecap="round"/>
+    <path d="M147 311c35 11 72 17 109 17s74-6 109-17" stroke="#D94A37" stroke-width="10" stroke-linecap="round"/>
+
+    <path d="M353 157l19-52" stroke="#FFF2D0" stroke-width="14" stroke-linecap="round"/>
+    <path d="M385 89l-4 58" stroke="#FFF2D0" stroke-width="10" stroke-linecap="round"/>
+    <path d="M403 95l-14 55" stroke="#FFF2D0" stroke-width="10" stroke-linecap="round"/>
+    <path d="M420 104l-24 51" stroke="#FFF2D0" stroke-width="10" stroke-linecap="round"/>
+    <path d="M171 163c-19 23-31 53-33 88" stroke="#FFE3A0" stroke-width="13" stroke-linecap="round" opacity="0.45"/>
+    <path d="M256 105c39 0 72 14 95 40" stroke="#FFE3A0" stroke-width="13" stroke-linecap="round" opacity="0.3"/>
+  </g>
+</svg>

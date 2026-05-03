@@ -26,12 +26,13 @@ The pipeline should be source-aware. A user-uploaded menu photo, an approved API
 
 Before production use, any scraper should go through legal, privacy, and platform review.
 
-## Place Discovery For Cafes
+## Place Discovery By Category
 
 MVP place discovery should support:
 
 - A target city or neighborhood.
-- Search category: cafes.
+- A controlled place category, starting with cafes and expanding to restaurants, bakeries, dessert shops, hawker stalls, and food courts.
+- Category metadata that powers search tabs and category-scoped result counts.
 - Deduplication by Google Place ID when available.
 - Basic place attributes:
   - Name.
