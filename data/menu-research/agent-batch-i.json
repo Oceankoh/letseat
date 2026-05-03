@@ -1,0 +1,302 @@
+[
+  {
+    "place_id": "google_burnt_cones_gelato_nus_md11_acb457b4d7",
+    "place_name": "Burnt Cones Gelato (NUS MD11)",
+    "source_url": "https://www.burntcones.com/menu?menu=dinner-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Official Burnt Cones locations page confirms the NUS MD11 outlet at 10 Medical Drive, MD11 #01-40. The official online menu page is labelled Sunset Way, so representative gelato, cone and waffle items may vary by outlet.",
+    "items": [
+      {
+        "name": "Strawberry Sorbet",
+        "category": "Pints",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "437ml strawberry sorbet made with real strawberries.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Stracciatella",
+        "category": "Pints",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "437ml milk gelato with flakes of 55% dark chocolate.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "85% Dark Chocolate",
+        "category": "Pints",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "437ml dark chocolate gelato made with 85% Valrhona chocolate.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pistachio",
+        "category": "Pints",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "437ml gelato made with roasted Sicilian pistachios.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Black Sesame",
+        "category": "Pints",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "437ml gelato made with toasted black sesame seeds.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Coconut Lychee",
+        "category": "Pints",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "437ml coconut gelato with lychee pieces.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Burnt Cone",
+        "category": "Cones",
+        "price_cents": 200,
+        "currency": "SGD",
+        "description": "Signature handmade cone with caramelised flavour.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Buttermilk Waffle",
+        "category": "Waffles",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Crisp buttermilk waffle for pairing with gelato or toppings.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_hangar66_cafe_418ce09167",
+    "place_name": "Hangar66 Cafe",
+    "source_url": "https://www.timeout.com/singapore/restaurants/hangar66-cafe",
+    "source_type": "credible_public_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.62,
+    "notes": "Could not find a current first-party menu page. Time Out and other public Singapore dining writeups list representative aviation-themed dishes and prices; prices may be historical or have changed.",
+    "items": [
+      {
+        "name": "Grilled Chicken",
+        "category": "Mains",
+        "price_cents": 1366,
+        "currency": "SGD",
+        "description": "Western-style grilled chicken plate.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Wagyu Beef Burger",
+        "category": "Burgers",
+        "price_cents": 1866,
+        "currency": "SGD",
+        "description": "Wagyu beef burger.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Tom Yum Pasta",
+        "category": "Pasta",
+        "price_cents": 1566,
+        "currency": "SGD",
+        "description": "Pasta tossed with tom yum sauce.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Turkey Bacon Pasta",
+        "category": "Pasta",
+        "price_cents": 1366,
+        "currency": "SGD",
+        "description": "Pasta with turkey bacon.",
+        "dietary_tags": []
+      },
+      {
+        "name": "First Solo Big Breakfast",
+        "category": "All-Day Breakfast",
+        "price_cents": 1366,
+        "currency": "SGD",
+        "description": "All-day breakfast with omelette and French toast.",
+        "dietary_tags": []
+      },
+      {
+        "name": "V2 French Toast",
+        "category": "Desserts",
+        "price_cents": 1366,
+        "currency": "SGD",
+        "description": "French toast served with mixed berries and crispy bacon.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Coffee",
+        "category": "Beverages",
+        "price_cents": 366,
+        "currency": "SGD",
+        "description": "Cafe coffee beverage.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Hot Chocolate",
+        "category": "Beverages",
+        "price_cents": 566,
+        "currency": "SGD",
+        "description": "Hot chocolate beverage.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_rise_and_grind_coffee_co_dc9603f7f2",
+    "place_name": "Rise & Grind Coffee Co.",
+    "source_url": "https://www.foodpanda.sg/chain/cr7gj/rise",
+    "source_type": "third_party_delivery",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Foodpanda page is for Rise & Grind Coffee Co. (Punggol) and lists current delivery categories, item names, descriptions and prices. Official site confirms the Oasis Terraces outlet and links to a menu page, but that menu is image-based in the captured text.",
+    "items": [
+      {
+        "name": "Truffle Fries",
+        "category": "Appetizer",
+        "price_cents": 1190,
+        "currency": "SGD",
+        "description": "Fries with truffle oil and parmesan cheese.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fried Cauliflower",
+        "category": "Appetizer",
+        "price_cents": 1290,
+        "currency": "SGD",
+        "description": "Fried cauliflower with citrus gochujang and parmesan cheese.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Classic Caesar Salad",
+        "category": "Soup and Salad",
+        "price_cents": 1490,
+        "currency": "SGD",
+        "description": "Lettuce, egg, tomato, parmesan, croutons and Caesar dressing.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Avocado Toast (Vegan)",
+        "category": "Breakfast And Brunch",
+        "price_cents": 1890,
+        "currency": "SGD",
+        "description": "Guacamole, feta, spinach, tomatoes, dukkah, poached eggs and sourdough toast.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Big Brekkie",
+        "category": "Breakfast And Brunch",
+        "price_cents": 2190,
+        "currency": "SGD",
+        "description": "Pork bratwurst, bacon, mushrooms, guacamole, tomatoes, poached eggs and sourdough toast.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Pulled Pork Benedict",
+        "category": "Breakfast And Brunch",
+        "price_cents": 2090,
+        "currency": "SGD",
+        "description": "BBQ pork shoulder, spinach, green apple, hollandaise, poached eggs and sourdough toast.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Strawberry Brioche French Toast",
+        "category": "Breakfast And Brunch",
+        "price_cents": 1790,
+        "currency": "SGD",
+        "description": "French toast with fresh strawberries, butter and maple syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Latte",
+        "category": "Hot Beverages",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Espresso with steamed and foamed milk.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_anna_s_bd97752e8f",
+    "place_name": "Anna's",
+    "source_url": "https://betterforme.shop/e-menu/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.94,
+    "notes": "Official Anna's e-menu lists cafe, bakery and restaurant items with prices. Official about page confirms Anna's locations including Oasis Terraces, NUS x Union and Punggol Coast Mall.",
+    "items": [
+      {
+        "name": "Oasis Classic",
+        "category": "Healthy Start & Toasties",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Sourdough toast with cultured butter and berry compote.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Spring Avocado Toast",
+        "category": "Healthy Start & Toasties",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Avocado toast with mushroom parfait, beet miso hummus, sprouts and dukkah.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Anna's French Toast",
+        "category": "Healthy Start & Toasties",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Chocolate rye sourdough French toast with granola, berry compote and fruit.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Veggie ALL-IN Brekkie",
+        "category": "Healthy Start & Toasties",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Falafel, hash browns, hummus, avocado, beans, eggs and sourdough.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Tomato Bisque",
+        "category": "Soups",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Tomato bisque served with sourdough slices.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Anna's Harvest Bowl",
+        "category": "Sides & Salads",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Mushrooms, kale, quinoa, corn, almonds, tomatoes, carrot and basil vinaigrette.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Green Chilli Prawn Aglio Olio",
+        "category": "Handmade Sourdough Pasta",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Sourdough pasta with green chilli prawns, pesto, garlic confit and parmesan.",
+        "dietary_tags": ["spicy", "shellfish"]
+      },
+      {
+        "name": "Margherita",
+        "category": "Handmade Sourdough Pizza",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "12-inch sourdough pizza with tomato basil sauce, mozzarella, arugula and basil pesto.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

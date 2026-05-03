@@ -1,0 +1,366 @@
+[
+  {
+    "place_id": "google_ah_chiang_s_porridge_238a8bb61f",
+    "place_name": "Ah Chiang's Porridge",
+    "source_url": "https://deliveroo.com.sg/menu/Singapore/tiong-bahru/ah-chiangs-porridge-tiong-bahru",
+    "source_type": "delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Deliveroo public delivery menu for the Tiong Bahru outlet provided current extractable item names and prices; delivery prices may differ from dine-in prices. Older public menu pages were used only to sanity-check core item names.",
+    "items": [
+      {
+        "name": "P1 Mixed Pork Porridge",
+        "category": "Porridge",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Pork offal porridge.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "P6 Pork Ball Porridge",
+        "category": "Porridge",
+        "price_cents": 780,
+        "currency": "SGD",
+        "description": "Porridge with pork balls.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "P5 Sliced Meat Porridge",
+        "category": "Porridge",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Porridge with sliced pork.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Chicken Porridge",
+        "category": "Porridge",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Porridge with shredded chicken.",
+        "dietary_tags": []
+      },
+      {
+        "name": "P4 Minced Meat Porridge",
+        "category": "Porridge",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Porridge with minced pork.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "C3 Century Egg Mixed Pork Porridge",
+        "category": "Porridge",
+        "price_cents": 1040,
+        "currency": "SGD",
+        "description": "Century egg porridge with mixed pork.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "C2 Century Egg Fish Porridge",
+        "category": "Porridge",
+        "price_cents": 780,
+        "currency": "SGD",
+        "description": "Century egg porridge with fish slices.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "C7 Century Egg Cuttlefish Porridge",
+        "category": "Porridge",
+        "price_cents": 780,
+        "currency": "SGD",
+        "description": "Century egg porridge with cuttlefish.",
+        "dietary_tags": ["seafood"]
+      },
+      {
+        "name": "F2 Fish With Mixed Pork Porridge",
+        "category": "Porridge",
+        "price_cents": 1040,
+        "currency": "SGD",
+        "description": "Fish porridge with mixed pork.",
+        "dietary_tags": ["fish", "pork"]
+      },
+      {
+        "name": "S2 Fried Egg",
+        "category": "Side Dish",
+        "price_cents": 1130,
+        "currency": "SGD",
+        "description": "Fried egg side dish.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_zai_shun_curry_fish_head_254898b1ad",
+    "place_name": "Zai Shun Curry Fish Head",
+    "source_url": "https://guide.michelin.com/sg/en/article/dining-out/Behind_the_Bib_Zai_Shun_Curry_Fish_Head",
+    "source_type": "editorial_menu_reference",
+    "captured_at": "2026-05-03",
+    "confidence": 0.72,
+    "notes": "No official extractable menu was found. Michelin's Behind the Bib article confirms signature dishes and starting prices for steamed fish and curry fish head; Eatbook and Nova Circle were used as secondary checks for recent item names and variable prices.",
+    "items": [
+      {
+        "name": "Curry Fish Head",
+        "category": "Signature",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Red snapper fish head in tangy assam curry; listed as from this price.",
+        "dietary_tags": ["fish", "spicy"]
+      },
+      {
+        "name": "Steamed Fish",
+        "category": "Seafood",
+        "price_cents": 1000,
+        "currency": "SGD",
+        "description": "Fresh fish steamed to order; price varies by fish type and weight.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Hong Kong Style Steamed Fish",
+        "category": "Seafood",
+        "price": null,
+        "currency": "SGD",
+        "description": "Fresh fish steamed Cantonese style with soy-based sauce.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Teochew Style Steamed Fish",
+        "category": "Seafood",
+        "price": null,
+        "currency": "SGD",
+        "description": "Fresh fish steamed Teochew style.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Bitter Gourd with Fried Egg",
+        "category": "Vegetable",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Bitter gourd cooked with fried egg.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Dong Po Pork",
+        "category": "Pork",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Braised pork belly with soy sauce and spices.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Braised Pork Trotter",
+        "category": "Pork",
+        "price": null,
+        "currency": "SGD",
+        "description": "Braised pork trotter, a popular cooked dish.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Crispy Prawn Roll",
+        "category": "Side Dish",
+        "price": null,
+        "currency": "SGD",
+        "description": "Crispy prawn roll side dish.",
+        "dietary_tags": ["seafood"]
+      },
+      {
+        "name": "Rice",
+        "category": "Staple",
+        "price_cents": 100,
+        "currency": "SGD",
+        "description": "Steamed rice served with dishes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Porridge",
+        "category": "Staple",
+        "price_cents": 100,
+        "currency": "SGD",
+        "description": "Plain porridge served with dishes.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_tong_ah_eating_house_e05c5b00ca",
+    "place_name": "Tong Ah Eating House",
+    "source_url": "https://www.quandoo.sg/hk/place/tong-ah-eating-house-88420/menu",
+    "source_type": "public_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.76,
+    "notes": "Quandoo's public menu lists current zi char dishes and size prices; Eatbook was used as a secondary source for breakfast toast item prices. Some item prices are represented by the medium size where the menu lists S/M/L.",
+    "items": [
+      {
+        "name": "Mongolian Prawn",
+        "category": "Seafood",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Prawns in Mongolian-style sauce; medium size price.",
+        "dietary_tags": ["seafood"]
+      },
+      {
+        "name": "Coffee Ribs",
+        "category": "Meat",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Pork ribs with coffee sauce; medium size price.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Braised Pork",
+        "category": "Meat",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Braised Dong Po-style pork; small size price.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Pig Trotters",
+        "category": "Meat",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Braised pig trotters.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Fragrant Bean Curd",
+        "category": "Bean Curd",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "House fragrant bean curd; medium size price.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Nai Bai",
+        "category": "Vegetable",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Stir-fried nai bai vegetable; medium size price.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Prawn Paste Chicken",
+        "category": "Meat",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Chicken fried with prawn paste; medium size price.",
+        "dietary_tags": ["seafood"]
+      },
+      {
+        "name": "Crispy Thin Toast Kaya",
+        "category": "Breakfast",
+        "price_cents": 260,
+        "currency": "SGD",
+        "description": "Thin crispy toast with kaya.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Traditional Kaya Toast",
+        "category": "Breakfast",
+        "price_cents": 220,
+        "currency": "SGD",
+        "description": "Traditional toast with kaya.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "French Toast with Kaya",
+        "category": "Breakfast",
+        "price_cents": 400,
+        "currency": "SGD",
+        "description": "French toast served with kaya and butter.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_chin_mee_chin_confectionery_36c43775d5",
+    "place_name": "Chin Mee Chin Confectionery",
+    "source_url": "https://www.chinmeechin.sg/menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "notes": "Official restaurant menu confirms item names and categories, but the public menu page does not show prices for these items, so prices are set to null.",
+    "items": [
+      {
+        "name": "Kaya Toast Set",
+        "category": "Breakfast",
+        "price": null,
+        "currency": "SGD",
+        "description": "Kaya toast set with two eggs and a hot drink.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Peanut Butter Toast Set",
+        "category": "Breakfast",
+        "price": null,
+        "currency": "SGD",
+        "description": "Peanut butter toast set with two eggs and a hot drink.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Curry Chicken Rice",
+        "category": "Mains",
+        "price": null,
+        "currency": "SGD",
+        "description": "Chicken curry served with rice.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Hainanese Pork Chop Rice",
+        "category": "Mains",
+        "price": null,
+        "currency": "SGD",
+        "description": "Hainanese pork chop served with rice.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Braised Beef Stew Rice",
+        "category": "Mains",
+        "price": null,
+        "currency": "SGD",
+        "description": "Braised beef stew served with rice.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Chicken Rendang Puff",
+        "category": "Pastries",
+        "price": null,
+        "currency": "SGD",
+        "description": "Pastry puff filled with chicken rendang.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Kaya Custard Puff",
+        "category": "Pastries",
+        "price": null,
+        "currency": "SGD",
+        "description": "Pastry puff filled with kaya custard.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Sugee Cake",
+        "category": "Pastries",
+        "price": null,
+        "currency": "SGD",
+        "description": "Eurasian almond cake listed as containing alcohol.",
+        "dietary_tags": ["vegetarian", "nuts", "alcohol"]
+      },
+      {
+        "name": "Otah Bun",
+        "category": "Bread",
+        "price": null,
+        "currency": "SGD",
+        "description": "Bread bun filled with otah.",
+        "dietary_tags": ["fish", "spicy"]
+      },
+      {
+        "name": "Homemade Kaya 200g / 400g",
+        "category": "Take Me Home",
+        "price": null,
+        "currency": "SGD",
+        "description": "Housemade kaya sold in 200g and 400g jars.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

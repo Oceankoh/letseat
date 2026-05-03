@@ -12,7 +12,7 @@ This spec package is split by concern:
 
 ## MVP Focus
 
-The first version should focus on cafes in one target geography. A narrow launch area makes crawling, ranking, deduplication, and manual QA tractable while still proving the core food-first workflow.
+The first version should focus on cafes in Singapore. A narrow launch geography makes crawling, ranking, deduplication, and manual QA tractable while still proving the core food-first workflow.
 
 ## Core User Flow
 
@@ -34,3 +34,5 @@ The first version should focus on cafes in one target geography. A narrow launch
 ## Important Constraint
 
 Google Maps data access must be designed carefully. Direct scraping may violate Google Maps terms and can be unreliable. The product should prefer approved APIs, user-submitted photos, partner menus, public business websites, and explicitly licensed data. Any scraper or enrichment job should be reviewed for legal, platform, and privacy risk before production use.
+
+Any real data importer can incur cost. Seed data has no external cost, but Google Places, OCR providers, proxy services, hosted browser automation, or LLM extraction may bill by request or usage. Importers must include request limits, dry-run mode, caching, and explicit approval before scheduled or bulk runs.

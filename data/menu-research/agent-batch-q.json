@@ -1,0 +1,366 @@
+[
+  {
+    "place_id": "google_two_men_bagel_house_novena_1161c90033",
+    "place_name": "Two Men Bagel House Novena",
+    "source_url": "https://www.twomenbagels.com/nov-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "notes": "Official Novena menu image confirms the branch menu and in-store prices. Item descriptions were checked against the same menu image and the Novena Deliveroo listing where text was clearer.",
+    "items": [
+      {
+        "name": "Luxe",
+        "category": "Bagelwiches",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Smoked salmon bagel with scallion cream cheese, tomato, cucumber, red onion, capers and lemon vinaigrette.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Sunday Best",
+        "category": "Bagelwiches",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Fennel pork patty with double cheddar, sunny egg, garlic aioli and onion marmalade.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Personal Best",
+        "category": "Bagelwiches",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Spam, sunny egg, hashbrown, peanut butter and spicy aioli.",
+        "dietary_tags": ["pork", "nuts", "spicy"]
+      },
+      {
+        "name": "All My Exes",
+        "category": "Bagelwiches",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Smoked pulled pork with pepper jack, green mango slaw, pickled onion and sunny egg.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Ham Bao Bao",
+        "category": "Bagelwiches",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Smoked chicken ham with emmental, mixed berry jam, arugula, tomato, balsamic glaze and pistachio pesto.",
+        "dietary_tags": ["nuts"]
+      },
+      {
+        "name": "Kayla",
+        "category": "Bagelwiches",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Smoked chicken ham with chicken floss, Thai basil mayo and smoked gochujang.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Falafel Superbowl",
+        "category": "Superbowl",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Falafel bowl with mesclun, arugula, red onion, tomato and pickles.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chicken Superbowl",
+        "category": "Superbowl",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Fried chicken bowl with mesclun, arugula, red onion, tomato and pickles.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Double Espresso",
+        "category": "Coffee",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Double espresso.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Fresh Lemonade",
+        "category": "Thirst Quenchers",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "House lemonade.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_plain_vanilla_tiong_bahru_fd09c9fda1",
+    "place_name": "Plain Vanilla Tiong Bahru",
+    "source_url": "https://plainvanilla.com.sg/pages/stores",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official stores page links the Tiong Bahru menu and confirms the flagship carries the largest selection of bakes, daily brunch, hot food, deli, coffee and bakes. Representative bake prices and descriptions are from official Plain Vanilla product pages.",
+    "items": [
+      {
+        "name": "Box of 6 Cupcakes - Favourites",
+        "category": "Cupcakes",
+        "price_cents": 3161,
+        "currency": "SGD",
+        "description": "Six assorted favourite cupcakes including Salted Caramel, Chocolate Hazelnut and Red Velvet.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Box of 6 Cupcakes - Pick & Mix Flavours",
+        "category": "Cupcakes",
+        "price_cents": 3161,
+        "currency": "SGD",
+        "description": "Customisable box of six cupcakes from mainstay and monthly flavours.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Box of 12 Mini Cupcakes",
+        "category": "Cupcakes",
+        "price_cents": 2562,
+        "currency": "SGD",
+        "description": "Twelve mini cupcakes in assorted or single flavours.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Chocolate Truffle Layer Cake",
+        "category": "Whole Cakes",
+        "price_cents": 4578,
+        "currency": "SGD",
+        "description": "Chocolate cake with Valrhona cocoa and dark chocolate truffle ganache.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Peanut Butter Banana Layer Cake",
+        "category": "Whole Cakes",
+        "price_cents": 4578,
+        "currency": "SGD",
+        "description": "Banana chocolate chip cake with dark chocolate fudge and peanut butter cream cheese frosting.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Breakfast Bakes Box",
+        "category": "Bakes Boxes",
+        "price_cents": 2725,
+        "currency": "SGD",
+        "description": "Breakfast box with loaf cake, galette, muffin and shortbread.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Best of Bakes Box",
+        "category": "Bakes Boxes",
+        "price_cents": 3815,
+        "currency": "SGD",
+        "description": "Box with savoury tart, loaf cake slice, brownie, cookie and breakfast muffin.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mini Butter Croissants Party Platter",
+        "category": "Catering",
+        "price_cents": 1962,
+        "currency": "SGD",
+        "description": "Party platter of nine mini butter croissants.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mini Savoury Tarts Party Platter",
+        "category": "Catering",
+        "price_cents": 4142,
+        "currency": "SGD",
+        "description": "Party platter of twelve mini savoury tarts.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mini Chocolatines Party Platter",
+        "category": "Catering",
+        "price_cents": 2180,
+        "currency": "SGD",
+        "description": "Party platter of eight mini chocolatines.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_keong_saik_bakery_10690b3d11",
+    "place_name": "Keong Saik Bakery",
+    "source_url": "https://www.keongsaikbakery.com/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "notes": "Official bakery site and official Jewel menu page were used. Prices are from official product listings; the Jewel menu page confirms in-store categories such as viennoiserie, sandwiches, cakes and loaves.",
+    "items": [
+      {
+        "name": "Sor Hei",
+        "category": "Best Sellers",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Signature pastry inspired by the Shunde women's hair bun.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Strawberry & Cream Cheese Bun - Spring Creations",
+        "category": "Buns",
+        "price_cents": 460,
+        "currency": "SGD",
+        "description": "Strawberry bun with strawberry and raspberry cream cheese filling and dried cranberry bits.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Neapolitan Cake",
+        "category": "Sliced Cakes",
+        "price_cents": 990,
+        "currency": "SGD",
+        "description": "Sliced cake with strawberry, vanilla and chocolate flavours.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Seashore 2.0",
+        "category": "Sliced Cakes",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Locally inspired sliced cake.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "24K Magic Tart (Sliced)",
+        "category": "Tarts",
+        "price_cents": 1040,
+        "currency": "SGD",
+        "description": "Sliced tart from the bakery's best-seller range.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Cactus Tart",
+        "category": "Tarts",
+        "price_cents": 1070,
+        "currency": "SGD",
+        "description": "Individual tart from the bakery's best-seller range.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Jalapeno Focaccia with Cheddar (3pcs)",
+        "category": "Loaves",
+        "price_cents": 970,
+        "currency": "SGD",
+        "description": "Sourdough focaccia with jalapeno, cheddar and Italian herbs.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Pandan Chiffon (180 gm)",
+        "category": "Ambient Cakes",
+        "price_cents": 1090,
+        "currency": "SGD",
+        "description": "Mini pandan chiffon cake with pandan juice and coconut milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Wagyu Beef Buah Keluak",
+        "category": "Lunch Bento Boxes",
+        "price_cents": 2350,
+        "currency": "SGD",
+        "description": "Wagyu beef bowl with buah keluak sauce, stewed carrot and quail egg.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mini Chocolate Banana Clairssant",
+        "category": "Clairssants",
+        "price_cents": 430,
+        "currency": "SGD",
+        "description": "Mini croissant-eclair pastry with chocolate banana filling.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_bread_yard_0a174c80e1",
+    "place_name": "Bread Yard",
+    "source_url": "https://breadyard.oddle.me/en_SG/",
+    "source_type": "delivery_platform",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Official Bread Yard site confirms the venue and menu page, but the public text menu is image-light. Oddle ordering and Deliveroo were used for item names, prices and descriptions.",
+    "items": [
+      {
+        "name": "Avocado Sourdough",
+        "category": "Weekday Brunch",
+        "price_cents": 480,
+        "currency": "SGD",
+        "description": "Avocado sourdough brunch item.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Sausage Eggs & Tomatoes",
+        "category": "Weekday Brunch",
+        "price_cents": 1440,
+        "currency": "SGD",
+        "description": "Sausage, eggs and tomatoes brunch plate.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Ham & Cheese Croissant",
+        "category": "Weekday Brunch",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Honey-baked ham, apple slices, cheddar, queso and hollandaise in a croissant.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Meatball Shakshuka",
+        "category": "Weekday Brunch",
+        "price_cents": 1920,
+        "currency": "SGD",
+        "description": "Shakshuka with beef and pork meatballs, feta, eggs and bread.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Bacon Eggs & Tater Tots",
+        "category": "Weekday Brunch",
+        "price_cents": 1440,
+        "currency": "SGD",
+        "description": "Scrambled eggs with bacon, tater tots and grilled sourdough.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Pulled Pork & Parma Ham Eggs Benedict",
+        "category": "Weekday Brunch",
+        "price_cents": 2160,
+        "currency": "SGD",
+        "description": "Pulled pork with poached eggs, hollandaise, parma ham, peri-peri sauce and brioche.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Aglio Olio",
+        "category": "Pasta",
+        "price_cents": 960,
+        "currency": "SGD",
+        "description": "Spaghetti with extra virgin olive oil, garlic, chili and parsley.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Spicy Fried Chicken Burger",
+        "category": "Sandwiches",
+        "price_cents": 1440,
+        "currency": "SGD",
+        "description": "Buttermilk spicy fried chicken with cheddar, dill pickles, hot mayo and brioche bun.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Sourdough Country",
+        "category": "Breads",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Pre-sliced country sourdough loaf with wheat flour, levain and wholemeal flour.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Cruffin Box (2pcs)",
+        "category": "Pastries",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Box of two cruffins with selectable flavours such as chocolate hazelnut, matcha or passionfruit.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

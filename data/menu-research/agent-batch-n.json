@@ -1,0 +1,302 @@
+[
+  {
+    "place_id": "google_the_coffee_bean_and_tea_leaf_04923c8bf4",
+    "place_name": "The Coffee Bean & Tea Leaf Katong",
+    "source_url": "https://sg.pricelisto.com/menu-prices/the-coffee-bean-tea-leaf-sg",
+    "source_type": "public_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.74,
+    "notes": "Official Coffee Bean cafe menu page confirms core beverage categories, but prices were not exposed in text. Representative Singapore prices were taken from PriceListo's Coffee Bean Singapore menu and spot-checked against current Deliveroo Coffee Bean Singapore outlet menus; availability may vary by outlet.",
+    "items": [
+      {
+        "name": "Egg Club Sandwich",
+        "category": "All-Day Breakfast",
+        "price_cents": 1390,
+        "currency": "SGD",
+        "description": "Turkey ham, eggs, cheddar cheese and ciabatta bread.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Buttermilk Pancakes",
+        "category": "All-Day Breakfast",
+        "price_cents": 1490,
+        "currency": "SGD",
+        "description": "Pancakes served with scrambled eggs, hash browns and maple syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Breakfast Platter",
+        "category": "All-Day Breakfast",
+        "price_cents": 1690,
+        "currency": "SGD",
+        "description": "Scrambled eggs with turkey ham, toast and hash brown.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Avocado and Pomegranate Toast",
+        "category": "All-Day Breakfast",
+        "price_cents": 1490,
+        "currency": "SGD",
+        "description": "Toast with scrambled eggs, hash browns and seasonal fruit.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Caesar Salad",
+        "category": "Salads",
+        "price_cents": 1190,
+        "currency": "SGD",
+        "description": "Romaine lettuce with parmesan, egg, croutons and Caesar dressing.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Café Latte (Regular)",
+        "category": "Signature Lattes",
+        "price_cents": 760,
+        "currency": "SGD",
+        "description": "Regular espresso-based latte.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Salted Caramel Latte (Regular)",
+        "category": "Signature Lattes",
+        "price_cents": 860,
+        "currency": "SGD",
+        "description": "Regular latte with salted caramel flavour.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Americano (Regular)",
+        "category": "Other Espresso Drinks",
+        "price_cents": 670,
+        "currency": "SGD",
+        "description": "Regular espresso drink with hot water.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_kings_cart_coffee_bishan_c3574678a5",
+    "place_name": "Kings Cart Coffee Bishan",
+    "source_url": "https://deliveroo.com.sg/menu/singapore/bishan-road/kings-cart-coffee-bishan",
+    "source_type": "third_party_delivery",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official Bishan outlet page confirms the cafe location and links an image menu, but the menu images were not text-readable. Representative item names, descriptions and prices were taken from the current Deliveroo Bishan delivery menu.",
+    "items": [
+      {
+        "name": "Coconut Latte",
+        "category": "Inspirations",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Espresso with coconut cream, gula melaka and toasted coconut flakes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Black Sesame Oat Latte",
+        "category": "Inspirations",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Black sesame drink with oat milk; does not contain coffee.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Thai Milk Tea Yuen Yang",
+        "category": "Inspirations",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Thai milk tea with espresso.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pandan Sweet Cream",
+        "category": "Inspirations",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Pandan cream with cold brew coffee.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Long Black",
+        "category": "Coffee",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Double espresso with filtered water.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Latte",
+        "category": "Coffee",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Double espresso with milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "White Cold Brew",
+        "category": "Ready To Drink Cold Brew",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Cold brew coffee blended with milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chicken Bolognese",
+        "category": "Food",
+        "price_cents": 1130,
+        "currency": "SGD",
+        "description": "Chicken bolognese cafe meal.",
+        "dietary_tags": []
+      }
+    ]
+  },
+  {
+    "place_id": "google_lickers_7da26033b6",
+    "place_name": "Lickers",
+    "source_url": "https://lickers.com.sg/collections/collection",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "notes": "Official Lickers shop collection lists current handcrafted ice cream products and prices. The site also links an official menu image; representative items here use text-accessible official product listings.",
+    "items": [
+      {
+        "name": "Pomcherry Cheese",
+        "category": "Ice Cream",
+        "price_cents": 1790,
+        "currency": "SGD",
+        "description": "Handcrafted ice cream pint.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Yuzu Candied Orange",
+        "category": "Ice Cream",
+        "price_cents": 1790,
+        "currency": "SGD",
+        "description": "Handcrafted ice cream pint.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chrysanthemum Ginseng",
+        "category": "Ice Cream",
+        "price_cents": 1790,
+        "currency": "SGD",
+        "description": "Handcrafted ice cream pint.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mao Shan Wang",
+        "category": "Ice Cream",
+        "price_cents": 3200,
+        "currency": "SGD",
+        "description": "Durian ice cream pint.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Speculoos",
+        "category": "Ice Cream",
+        "price_cents": 1590,
+        "currency": "SGD",
+        "description": "Speculoos ice cream pint.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Cookie Monster",
+        "category": "Ice Cream",
+        "price_cents": 1590,
+        "currency": "SGD",
+        "description": "Vanilla sweet cream with Oreos, cookies, cookie dough and M&Ms.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Roasted Pistachio",
+        "category": "Ice Cream",
+        "price_cents": 1790,
+        "currency": "SGD",
+        "description": "Roasted pistachio ice cream pint.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Rosemary Cone Chips",
+        "category": "Toppers",
+        "price_cents": 250,
+        "currency": "SGD",
+        "description": "Cone chips for ice cream.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_craftsmen_coffee_holland_v_c6b45682db",
+    "place_name": "Craftsmen Coffee Holland V",
+    "source_url": "https://www.foodpanda.sg/restaurant/i3rb/craftsmen-specialty-coffee-holland-village",
+    "source_type": "third_party_delivery",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Representative items were taken from the current Foodpanda Craftsmen Specialty Coffee Holland Village menu, which exposes item names, descriptions and prices in text.",
+    "items": [
+      {
+        "name": "Steak & Eggs",
+        "category": "Classic Breakfast",
+        "price_cents": 3500,
+        "currency": "SGD",
+        "description": "Ribeye with sunny side up, shoestring fries and salsa verde.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Champion Big Breakfast",
+        "category": "Classic Breakfast",
+        "price_cents": 3400,
+        "currency": "SGD",
+        "description": "Scrambled eggs, avocado, pork bratwurst, bacon, mushrooms and sourdough.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Classic Omelette",
+        "category": "Omelette",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Omelette with sauteed vegetables, rose sauce, salad and tomato salsa.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Ebi Katsu Sando With Fries",
+        "category": "Brioche Sando",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Ebi katsu, cabbage, scrambled eggs, tonkatsu sauce and fries.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Just Rosti",
+        "category": "House Made Potato Rosti",
+        "price_cents": 1090,
+        "currency": "SGD",
+        "description": "Handcrafted potato rosti served with sour cream.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Rose Grilled Chicken Pasta",
+        "category": "Pasta",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Mafaldine with grilled chicken, tomatoes, chilli flakes and rose sauce.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Truffle Fries",
+        "category": "Bites & Side Chick",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Shoestring fries with truffle oil and parmigiano reggiano.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Wild Berry Bang Waffle",
+        "category": "Desserts",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Buttermilk waffle with assorted seasonal berries.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

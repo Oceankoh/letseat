@@ -6,7 +6,7 @@ LetsEat needs a pipeline that turns place data, menu photos, and restaurant webs
 
 The pipeline should be source-aware. A user-uploaded menu photo, an approved API result, and a restaurant website menu have different reliability, rights, update behavior, and attribution requirements.
 
-## Data Sources
+## Data Sources And Cost Posture
 
 ### Preferred Sources
 
@@ -14,7 +14,7 @@ The pipeline should be source-aware. A user-uploaded menu photo, an approved API
 - Restaurant-owned websites.
 - Restaurant-owned social profiles where usage is permitted.
 - Partner-provided menus.
-- Approved Google Places APIs.
+- Approved Google Places APIs. These can incur API costs and require billing controls.
 - Licensed third-party data providers.
 - Manual admin entry for high-value places.
 
@@ -26,12 +26,28 @@ The pipeline should be source-aware. A user-uploaded menu photo, an approved API
 
 Before production use, any scraper should go through legal, privacy, and platform review.
 
+### Cost Controls
+
+Seed data and manually authored fixtures do not incur external data costs. Real importers and OCR jobs may incur costs from API calls, hosted compute, proxy services, captcha services, OCR providers, or LLM extraction.
+
+Every importer or enrichment job must support:
+
+- `DRY_RUN=true` mode that reports planned requests without calling paid APIs.
+- `MAX_REQUESTS_PER_RUN` or equivalent hard cap.
+- Singapore-only bounds for MVP place discovery.
+- Persistent caching by `google_place_id`, source URL, and image hash.
+- Minimal Google Places field masks.
+- Clear logs for requests attempted, skipped, cached, failed, and estimated billable calls.
+- Manual execution by default. No scheduled scraping or enrichment until explicitly approved.
+- Provider-side budgets, quotas, and alerts when available.
+
 ## Place Discovery For Cafes
 
 MVP place discovery should support:
 
-- A target city or neighborhood.
+- Singapore as the launch geography.
 - Search category: cafes.
+- Singapore-wide cafe coverage through multiple bounded neighborhood search points.
 - Deduplication by Google Place ID when available.
 - Basic place attributes:
   - Name.
@@ -49,6 +65,27 @@ Possible compliant implementations:
 - Manual seed lists plus Places API enrichment.
 - Restaurant website discovery from approved search APIs.
 - Admin CSV import for early testing.
+
+Any approved scraper experiment or enrichment job should target Singapore cafes first.
+
+Google Places API use requires an API key and a billing-enabled Google Cloud project. The app should avoid requesting fields it does not need.
+
+## One-Time Agentic Menu Enrichment
+
+For early Singapore cafe coverage, menu enrichment can be run as a one-time, manually supervised, agentic research workflow instead of a rigid scraper.
+
+Expected workflow:
+
+1. Select high-priority Singapore places from the database, usually by review count or product relevance.
+2. Assign small independent batches to lightweight research agents.
+3. Prefer restaurant-owned websites, official PDFs, or official ordering pages.
+4. Use public delivery/menu pages only when official pages are unavailable or incomplete.
+5. Capture representative current menu items, source URL, source type, capture date, and confidence.
+6. Keep descriptions short and factual; do not copy full menu pages or long copyrighted descriptions.
+7. Set price to `null` when the source does not clearly verify the price.
+8. Load the batch as the latest active menu for each place, replacing older searchable items for that place.
+
+This path is acceptable for one-time MVP population because humans/agents can adapt to varied site structures, PDFs, embedded images, delivery pages, and menu mirrors. It should remain manually triggered, source-attributed, and auditable. It should not become scheduled scraping without a separate compliance and cost review.
 
 ## Menu Image Intake
 
@@ -83,6 +120,8 @@ OCR provider options:
 - Azure AI Vision.
 - Tesseract for local development and low-cost prototypes.
 - Multimodal LLM for difficult menus and post-processing.
+
+Paid OCR providers and LLMs must use the same request cap and dry-run approach as place importers.
 
 OCR output should include:
 

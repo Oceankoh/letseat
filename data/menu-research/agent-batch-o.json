@@ -1,0 +1,382 @@
+[
+  {
+    "place_id": "google_refuel_cafe_cfba933c9e",
+    "place_name": "Refuel Cafe",
+    "source_url": "https://refuel.sg/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Official Refuel site confirms cafe menu and delivery channels. Item names, descriptions and prices were cross-checked against Foodpanda Refuel Cafe Singapore pages because the official site links out to delivery menus.",
+    "items": [
+      {
+        "name": "Fuel Me Up",
+        "category": "Brunch",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Baked eggs with pork meatballs, peppers, tomato sauce, mushroom, bacon and cheese.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Salmon Benedict",
+        "category": "Brunch",
+        "price_cents": 1750,
+        "currency": "SGD",
+        "description": "Toast with smoked salmon, poached eggs, avocado, miso hollandaise and greens.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Full Tank",
+        "category": "Brunch",
+        "price_cents": 2050,
+        "currency": "SGD",
+        "description": "Scrambled eggs, smoked salmon, chicken sausage, bacon, mushroom, beans, tomato and toast.",
+        "dietary_tags": ["fish", "pork"]
+      },
+      {
+        "name": "Miso Baked Salmon",
+        "category": "Mains",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Miso-marinated salmon with mashed potato, broccolini, tomatoes and mushroom.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Honey Baked Chicken",
+        "category": "Mains",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Whole chicken leg with mashed potato, cauliflower, mushroom cream sauce and truffle oil.",
+        "dietary_tags": ["nuts"]
+      },
+      {
+        "name": "Miso Carbonara",
+        "category": "Pasta",
+        "price_cents": 1750,
+        "currency": "SGD",
+        "description": "Carbonara with bacon, miso, poached egg, cheese and creamy egg sauce.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Creamy Shrimps",
+        "category": "Pasta",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Thai-inspired spicy cream pasta with shrimp, onions, chilies and cheese.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Mentaiko Mac & Cheese",
+        "category": "Pasta",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Penne baked with salmon, broccoli, cheeses, mentaiko sauce, bonito flakes and tobiko.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Latte",
+        "category": "Coffee",
+        "price_cents": 580,
+        "currency": "SGD",
+        "description": "Espresso with steamed and foamed milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Biscoff Milkshake",
+        "category": "Milkshakes & Iced Blended",
+        "price_cents": 820,
+        "currency": "SGD",
+        "description": "Vanilla ice cream blended with Biscoff cookies and whipped cream.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_surrey_hills_grocer_vivocity_pet_friendly_39d4db9016",
+    "place_name": "Surrey Hills Grocer - VivoCity (Pet Friendly)",
+    "source_url": "https://www.surreyhillsgrocer.sg/vc-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Official Vivo City menu page is image-based. Representative VivoCity-exclusive dishes and prices were cross-checked against recent public menu coverage from MiddleClass.sg, The Ordinary Patrons, Our Parenting World, Alvinology and Chope.",
+    "items": [
+      {
+        "name": "Triple Truffle Fries",
+        "category": "Starters",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Truffle fries from the VivoCity menu.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Totcho Supreme",
+        "category": "Starters",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Tater tots with smashed avocado, sour cream, nacho cheese and crispy bacon.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Salmon & Fennel Salad",
+        "category": "Salads",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Salmon and fennel salad.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "The VIVO Breakfast",
+        "category": "All-Day Brunch",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Smoked sausage, roasted cheesy tomato, eggs, avocado mash, mushroom and focaccia.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Flatbread Hammy Benny",
+        "category": "All-Day Brunch",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Handmade flatbread with shaved ham, eggs, mushroom ragout and hollandaise.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Budae Jigae Shashuka",
+        "category": "All-Day Brunch",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Lightly spiced kimchi tofu stew with chorizo, eggs, cheese and focaccia.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Roasted Garlic Miso Butter",
+        "category": "Pasta",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Casarecce with miso butter, Italian herbs, pork sausage and roasted garlic.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Hokkien Mee",
+        "category": "Pasta",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Spaghetti with prawn bisque, crispy lard, shrimp sambal and grilled prawn.",
+        "dietary_tags": ["shellfish", "pork", "spicy"]
+      },
+      {
+        "name": "Hot Honey Pepperoni",
+        "category": "Roman Pizza",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Pepperoni pizza with ricotta and hot honey.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Mentaiko Cream",
+        "category": "Roman Pizza",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "White pizza with squid, mentaiko cream and nori.",
+        "dietary_tags": ["fish", "shellfish"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_suzuki_cafe_and_roastery_4de82abaab",
+    "place_name": "Suzuki Cafe and Roastery",
+    "source_url": "https://www.suzukicoffee.com.sg/cafe/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "notes": "Official cafe page confirms the cafe serves coffee and Japanese pastries. Item names, descriptions and prices were cross-checked against Foodpanda Suzuki Gourmet Coffee (Chin Bee) and official Suzuki product pages for roast details.",
+    "items": [
+      {
+        "name": "Iced Chowa White",
+        "category": "Milk Coffee",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Iced milk coffee using Chowa medium-balance blend with chocolate and caramel notes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Hot Chowa White",
+        "category": "Milk Coffee",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Hot milk coffee using Chowa medium-balance blend.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Iced Yugen White",
+        "category": "Milk Coffee",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Iced milk coffee using Yugen dark robust blend with cacao and hickory notes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Indonesia Komasti White (Single Origin) Hot",
+        "category": "Single Origin Coffee",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Hot white coffee with Indonesia Komasti natural-sundried beans.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Brazil Fazenda Santa Monica White (Single Origin) Iced",
+        "category": "Single Origin Coffee",
+        "price_cents": 1050,
+        "currency": "SGD",
+        "description": "Iced white coffee with Brazil Fazenda Santa Monica beans.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Hot Dark Chocolate",
+        "category": "Non-Coffee",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Hot chocolate drink.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Lemon Madeleines",
+        "category": "Bread & Pastries",
+        "price_cents": 350,
+        "currency": "SGD",
+        "description": "One lemon madeleine with a light buttery sponge texture.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chocolate Brownie",
+        "category": "Bread & Pastries",
+        "price_cents": 450,
+        "currency": "SGD",
+        "description": "Dense dark chocolate brownie.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Red Bean Dorayaki",
+        "category": "Bread & Pastries",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Japanese pancake confection with red bean paste.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Naruto Kintoki Sweet Potato Rustic",
+        "category": "Bread & Pastries",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Rustic pastry made with Naruto Kintoki sweet potatoes.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_glasshouse_d4e655097e",
+    "place_name": "Glasshouse",
+    "source_url": "https://theglasshousesg.com/blogs/menu/glasshouse-neil",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.93,
+    "notes": "Official Glasshouse menu page lists current Neil Road menu images; official ongoing-specials page was also used for seasonal and weekend specials. Prices are subject to GST and service charge according to the menu.",
+    "items": [
+      {
+        "name": "Flatbread with Elderflower Balsamic",
+        "category": "Starters & Sharing",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "House-made flatbread with elderflower balsamic and French butter.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Hummus Bowl",
+        "category": "Starters & Sharing",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Hummus with flatbread, dukkah, pomegranate and extra virgin olive oil.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Kale & Arugula Salad",
+        "category": "Starters & Sharing",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Salad with sweet potatoes, parsnip, apple, walnuts, almonds, feta and lemon vinaigrette.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Truffle Fries",
+        "category": "Small Plates",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Fries with pecorino cheese, white truffle oil, dehydrated truffle and chives.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Avocado Dukkah Tartine",
+        "category": "Tartines & Sandwiches",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Marinated tomatoes, smashed avocado and dukkah on sourdough.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Eggs Benny Bagel",
+        "category": "Tartines & Sandwiches",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Sous vide eggs, hollandaise, wilted greens and prosciutto on a bagel.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Angus Beef Burger",
+        "category": "Tartines & Sandwiches",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Black Angus beef patty with smoked cheddar, pickles, onion marmalade and fries.",
+        "dietary_tags": []
+      },
+      {
+        "name": "The Carbonara",
+        "category": "Pasta",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Spaghetti with guanciale, egg yolk, black pepper and pecorino.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Truffle Mushroom Pasta",
+        "category": "Pasta",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Spaghetti with wild mushroom, truffle cream sauce, pecorino and shaved black truffle.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Ricotta Pancake",
+        "category": "Brunch",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Ricotta pancake with mascarpone cream, mixed berries and granola.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Glasshouse Brunch Plate",
+        "category": "Build Your Own Brunch",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Scrambled eggs, tomatoes, mushrooms, kurobuta sausage, avocado, salad and sourdough.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "King Prawn Laksa Goreng",
+        "category": "Weekend Specials",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Stir-fried noodles with laksa paste, king prawn, squid, crab meat, tau pok and fish cake.",
+        "dietary_tags": ["shellfish", "fish", "spicy"]
+      }
+    ]
+  }
+]

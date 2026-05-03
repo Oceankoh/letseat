@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "google_arbora_mount_faber_peak_eeea0f07f4",
+    "place_name": "Arbora @ Mount Faber Peak",
+    "source_url": "https://www.quandoo.sg/place/arbora-mount-faber-peak-70970/menu",
+    "source_type": "third_party_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "items": [
+      { "name": "Shredded Peking Duck Salad", "description": "Roast duck salad with cucumber, spring onion, crackers and plum vinaigrette.", "category": "Starters", "price": 24.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.88 },
+      { "name": "Chilli Crab and Doughnuts", "description": "Soft shell crab and savoury doughnuts with chilli crab dip.", "category": "Starters", "price": 24.0, "currency": "SGD", "dietary_tags": ["seafood"], "confidence": 0.88 },
+      { "name": "Arbora Rojak", "description": "Rojak-style fruits, cucumber, tofu, peanuts and shrimp paste.", "category": "Starters", "price": 16.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.86 },
+      { "name": "Chicken Satay", "description": "Grilled chicken skewers with peanut sauce.", "category": "Starters", "price": 16.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.86 },
+      { "name": "Tandoori Pizza", "description": "Pizza with capsicum, onion, tomato, paneer and tandoori sauce.", "category": "Mains", "price": 24.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Pasta Hokkien Mee", "description": "Pasta-style Hokkien mee with prawns, roasted pork and sambal.", "category": "Mains", "price": 28.0, "currency": "SGD", "dietary_tags": ["seafood"], "confidence": 0.86 },
+      { "name": "Mount Faber Bamboo Chicken Nasi Lemak", "description": "Fried chicken thigh with coconut rice, sambal shrimp and egg.", "category": "Mains", "price": 20.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.86 },
+      { "name": "Half Lobster Laksa", "description": "Laksa with half lobster, rice noodles and sambal.", "category": "Mains", "price": 22.0, "currency": "SGD", "dietary_tags": ["seafood"], "confidence": 0.86 },
+      { "name": "Pan-Roasted Salmon", "description": "Salmon with rice, local greens and tamarind dashi broth.", "category": "Mains", "price": 32.0, "currency": "SGD", "dietary_tags": ["fish"], "confidence": 0.86 },
+      { "name": "Cempedak Bread and Butter Pudding", "description": "Cempedak pudding with vanilla ice cream and strawberries.", "category": "Desserts", "price": 16.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 }
+    ]
+  },
+  {
+    "place_id": "google_miam_miam_french_japanese_cafe_kitchen_westgate__b017377586",
+    "place_name": "Miam Miam French Japanese Cafe Kitchen (Westgate)",
+    "source_url": "https://miammiam.sg/menu-drinks/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "items": [
+      { "name": "Parmesan Truffle Fries", "description": "Straight cut fries with truffle oil and parmesan.", "category": "Small Bites", "price": 11.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.94 },
+      { "name": "Japanese Fried Wing Original", "description": "Japanese-style fried chicken wings.", "category": "Small Bites", "price": 10.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.94 },
+      { "name": "Japanese Tofu Salad", "description": "Greens with Japanese tofu and wafu dressing.", "category": "Salads", "price": 9.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.94 },
+      { "name": "Miam Miam Spaghetti", "description": "Pasta with frankfurters, tomato, spinach, bacon, butter, broth and shoyu.", "category": "Mains", "price": 17.2, "currency": "SGD", "dietary_tags": [], "confidence": 0.94 },
+      { "name": "Truffle Carbonara", "description": "Cream pasta with truffle, bacon, mushroom and parmesan.", "category": "Mains", "price": 18.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.94 },
+      { "name": "Carbonara", "description": "Cream pasta with bacon, mushrooms, parmesan and egg yolk.", "category": "Mains", "price": 15.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.94 },
+      { "name": "Glazed Teriyaki Chicken Donburi", "description": "Chicken donburi with teriyaki glaze and Japanese rice.", "category": "Mains", "price": 15.5, "currency": "SGD", "dietary_tags": [], "confidence": 0.94 },
+      { "name": "Ice Matcha Latte", "description": "Cold milk and matcha drink.", "category": "Drinks", "price": 7.8, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.94 },
+      { "name": "Hot Matcha Latte", "description": "Steamed milk and matcha drink.", "category": "Drinks", "price": 6.8, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.94 },
+      { "name": "Hot/Iced Café Latte", "description": "Espresso with milk, served hot or iced.", "category": "Drinks", "price": 5.8, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.9 }
+    ]
+  },
+  {
+    "place_id": "google_ps_cafe_east_coast_park_9ab17dd5e4",
+    "place_name": "PS.Cafe East Coast Park",
+    "source_url": "https://www.pscafe.com/pscafe-east-coast-park",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.72,
+    "items": [
+      { "name": "PS. Truffle Shoestring Fries", "description": "Shoestring fries with truffle aroma and parmesan-style seasoning.", "category": "Starters", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.72 },
+      { "name": "Caesar Salad", "description": "Classic Caesar-style salad.", "category": "Starters", "price": null, "currency": "SGD", "dietary_tags": [], "confidence": 0.68 },
+      { "name": "PS. Burger", "description": "House burger from the all-day mains selection.", "category": "Mains", "price": null, "currency": "SGD", "dietary_tags": [], "confidence": 0.68 },
+      { "name": "Fish and Chips", "description": "Battered fish served with fries.", "category": "Mains", "price": null, "currency": "SGD", "dietary_tags": [], "confidence": 0.66 },
+      { "name": "Sticky Date Pudding", "description": "Warm date pudding dessert.", "category": "Desserts", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.68 },
+      { "name": "Double Chocolate Blackout Cake", "description": "Rich chocolate cake dessert.", "category": "Desserts", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.68 },
+      { "name": "Latte", "description": "Espresso with milk.", "category": "Beverages", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.65 },
+      { "name": "Flat White", "description": "Espresso-based milk coffee.", "category": "Beverages", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.65 }
+    ]
+  },
+  {
+    "place_id": "google_chye_seng_huat_hardware_8d6687ef23",
+    "place_name": "Chye Seng Huat Hardware",
+    "source_url": "https://www.foodpanda.sg/restaurant/ws7w/chye-seng-huat-hardware-tyrwhitt-road",
+    "source_type": "third_party_delivery",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "items": [
+      { "name": "Papa's Breakfast", "description": "Pork sausage, egg, mushrooms, tomato jam, greens and multigrain toast.", "category": "Breakfast", "price": 28.34, "currency": "SGD", "dietary_tags": [], "confidence": 0.92 },
+      { "name": "French Toast with Mixed Berries", "description": "Brioche French toast with berries, coffee butter and gula melaka syrup.", "category": "Breakfast", "price": 19.62, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.92 },
+      { "name": "Smoked Salmon Toast", "description": "Smoked salmon, egg, honey mustard and sourdough toast.", "category": "Breakfast", "price": 21.8, "currency": "SGD", "dietary_tags": ["fish"], "confidence": 0.92 },
+      { "name": "Avocado Chicken Toast", "description": "Chicken breast, avocado, egg, tomato, basil and sourdough toast.", "category": "Breakfast", "price": 21.8, "currency": "SGD", "dietary_tags": [], "confidence": 0.92 },
+      { "name": "Vongole Pasta", "description": "Spaghetti with clams, garlic, tomato, parsley and white wine.", "category": "All Day Mains", "price": 26.16, "currency": "SGD", "dietary_tags": ["shellfish"], "confidence": 0.92 },
+      { "name": "Creamy Chilli Prawn Fettuccine", "description": "Fettuccine with prawn, chilli, cream, tomato sauce and kale.", "category": "All Day Mains", "price": 28.34, "currency": "SGD", "dietary_tags": ["shellfish", "spicy"], "confidence": 0.92 },
+      { "name": "Banana Walnut Bread", "description": "Banana loaf with espresso ganache and walnuts.", "category": "Pastry & Cakes", "price": 6.54, "currency": "SGD", "dietary_tags": ["nuts"], "confidence": 0.92 },
+      { "name": "Flat White", "description": "Espresso-based milk coffee.", "category": "Espresso Coffee", "price": 7.85, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.92 },
+      { "name": "White Cold Brew", "description": "Bottled milk cold brew with toffee, hazelnut and chocolate notes.", "category": "Cold Brews", "price": 9.81, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.92 },
+      { "name": "Matcha Latte", "description": "Premium matcha latte.", "category": "Non Espresso Drinks", "price": 8.27, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.92 }
+    ]
+  },
+  {
+    "place_id": "google_creamier_handcrafted_ice_cream_and_coffee_toa_pa_4c43cd6f19",
+    "place_name": "Creamier Handcrafted Ice Cream and Coffee",
+    "source_url": "https://creamier.com.sg/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "items": [
+      { "name": "Roasted Pistachio", "description": "Pistachio ice cream flavour.", "category": "Ice Cream", "price": 19.5, "currency": "SGD", "dietary_tags": ["nuts", "vegetarian"], "confidence": 0.9 },
+      { "name": "Sea Salt Gula Melaka", "description": "Sea salt and gula melaka ice cream flavour.", "category": "Ice Cream", "price": 15.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.9 },
+      { "name": "Plain Ole Chocolate", "description": "Chocolate ice cream flavour.", "category": "Ice Cream", "price": 15.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.9 },
+      { "name": "Earl Grey Lavender", "description": "Tea and lavender ice cream flavour.", "category": "Ice Cream", "price": 15.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.9 },
+      { "name": "Cookies and Cream", "description": "Cookies and cream ice cream flavour.", "category": "Ice Cream", "price": 15.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.9 },
+      { "name": "Strawberry Matcha", "description": "Strawberry and matcha ice cream flavour.", "category": "Ice Cream", "price": 17.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.9 },
+      { "name": "Sesame Tang Yuan", "description": "Sesame tang yuan inspired ice cream flavour.", "category": "Ice Cream", "price": 17.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Pulut Hitam", "description": "Pulut hitam inspired ice cream flavour.", "category": "Ice Cream", "price": 15.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 }
+    ]
+  },
+  {
+    "place_id": "google_lola_s_cafe_2d37ecd9a7",
+    "place_name": "Lola's Cafe",
+    "source_url": "https://www.quandoo.sg/place/lolas-cafe-34415/menu",
+    "source_type": "third_party_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "items": [
+      { "name": "Crab Cake Benedict", "description": "Crab cakes, poached eggs, furikake and miso hollandaise on English muffin.", "category": "Brunch", "price": 18.0, "currency": "SGD", "dietary_tags": ["seafood"], "confidence": 0.88 },
+      { "name": "Pulled Pork and Avocado Eggs Benedict", "description": "Pulled pork, avocado, poached eggs and hollandaise on rye toast.", "category": "Brunch", "price": 15.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.88 },
+      { "name": "Breakfast Croissant", "description": "Croissant with ham, cheddar, scrambled eggs and salad.", "category": "Brunch", "price": 14.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.88 },
+      { "name": "Truffle Fries", "description": "Fries with truffle oil and parmesan.", "category": "Starters", "price": 10.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.88 },
+      { "name": "Nachos Cheese Fries", "description": "Fries with cheese sauce and spices.", "category": "Starters", "price": 9.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.88 },
+      { "name": "Lola's Salad", "description": "Mesclun salad with avocado, tomato, corn and sesame dressing.", "category": "All Day", "price": 12.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.78 },
+      { "name": "Miso Salmon Grain Bowl", "description": "Salmon grain bowl with quinoa, avocado, egg and sesame dressing.", "category": "All Day", "price": 18.0, "currency": "SGD", "dietary_tags": ["fish"], "confidence": 0.78 },
+      { "name": "Honey Paprika Crispy Wings", "description": "Crispy chicken wings with honey and paprika.", "category": "All Day", "price": 11.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.78 }
+    ]
+  },
+  {
+    "place_id": "google_the_populus_6404294ad3",
+    "place_name": "The Populus",
+    "source_url": "https://the-populus.res-menu.com/menu",
+    "source_type": "third_party_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.76,
+    "items": [
+      { "name": "Bounty Of The Sea Mixed Grain Bowl", "description": "Halibut, scallops and crab over mixed grain rice.", "category": "Donburi Rice Bowls", "price": 39.24, "currency": "SGD", "dietary_tags": ["seafood"], "confidence": 0.82 },
+      { "name": "Fish Chips", "description": "Tempura halibut with fries, tartare and lemon.", "category": "All Day Mains", "price": 29.43, "currency": "SGD", "dietary_tags": ["fish"], "confidence": 0.82 },
+      { "name": "Slow Cooked Beef Cheek", "description": "Beef cheek with mashed potato, greens and breadcrumbs.", "category": "All Day Mains", "price": 32.16, "currency": "SGD", "dietary_tags": [], "confidence": 0.82 },
+      { "name": "Spring Pancake Fried Chicken", "description": "Spring onion corn pancake with crispy fried chicken.", "category": "Brunch", "price": 28.34, "currency": "SGD", "dietary_tags": [], "confidence": 0.82 },
+      { "name": "Avocado Superfood Green Platter", "description": "Avocado, kale, broccoli, spinach, cheese, grains and egg.", "category": "Brunch", "price": 27.25, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Populus French Toast", "description": "Brioche French toast with banana, crumble, yoghurt and berries.", "category": "Brunch", "price": 26.16, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Seafood Linguine", "description": "Seafood linguine pasta.", "category": "Pasta", "price": 31.61, "currency": "SGD", "dietary_tags": ["seafood"], "confidence": 0.76 },
+      { "name": "Pesto Mushroom", "description": "Mushroom pesto pasta.", "category": "Pasta", "price": 25.07, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.76 },
+      { "name": "Sticky Date Pudding", "description": "Sticky date pudding dessert.", "category": "Desserts", "price": 8.72, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.76 }
+    ]
+  },
+  {
+    "place_id": "google_ya_kun_kaya_toast_far_east_square_32ebb34d92",
+    "place_name": "Ya Kun Kaya Toast (Far East Square)",
+    "source_url": "https://sgeats.net/ya-kun-kaya-toast-menu/",
+    "source_type": "third_party_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "items": [
+      { "name": "Kaya Toast with Butter", "description": "Traditional kaya toast with butter.", "category": "Toasts", "price": 2.6, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.88 },
+      { "name": "Kaya Toast with Peanut", "description": "Toast with kaya and peanut.", "category": "Toasts", "price": 2.6, "currency": "SGD", "dietary_tags": ["vegetarian", "nuts"], "confidence": 0.88 },
+      { "name": "Butter Sugar Toast", "description": "Toast with butter and sugar.", "category": "Toasts", "price": 2.6, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.88 },
+      { "name": "French Toast with Kaya", "description": "French toast served with kaya.", "category": "Toasts", "price": 2.6, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.88 },
+      { "name": "Steamed Bread", "description": "Steamed bread with kaya butter or kaya peanut.", "category": "Toasts", "price": 2.7, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.88 },
+      { "name": "Chicken Char Siew Toastwich", "description": "Toastwich with chicken char siew filling.", "category": "Toastwiches", "price": 4.2, "currency": "SGD", "dietary_tags": [], "confidence": 0.86 },
+      { "name": "Fish Otah Toastwich", "description": "Toastwich with fish otah filling.", "category": "Toastwiches", "price": 4.2, "currency": "SGD", "dietary_tags": ["fish"], "confidence": 0.86 },
+      { "name": "Coffee", "description": "Hot local coffee.", "category": "Hot Beverages", "price": 2.2, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Tea", "description": "Hot local tea.", "category": "Hot Beverages", "price": 2.2, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 }
+    ]
+  },
+  {
+    "place_id": "google_apiary_dc124be41e",
+    "place_name": "Apiary",
+    "source_url": "https://apiary.sg/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "items": [
+      { "name": "Apiary Honey and Cocoa Nibs", "description": "Signature honey ice cream with cocoa nibs.", "category": "Ice Cream", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Sicilian Pistachio", "description": "Pistachio ice cream.", "category": "Ice Cream", "price": 22.0, "currency": "SGD", "dietary_tags": ["nuts", "vegetarian"], "confidence": 0.88 },
+      { "name": "73% Dark Chocolate", "description": "Dark chocolate ice cream.", "category": "Ice Cream", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.84 },
+      { "name": "Blue Milk", "description": "Blue pea flower and sea salt ice cream.", "category": "Ice Cream", "price": 19.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.88 },
+      { "name": "Alphonso Mango Sorbet", "description": "Mango sorbet.", "category": "Sorbet", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.84 },
+      { "name": "Shiso Makgeolli Ice Cream Pint", "description": "Shiso and makgeolli ice cream pint.", "category": "Ice Cream", "price": 22.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Apiary Gourmet Ice Cream Tasting Set", "description": "Tasting set with six ice cream flavours.", "category": "Sets", "price": 36.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 }
+    ]
+  },
+  {
+    "place_id": "google_knots_cafe_and_living_paya_lebar_b8010a6fc9",
+    "place_name": "Knots Cafe & Living (Paya Lebar)",
+    "source_url": "https://www.quandoo.sg/place/knots-cafe-and-living-paya-lebar-32196/menu",
+    "source_type": "third_party_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "items": [
+      { "name": "Knots Waffle Brekkie", "description": "Buttermilk waffle with sausage, bacon, eggs, mushrooms and tomato.", "category": "Breakfast", "price": 23.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.88 },
+      { "name": "Salmon Benedict", "description": "Smoked salmon, poached eggs, guacamole and hollandaise on English muffin.", "category": "Breakfast", "price": 19.9, "currency": "SGD", "dietary_tags": ["fish"], "confidence": 0.88 },
+      { "name": "French Toast", "description": "Brioche French toast with popcorn chicken, fruits and maple syrup.", "category": "Breakfast", "price": 15.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.86 },
+      { "name": "Carbonara", "description": "Spaghetti with cream sauce, bacon, garlic, parmesan and egg yolk.", "category": "Pasta", "price": 20.3, "currency": "SGD", "dietary_tags": [], "confidence": 0.84 },
+      { "name": "Duck Ragu Rigatoni", "description": "Rigatoni with slow-braised duck, mushrooms and parmesan.", "category": "Pasta", "price": 23.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.84 },
+      { "name": "Truffle Fries", "description": "Fries with truffle oil and parmesan.", "category": "Sides", "price": 13.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Rib-Eye Steak", "description": "Rib-eye with mashed potato, vegetables and red wine sauce.", "category": "Mains", "price": 31.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.84 },
+      { "name": "Knots Beef Burger", "description": "Beef patty with bacon, tomatoes, onions, cheddar, fries and greens.", "category": "Mains", "price": 22.3, "currency": "SGD", "dietary_tags": [], "confidence": 0.82 }
+    ]
+  }
+]

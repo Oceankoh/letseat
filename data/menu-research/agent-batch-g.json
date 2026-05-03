@@ -1,0 +1,350 @@
+[
+  {
+    "place_id": "google_kucina_italian_restaurant_a7e4a16cb2",
+    "place_name": "Kucina Italian Restaurant",
+    "source_url": "https://www.singmenu.com/kucina-italian-restaurant-menu/",
+    "source_type": "public_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Public menu page with itemized prices; used because an extractable official menu page was not available. Items reflect Kucina Italian Restaurant Singapore menu listings and should be rechecked against the restaurant before high-stakes use.",
+    "items": [
+      {
+        "name": "125 grams Burratina",
+        "category": "Antipasti",
+        "price_cents": 1990,
+        "currency": "SGD",
+        "description": "Burrata with rocket salad, tomato medley, olives, caper berry and basil pesto.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Bread Basket",
+        "category": "Pane Fresco",
+        "price_cents": 890,
+        "currency": "SGD",
+        "description": "House bread, baguette and breadsticks with arrabbiata and olive tapenade.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Arancini Siciliani",
+        "category": "Fritto",
+        "price_cents": 1190,
+        "currency": "SGD",
+        "description": "Breaded saffron rice balls with beef ragu, mozzarella and parmesan.",
+        "dietary_tags": []
+      },
+      {
+        "name": "The Classic Carbonara",
+        "category": "Primi Pasta",
+        "price_cents": 2290,
+        "currency": "SGD",
+        "description": "Spaghetti with turkey bacon, egg yolk and pecorino romano.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Arrabbiata",
+        "category": "Primi Pasta",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Spaghetti with tomato, garlic and chilli sauce.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Lasagne",
+        "category": "Primi Pasta",
+        "price_cents": 2090,
+        "currency": "SGD",
+        "description": "Baked pasta with beef bolognese, bechamel, mozzarella and parmesan.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Pollo Parmigiana",
+        "category": "Secondi",
+        "price_cents": 2790,
+        "currency": "SGD",
+        "description": "Breaded chicken with turkey ham, mozzarella, rocket and cherry tomatoes.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Margherita Di Bocconcini",
+        "category": "Pizza",
+        "price_cents": 2090,
+        "currency": "SGD",
+        "description": "Tomato, mozzarella, basil, cherry tomatoes and bocconcini.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Funghi E Tartufo",
+        "category": "Pizza",
+        "price_cents": 2890,
+        "currency": "SGD",
+        "description": "Boat-shaped pizza with mushroom sauce, black truffle, mozzarella and scamorza.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pannacotta",
+        "category": "Dolce",
+        "price_cents": 990,
+        "currency": "SGD",
+        "description": "Milk and cream vanilla pudding with strawberry and mango sauce.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_tang_tea_house_jalan_kayu_d0ea661fd2",
+    "place_name": "Tang Tea House (Jalan Kayu)",
+    "source_url": "https://tangteahouse.restaurants-us.com/menu",
+    "source_type": "third_party_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.74,
+    "notes": "Tang Tea House official site lists a dine-in menu for Bedok, Jalan Kayu, Jurong West, Changi and Tampines; this third-party menu mirror provided extractable item names and prices for representative dine-in items.",
+    "items": [
+      {
+        "name": "Roasted/Steamed Chicken Rice",
+        "category": "Rice",
+        "price_cents": 510,
+        "currency": "SGD",
+        "description": "Chicken rice served with roasted or steamed chicken.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Tang Signature Fried Rice",
+        "category": "Rice",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "House signature fried rice.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Salted Egg Chicken with Rice",
+        "category": "Rice",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Salted egg chicken served with rice.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Fried Kway Teow",
+        "category": "Noodles",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Fried flat rice noodles.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Pan-fried Crispy Bee Hoon",
+        "category": "Noodles",
+        "price_cents": 1300,
+        "currency": "SGD",
+        "description": "Pan-fried crispy rice vermicelli.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Har Kow",
+        "category": "Dim Sum",
+        "price_cents": 490,
+        "currency": "SGD",
+        "description": "Three prawn dumplings.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Siew Mai",
+        "category": "Dim Sum",
+        "price_cents": 470,
+        "currency": "SGD",
+        "description": "Three chicken and prawn siew mai.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Golden Sand Bun",
+        "category": "Dim Sum",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Three salted egg custard buns.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Sambal Kang Kong",
+        "category": "Vegetables",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Kang kong stir-fried with sambal.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Tom Yum Soup",
+        "category": "Soups",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Tom yum soup with beef, chicken or seafood option.",
+        "dietary_tags": ["spicy"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_kampong_glam_cafe_5911dd2d0d",
+    "place_name": "Kampong Glam Cafe",
+    "source_url": "https://www.singmenu.com/kampong-glam-cafe-menu/",
+    "source_type": "public_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.76,
+    "notes": "Public menu page states prices were sourced from Kampong Glam Cafe Singapore outlets. No official website menu was found during research, so confidence is moderate.",
+    "items": [
+      {
+        "name": "Gado-Gado",
+        "category": "In House Favourites",
+        "price_cents": 580,
+        "currency": "SGD",
+        "description": "Indonesian-style vegetable dish with peanut sauce.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Mee Rebus",
+        "category": "In House Favourites",
+        "price_cents": 580,
+        "currency": "SGD",
+        "description": "Yellow noodles in thick savoury gravy.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mee Siam",
+        "category": "In House Favourites",
+        "price_cents": 580,
+        "currency": "SGD",
+        "description": "Rice vermicelli in tangy spiced gravy.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Tahu Goreng",
+        "category": "In House Favourites",
+        "price_cents": 580,
+        "currency": "SGD",
+        "description": "Fried tofu dish.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Nasi Lemak",
+        "category": "In House Favourites",
+        "price_cents": 580,
+        "currency": "SGD",
+        "description": "Coconut rice plate with sambal and sides.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Nasi Goreng Ayam",
+        "category": "Rice",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Fried rice with chicken.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Nasi Goreng Vegetarian",
+        "category": "Rice",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Vegetarian fried rice.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mee Goreng Seafood",
+        "category": "Mee / Mee Hoon / Kuey Teow",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Fried yellow noodles with seafood.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Fish & Chips",
+        "category": "Western Dishes",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Western-style fried fish with chips.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Teh Tarik",
+        "category": "Beverages",
+        "price_cents": 200,
+        "currency": "SGD",
+        "description": "Pulled milk tea.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_yy_kafei_dian_eb1a582761",
+    "place_name": "YY Kafei Dian",
+    "source_url": "https://eatbook.sg/yy-kafei-dian/",
+    "source_type": "public_food_media",
+    "captured_at": "2026-05-03",
+    "confidence": 0.72,
+    "notes": "Food media article provides named items and prices from an independent visit. Additional current food media coverage confirms YY Kafei Dian still serves handmade kaya buns, chicken rice and Hainanese comfort dishes, but this batch keeps prices to items verified in the source URL.",
+    "items": [
+      {
+        "name": "Kaya Bun",
+        "category": "Toast and Buns",
+        "price_cents": 160,
+        "currency": "SGD",
+        "description": "House-baked toasted bun with kaya and cold butter.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Half Boiled Eggs",
+        "category": "Breakfast",
+        "price_cents": 150,
+        "currency": "SGD",
+        "description": "Runny half-boiled eggs for breakfast.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Kopi Bing",
+        "category": "Drinks",
+        "price_cents": 190,
+        "currency": "SGD",
+        "description": "Iced local coffee.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Kopi C",
+        "category": "Drinks",
+        "price_cents": 170,
+        "currency": "SGD",
+        "description": "Hot local coffee with evaporated milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chicken Rice",
+        "category": "Rice",
+        "price_cents": 450,
+        "currency": "SGD",
+        "description": "Steamed or roasted chicken rice.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Beef Hor Fun with Gravy",
+        "category": "Noodles",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Flat rice noodles with beef and gravy.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Pork Chop Rice",
+        "category": "Rice",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Rice plate with Hainanese-style pork chop.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Yang Zhou Fried Rice",
+        "category": "Rice",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Yangzhou-style fried rice.",
+        "dietary_tags": []
+      }
+    ]
+  }
+]

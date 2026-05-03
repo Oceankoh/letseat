@@ -1,0 +1,334 @@
+[
+  {
+    "place_id": "google_coexist_coffee_co_lifelong_learning_institute_a2a0876b95",
+    "place_name": "Coexist Coffee Co. @Lifelong Learning Institute",
+    "source_url": "https://coexistcoffee.co/pages/lifelonglearninginstitute",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Official LLI outlet page links a menu PDF and confirms the Lifelong Learning Institute outlet. Item names and prices were taken from a converted copy of the linked LLI menu PDF at https://manuals.plus/m/add4040ad9446079637b50d477f9ebf09b383f2ac0ad3d8b856f8631a91c3e38 because the official CDN PDF was not fetchable through the research browser. Prices are subject to service charge and GST.",
+    "items": [
+      {
+        "name": "Coexist Breakfast",
+        "category": "Brunch",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Sourdough with sauteed mushrooms, herbed potatoes, roasted tomato, maple bacon, pork sausage and eggs.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Guac Toast",
+        "category": "Brunch",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Brioche with guacamole, basil cherry tomatoes and feta.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Smoked Salmon Toast",
+        "category": "Brunch",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Sourdough with smoked salmon, dill yogurt, capers, pickled onion and mesclun.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Chicken Waffle",
+        "category": "Brunch",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Belgian waffle with buttermilk fried chicken and maple syrup.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Aglio Olio",
+        "category": "Pasta",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Linguine with garlic, chili, parsley, kombu dashi and Grana Padano.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Ebiko Pasta",
+        "category": "Pasta",
+        "price_cents": 2700,
+        "currency": "SGD",
+        "description": "Linguine with ebiko cream, prawn stock, brandy, grilled prawns and nori.",
+        "dietary_tags": ["shellfish", "alcohol"]
+      },
+      {
+        "name": "Laksa Fish & Chips",
+        "category": "Mains",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Halibut with laksa cream sauce, pickles, mesclun and fries.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Chili Crab Shakshuka",
+        "category": "Sharings",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Chili crab tomato dip with soft-shell crab, fried mantou and sous vide egg.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Coconut Brew",
+        "category": "Coffee",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Twelve-hour cold brew coffee with coconut water.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_arabica_singapore_arab_street_32e8539c40",
+    "place_name": "% Arabica Singapore Arab Street",
+    "source_url": "https://menu-sg.com/arabica/",
+    "source_type": "public_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.7,
+    "notes": "No official Singapore menu page with prices was found during research. This public menu page lists Arabica Singapore prices and includes the 56 Arab Street location; location was cross-checked against public Arab Street listing pages and Arabica's official locations site.",
+    "items": [
+      {
+        "name": "Espresso",
+        "category": "Espresso Based",
+        "price_cents": 480,
+        "currency": "SGD",
+        "description": "Classic espresso.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Espresso Macchiato",
+        "category": "Espresso Based",
+        "price_cents": 580,
+        "currency": "SGD",
+        "description": "Espresso marked with milk foam.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Caffe Latte Hot % Blend",
+        "category": "Espresso Based",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Hot latte made with the % blend.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Iced Caffe Latte",
+        "category": "Espresso Based",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Iced espresso latte.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Iced Dark Latte",
+        "category": "Espresso Based",
+        "price_cents": 960,
+        "currency": "SGD",
+        "description": "Iced espresso drink with dark chocolate notes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Kyoto Latte Hot",
+        "category": "Espresso Based",
+        "price_cents": 780,
+        "currency": "SGD",
+        "description": "Hot Kyoto-style latte.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Lemonade Sparkling",
+        "category": "Other Beverages",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Sparkling lemonade.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Butter Croissant",
+        "category": "Pastries",
+        "price_cents": 480,
+        "currency": "SGD",
+        "description": "Butter croissant pastry.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_kings_cart_coffee_factory_e1107bf44d",
+    "place_name": "Kings Cart Coffee Factory",
+    "source_url": "https://cdn.shopify.com/s/files/1/0793/6465/3295/files/KCCFMENU.pdf?v=1772096877",
+    "source_type": "restaurant_menu_pdf",
+    "captured_at": "2026-05-03",
+    "confidence": 0.94,
+    "notes": "Official Kings Cart Coffee Factory outlet page links this menu PDF. Prices are subject to prevailing GST and 10% service charge.",
+    "items": [
+      {
+        "name": "Coconut Latte",
+        "category": "Specialty Coffee",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Espresso with Gula Melaka, coconut cream and toasted coconut flakes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pandan Sweet Cream",
+        "category": "Specialty Coffee",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Cold brew coffee with pandan-infused sweet cream.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mocha Bloom",
+        "category": "Coffee Signature",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Coffee with Oatside chocolate milk and orange.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Salted Caramel Latte",
+        "category": "Coffee Signature",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Espresso latte with salted caramel and Speculoos crumbs.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "King's Breakfast",
+        "category": "Brunch",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Scrambled eggs, guac smash, smoked salmon, chicken sausage, tomato, mushrooms and sourdough.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Laksa Prawn Bennies",
+        "category": "Brunch",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Brioche with prawn tobiko patty, spinach, poached eggs, laksa bearnaise and ikura.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Holy Guacamole",
+        "category": "Brunch",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Smashed avocado on rye sourdough with tomatoes, rocket and olive oil.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Katong Laksa Fish & Chips",
+        "category": "Brunch",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Soda-battered halibut with fries, lemon, rocket and laksa sauce.",
+        "dietary_tags": ["fish", "spicy"]
+      },
+      {
+        "name": "Mentaiko Carbonara",
+        "category": "Mains",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Linguine with mentaiko cream sauce, bacon bits, furikake, wine and parmesan.",
+        "dietary_tags": ["pork", "fish", "alcohol"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_baristart_coffee_singapore_tras_street_97ecaa0122",
+    "place_name": "Baristart Coffee Singapore Tras Street",
+    "source_url": "https://www.baristartcoffee.sg/documents/Baristart-Coffee-Menu-TrasSt.pdf",
+    "source_type": "restaurant_menu_pdf",
+    "captured_at": "2026-05-03",
+    "confidence": 0.96,
+    "notes": "Official Baristart Coffee Tras Street menu PDF. Prices are subject to 10% service charge and prevailing GST.",
+    "items": [
+      {
+        "name": "Baristart Latte",
+        "category": "Beverage - White",
+        "price_cents": 670,
+        "currency": "SGD",
+        "description": "Hot or iced latte with Hokkaido BIEI Jersey milk, soy milk or oat milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Black Cold Brew",
+        "category": "Cold Brew",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Bottled black cold brew coffee.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Matcha Strawberry Cloud",
+        "category": "Matcha",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Matcha with strawberry cloud, homemade strawberry jam, Hokkaido milk and honey.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "BAC Breakfast",
+        "category": "Breakfast",
+        "price_cents": 2480,
+        "currency": "SGD",
+        "description": "Japanese omelette, smoked pork and cheese sausage, vegetables, sourdough and seaweed butter.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Steak & Egg",
+        "category": "Breakfast",
+        "price_cents": 2380,
+        "currency": "SGD",
+        "description": "Sourdough with avocado salsa, scrambled egg, grilled wagyu beef flank and salad.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Avocado Open Toast",
+        "category": "Breakfast",
+        "price_cents": 1780,
+        "currency": "SGD",
+        "description": "Sourdough with guacamole, tomatoes, caramelised almond, smoked Scamorza and salad.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Tonkatsu",
+        "category": "Sando",
+        "price_cents": 1880,
+        "currency": "SGD",
+        "description": "Hot pork loin sando with mustard butter, tonkatsu sauce, cabbage and gherkins.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Hokkaido Aged Wagyu Don",
+        "category": "Mains",
+        "price_cents": 2780,
+        "currency": "SGD",
+        "description": "Wagyu flank rice bowl with yakiniku sauce, yuzu whipped cream, egg and miso soup.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Hokkaido Carbonara",
+        "category": "Mains",
+        "price_cents": 1980,
+        "currency": "SGD",
+        "description": "Spaghetti with bacon, Hokkaido milk carbonara sauce, onsen egg and Grana Padano.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Hokkaido Cream Puff",
+        "category": "Cream Puff",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Cream puff filled with Hokkaido BIEI Jersey milk custard cream.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

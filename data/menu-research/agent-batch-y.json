@@ -1,0 +1,366 @@
+[
+  {
+    "place_id": "google_the_royals_cafe_siglap_f43766d4fd",
+    "place_name": "The Royals Cafe Siglap",
+    "source_url": "https://siglap.royalcakes.com/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.94,
+    "notes": "Official Royals Cafe Siglap online ordering menu. Items may show unavailable for the selected pickup slot, but names and prices are displayed on the restaurant ordering page.",
+    "items": [
+      {
+        "name": "Signature Mee Siam",
+        "category": "Asian Best-Sellers",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Signature mee siam from the Asian best-sellers section.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Nasi Lemak Classic",
+        "category": "Asian Best-Sellers",
+        "price_cents": 1130,
+        "currency": "SGD",
+        "description": "Classic nasi lemak listed as a best seller.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Nasi Lemak with Ayam Masak Merah",
+        "category": "Asian Best-Sellers",
+        "price_cents": 1330,
+        "currency": "SGD",
+        "description": "Nasi lemak served with ayam masak merah.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Prawn & Mushroom Linguine",
+        "category": "Pasta",
+        "price_cents": 1730,
+        "currency": "SGD",
+        "description": "Linguine with prawns and mushrooms.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Sautéed Vegetables & Mushroom Linguine",
+        "category": "Pasta",
+        "price_cents": 1530,
+        "currency": "SGD",
+        "description": "Linguine with sauteed vegetables and mushrooms.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pan-Fried Norwegian Salmon",
+        "category": "Western",
+        "price_cents": 2530,
+        "currency": "SGD",
+        "description": "Pan-fried Norwegian salmon main.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Fish & Chips",
+        "category": "Western",
+        "price_cents": 2030,
+        "currency": "SGD",
+        "description": "Fish and chips western main.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Royals Beef Burger",
+        "category": "Burgers & Sandwiches",
+        "price_cents": 2030,
+        "currency": "SGD",
+        "description": "Royals beef burger.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mushroom Cheese Sandwich",
+        "category": "Burgers & Sandwiches",
+        "price_cents": 1430,
+        "currency": "SGD",
+        "description": "Mushroom and cheese sandwich.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Quinoa Salad",
+        "category": "Sides & Starters",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Quinoa salad side.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_simplicit_by_fresh_fruits_lab_330e96ab9c",
+    "place_name": "Simplicité by Fresh Fruits Lab",
+    "source_url": "https://www.singaporemeal.com/655544791166281/Simplicit%C3%A9-by-Fresh-Fruits-Lab",
+    "source_type": "public_social_mirror",
+    "captured_at": "2026-05-03",
+    "confidence": 0.68,
+    "notes": "Official FFL site confirms Simplicité at 351 Changi Road and exposes a current menu attachment page, but item text was not retrievable. Representative item names are from mirrored official social posts dated August 2025 and public menu coverage at https://middleclass.sg/treats/simplicite-fresh-fruits-lab/. Prices are null unless not verified from a current accessible menu.",
+    "items": [
+      {
+        "name": "Messy Breakfast",
+        "category": "Mains",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Breakfast main highlighted in a recent menu launch post.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Double Cheese Burger",
+        "category": "Mains",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Cheese burger highlighted in a recent menu launch post.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Blueberry Pancake Stack",
+        "category": "Brunch",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Blueberry pancake stack from the new menu launch post.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Strawberry Matcha Latte",
+        "category": "Drinks",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Strawberry and matcha latte announced as a new menu drink.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Duck Confit",
+        "category": "Mains",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "French-style duck confit main.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Masago Prawn Pasta",
+        "category": "Pasta",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Prawn pasta frequently mentioned as an evergreen Simplicité item.",
+        "dietary_tags": ["fish", "shellfish"]
+      },
+      {
+        "name": "Dewberry Sponge",
+        "category": "Desserts",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Sponge cake dessert from the recent dessert launch.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Berryhush Cloud",
+        "category": "Desserts",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Berry dessert from the recent dessert launch.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Sunny Cheeselet",
+        "category": "Desserts",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Cheese dessert from the recent dessert launch.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Lychee Cocoroll",
+        "category": "Desserts",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Lychee and coconut roll dessert from the recent dessert launch.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_rise_bakehouse_potong_pasir_bf33f9dbf5",
+    "place_name": "Rise Bakehouse @ Potong Pasir",
+    "source_url": "https://risebakehouse.sg/pages/rise-bakehouse-potong-pasir",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Official Potong Pasir page confirms this outlet is a cakes, coffee, waffles and gelato concept. Prices for representative whole cakes and bakes were taken from official Rise Bakehouse shop pages including https://risebakehouse.sg/collections/wholecakes, https://risebakehouse.sg/, and https://risebakehouse.sg/products/gula-melaka-mochi-waffles.",
+    "items": [
+      {
+        "name": "Strawberry Shortcake",
+        "category": "Classic Whole Cakes",
+        "price_cents": 7800,
+        "currency": "SGD",
+        "description": "Classic whole cake, starting price.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Kaya Pistachio Cake",
+        "category": "Classic Whole Cakes",
+        "price_cents": 6800,
+        "currency": "SGD",
+        "description": "Kaya and pistachio whole cake, starting price.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Honey Pear Chrysanthemum Cake",
+        "category": "Classic Whole Cakes",
+        "price_cents": 6800,
+        "currency": "SGD",
+        "description": "Honey, pear and chrysanthemum whole cake, starting price.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Kueh Salat Cake",
+        "category": "Classic Whole Cakes",
+        "price_cents": 6500,
+        "currency": "SGD",
+        "description": "Kueh salat whole cake, starting price.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pistachio Honeycomb Cake",
+        "category": "Classic Whole Cakes",
+        "price_cents": 6200,
+        "currency": "SGD",
+        "description": "Pistachio honeycomb whole cake, starting price.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Osmanthus Oolong Cake",
+        "category": "Classic Whole Cakes",
+        "price_cents": 6200,
+        "currency": "SGD",
+        "description": "Osmanthus and oolong whole cake, starting price.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Orh Nee Yam Cake",
+        "category": "Classic Whole Cakes",
+        "price_cents": 6200,
+        "currency": "SGD",
+        "description": "Orh nee yam whole cake, starting price.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Black Forest Cake",
+        "category": "Classic Whole Cakes",
+        "price_cents": 6500,
+        "currency": "SGD",
+        "description": "Black forest whole cake, starting price.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Strawberry Matcha Teacake",
+        "category": "Small Bakes",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Strawberry and matcha teacake.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Gula Melaka Mochi Waffles",
+        "category": "Waffles",
+        "price_cents": 1790,
+        "currency": "SGD",
+        "description": "Brown butter waffles with gula melaka mochi and a scoop of gelato.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_holy_cow_creamery_0aebfd36fa",
+    "place_name": "Holy Cow Creamery",
+    "source_url": "https://holycowcreamery.sg/our-menu/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "notes": "Official Holy Cow Creamery menu page lists scoop, pint, waffle, bake, coffee, tea and soda prices. The page was behind bot verification on direct open, but indexed menu text exposed the official prices.",
+    "items": [
+      {
+        "name": "Single Scoop",
+        "category": "Handcrafted Ice Cream",
+        "price_cents": 430,
+        "currency": "SGD",
+        "description": "Single scoop of handcrafted ice cream.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Double Scoop",
+        "category": "Handcrafted Ice Cream",
+        "price_cents": 780,
+        "currency": "SGD",
+        "description": "Double scoop of handcrafted ice cream.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Ice Cream Pint - Classic",
+        "category": "Handcrafted Ice Cream",
+        "price_cents": 1380,
+        "currency": "SGD",
+        "description": "16oz pint of classic ice cream.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Ice Cream Pint - Premium",
+        "category": "Handcrafted Ice Cream",
+        "price_cents": 1780,
+        "currency": "SGD",
+        "description": "16oz pint of premium ice cream.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Golden Waffle",
+        "category": "Waffles & Bakes",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Golden waffle served with maple syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Charcoal Waffle",
+        "category": "Waffles & Bakes",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Charcoal waffle served with salted caramel.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Brownie",
+        "category": "Waffles & Bakes",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Brownie bake.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Choc Lava Cake",
+        "category": "Waffles & Bakes",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Chocolate lava cake.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Affogato",
+        "category": "Coffee",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Coffee affogato.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Blue Pea Lemonade",
+        "category": "Speciality Sodas & Other Drinks",
+        "price_cents": 480,
+        "currency": "SGD",
+        "description": "Blue pea lemonade soda.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  }
+]

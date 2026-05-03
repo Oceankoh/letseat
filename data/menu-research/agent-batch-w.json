@@ -1,0 +1,382 @@
+[
+  {
+    "place_id": "google_breakfastgrill_east_coast_2a3bdb007a",
+    "place_name": "BreakfastGrill - East Coast",
+    "source_url": "https://www.foodpanda.sg/restaurant/opfh/breakfast-grill-east-coast-road",
+    "source_type": "delivery_platform",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Foodpanda page for the East Coast Road outlet lists current delivery menu items and prices. Prices may include delivery-platform markup; items marked 'from' use the displayed starting price.",
+    "items": [
+      {
+        "name": "Cheeses",
+        "category": "All Day Sammies",
+        "price_cents": 1630,
+        "currency": "SGD",
+        "description": "Garlic grilled cheese on thin-sliced brioche with chilli flakes.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Croque Monsieur",
+        "category": "All Day Sammies",
+        "price_cents": 1630,
+        "currency": "SGD",
+        "description": "Smoked honey baked ham sandwich with portobello.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Counter Brekkie",
+        "category": "All Day Sammies",
+        "price_cents": 1690,
+        "currency": "SGD",
+        "description": "Smoked pork bacon, avocado, over-easy egg and sriracha butter.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Classic Brekkie",
+        "category": "All Day Sammies",
+        "price_cents": 1820,
+        "currency": "SGD",
+        "description": "Spiced sausage, bacon onion marmalade, scrambled egg, cheddar and tartar sauce.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Hot Chick",
+        "category": "All Day Sammies",
+        "price_cents": 2060,
+        "currency": "SGD",
+        "description": "Five-spice fried chicken thigh with scrambled egg, jalapeno Cheetos and garlic aioli.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "BFF - Better Than Fillet-O-Fish",
+        "category": "All Day Sammies",
+        "price_cents": 2560,
+        "currency": "SGD",
+        "description": "Beer-battered halibut with pickles, remoulade and American nacho cheese.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Chorizo Pasta",
+        "category": "Mains",
+        "price_cents": 2130,
+        "currency": "SGD",
+        "description": "Spicy tomato pasta with three cheeses and pork chorizo.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Beer Battered Fish & Chips",
+        "category": "Mains",
+        "price_cents": 2880,
+        "currency": "SGD",
+        "description": "Beer-battered halibut with peri peri chips and tartar sauce.",
+        "dietary_tags": ["fish", "spicy"]
+      },
+      {
+        "name": "Avo On Toast",
+        "category": "Brunch",
+        "price_cents": 2130,
+        "currency": "SGD",
+        "description": "Avocado and scrambled eggs on buttered sourdough with hot honey.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Mentaiko Mac And Cheese Udon",
+        "category": "Sharing",
+        "price_cents": 2250,
+        "currency": "SGD",
+        "description": "Baked mentaiko udon with prawn bits.",
+        "dietary_tags": ["fish", "shellfish"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_east_coast_commune_06c1f2fda9",
+    "place_name": "East Coast Commune",
+    "source_url": "https://www.foodpanda.sg/restaurant/o0qe/east-coast-commune-east-coast-parkway",
+    "source_type": "delivery_platform",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "notes": "Foodpanda page for the East Coast Parkway outlet lists current delivery menu items with promotional and original prices. This batch records the original listed price; items marked 'from' use the displayed starting price.",
+    "items": [
+      {
+        "name": "The Brekkie",
+        "category": "Brunch",
+        "price_cents": 2950,
+        "currency": "SGD",
+        "description": "Pork fennel sausage, bacon, portobello, tomatoes, spinach, sourdough and scrambled eggs.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Veggie Brekkie",
+        "category": "Brunch",
+        "price_cents": 2950,
+        "currency": "SGD",
+        "description": "Avocado, halloumi, portobello, tomatoes, spinach, sourdough and scrambled eggs.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Steak & Eggs",
+        "category": "Brunch",
+        "price_cents": 3800,
+        "currency": "SGD",
+        "description": "Australian grain-fed picanha with sunny-side egg, potatoes and smoked onion mayo.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Salmon Bagel",
+        "category": "Brunch",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Sesame bagel with smoked salmon, horseradish, celeriac slaw, egg, capers and arugula.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Smashed Avocado Toast",
+        "category": "Brunch",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Avocado toast with feta, dukkah, pomegranate, beetroot hummus and herb oil.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Crispy Kataifi Snapper",
+        "category": "Lunch",
+        "price_cents": 2950,
+        "currency": "SGD",
+        "description": "Snapper with chili turmeric marinade, coconut couscous, achar and sambal shrimp emulsion.",
+        "dietary_tags": ["fish", "shellfish", "spicy"]
+      },
+      {
+        "name": "White Bean & Spinach Lasagne",
+        "category": "Lunch",
+        "price_cents": 2834,
+        "currency": "SGD",
+        "description": "Cannellini bean ragout with spinach nutmeg cream and rocket fennel salad.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Truffle Parmesan Fries",
+        "category": "Small Plates",
+        "price_cents": 1350,
+        "currency": "SGD",
+        "description": "Shoestring fries with truffle oil and parmesan.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Cauliflower Pops",
+        "category": "Small Plates",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Cauliflower with almond tahini, crispy chickpeas and curry leaf.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Granola Bowl",
+        "category": "Fruit Bowls",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Greek yogurt, berry compote, seasonal fruit, granola and honey.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_chock_full_of_beans_b0ba19858d",
+    "place_name": "Chock Full Of Beans",
+    "source_url": "https://eats.oddle.me/menus/chock-full-of-beans",
+    "source_type": "delivery_platform",
+    "captured_at": "2026-05-03",
+    "confidence": 0.73,
+    "notes": "Official domain currently resolves to a domain-sale page, so this batch uses the Oddle Eats menu listing for current item names. Oddle confirms the delivery menu items but the crawl did not expose prices or descriptions, so prices are null and descriptions are concise item-type summaries.",
+    "items": [
+      {
+        "name": "Mushroom Soup",
+        "category": "Soup",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Mushroom soup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Lobster Bisque",
+        "category": "Soup",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Lobster bisque.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Caesar Salad",
+        "category": "Salad",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Caesar salad.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Chock Full Of Big Breakfast",
+        "category": "Brunch",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Big breakfast platter.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Salmon Croquette Eggs Benedict",
+        "category": "Brunch",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Eggs Benedict with salmon croquette.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Ultimate Rosti Benedict With Pulled Pork",
+        "category": "Brunch",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Rosti Benedict with pulled pork.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Angus Beef Burger",
+        "category": "Burger",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Angus beef burger.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Cubano Sandwich",
+        "category": "Sandwich",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Cubano sandwich.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Spaghetti With Scallops & Lobster Bisque",
+        "category": "Pasta",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Spaghetti with scallops and lobster bisque.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Spaghetti With Wild Mushrooms & Truffle Oil",
+        "category": "Pasta",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Spaghetti with wild mushrooms and truffle oil.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Cold Brew White",
+        "category": "Coffee",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Bottled white cold brew coffee.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_hello_arigato_4fe90e67ed",
+    "place_name": "Hello Arigato",
+    "source_url": "https://www.helloarigato.com/tiongbahru",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official Hello Arigato Tiong Bahru page links to the current menu PDF and delivery site. Item names and prices were cross-checked against current public menu coverage at https://ordinarypatrons.com/2026/03/28/hello-arigato-tiong-bahru-shokubuns-sandos-pasta-in-heritage-neighbourhood/ and https://sgmyfoodie.com/hello-arigato-menu-singapore/ because the official order site is JavaScript-rendered.",
+    "items": [
+      {
+        "name": "Tuna Meltz",
+        "category": "Shokubuns",
+        "price_cents": 1000,
+        "currency": "SGD",
+        "description": "Japanese milk bread bun with tuna mayo and tobiko.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Everyday Trufflin'",
+        "category": "Shokubuns",
+        "price_cents": 1050,
+        "currency": "SGD",
+        "description": "Japanese milk bread bun with truffle mayonnaise and dashi egg.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Porkatsu Sando",
+        "category": "Sandos",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Kurobuta pork collar with tonkatsu sauce, Japanese mayo and cabbage.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Gyu Sando",
+        "category": "Sandos",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Angus beef striploin with caramelised sweet onion jam on Japanese milk bread.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Tamago Sando",
+        "category": "Sandos",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Japanese egg mayo, tamagoyaki and ajitama egg on milk bread.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Yuzu Honey Chicken Sando",
+        "category": "Sandos",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Crispy chicken sando with yuzu honey mustard and baby romaine.",
+        "dietary_tags": []
+      },
+      {
+        "name": "CP Egg Sando",
+        "category": "Sandos",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Cai po dashi omelette sando with spicy hae bee hiam.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Kinoko Pasta",
+        "category": "Pasta",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Spaghetti with wild mushrooms, shoyu butter, crispy kale and togarashi.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Mentaiko Pasta",
+        "category": "Pasta",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Spaghetti with Hokkaido scallop, light mentaiko sauce, tobiko, lemon zest and nori.",
+        "dietary_tags": ["fish", "shellfish"]
+      },
+      {
+        "name": "Miso Buta Don",
+        "category": "Donburi",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Sous vide pork belly with spiced miso glaze, apple and Japanese rice.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Arigato Truffle Fries",
+        "category": "Sides",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Fries with truffle, Parmigiano Reggiano and truffle mayo.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

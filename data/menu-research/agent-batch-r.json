@@ -1,0 +1,302 @@
+[
+  {
+    "place_id": "google_surrey_hills_grocer_woodleigh_mall_pet_friendly_1d27f6c934",
+    "place_name": "Surrey Hills Grocer - Woodleigh Mall (Pet Friendly)",
+    "source_url": "https://www.surreyhillsgrocer.sg/wl-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Official Woodleigh outlet menu images list current item names and descriptions but do not show prices, so prices are set to null.",
+    "items": [
+      {
+        "name": "Triple Truffle Fries",
+        "category": "Soup, Salads, Snacks",
+        "price": null,
+        "currency": "SGD",
+        "description": "Fries coated with truffle powder, truffle olive oil and parmesan.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chicken Katsu Caesar Salad",
+        "category": "Soup, Salads, Snacks",
+        "price": null,
+        "currency": "SGD",
+        "description": "Baby gem lettuce with anchovy garlic dressing, bacon, egg and chicken katsu.",
+        "dietary_tags": ["chicken", "pork"]
+      },
+      {
+        "name": "Lava Wagyu Burger",
+        "category": "Mains",
+        "price": null,
+        "currency": "SGD",
+        "description": "Wagyu beef patty with house sauce, caramelised onion and brioche bun.",
+        "dietary_tags": ["beef"]
+      },
+      {
+        "name": "Baked Barramundi Mediterranean Style",
+        "category": "Mains",
+        "price": null,
+        "currency": "SGD",
+        "description": "Barramundi with olives, tomatoes, dill and parsley.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Pork Belly Benny",
+        "category": "All Day Brunch",
+        "price": null,
+        "currency": "SGD",
+        "description": "Fried pork belly with lava eggs, mustard and hollandaise on sourdough.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Poke Smoked Salmon Toast",
+        "category": "All Day Brunch",
+        "price": null,
+        "currency": "SGD",
+        "description": "Smoked salmon, diced avocado, cherry tomato and shoyu dressing on sourdough.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Classic Stack",
+        "category": "Pancakes",
+        "price": null,
+        "currency": "SGD",
+        "description": "Three pancakes with vanilla creme chantilly, whipped butter and maple syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Wagyu Curry Pasta",
+        "category": "Pasta",
+        "price": null,
+        "currency": "SGD",
+        "description": "Wagyu mince in Japanese curry with penne and furikake bread crumbs.",
+        "dietary_tags": ["beef"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_little_farms_bar_grill_serangoon_garden_restaura_6e0b11d74f",
+    "place_name": "Little Farms Bar+Grill Serangoon Garden",
+    "source_url": "https://littlefarmscafe.com/cdn/shop/files/FOOD_DAY_SRG.pdf?v=16305317849009370566",
+    "source_type": "restaurant_website_pdf",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "notes": "Official Serangoon Garden day menu PDF. Prices are before prevailing GST and service charge; menu notes dietary abbreviations such as VG, V, GF, GFOA, DF and CN.",
+    "items": [
+      {
+        "name": "Organic Acai Bowl",
+        "category": "Breakfast",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Acai bowl with granola, banana, strawberry, mango and coconut.",
+        "dietary_tags": ["vegan", "nuts", "gluten-free-option"]
+      },
+      {
+        "name": "Homemade Granola Bowl",
+        "category": "Breakfast",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Greek yoghurt with seasonal fruits and honey.",
+        "dietary_tags": ["vegetarian", "nuts", "gluten-free-option"]
+      },
+      {
+        "name": "Aussie Breakfast Platter",
+        "category": "Breakfast",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Eggs, beans, portobello, tomato, pork sausage, bacon and sourdough.",
+        "dietary_tags": ["pork", "gluten-free-option"]
+      },
+      {
+        "name": "Vegan Breakfast Platter",
+        "category": "Breakfast",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Portobello, kale, tempeh, beans, tomato, avocado and sourdough.",
+        "dietary_tags": ["vegan", "gluten-free-option"]
+      },
+      {
+        "name": "Smoked Salmon Bagel",
+        "category": "Breakfast",
+        "price_cents": 2100,
+        "currency": "SGD",
+        "description": "Smoked salmon with avocado, cucumber, dill cream cheese and capers.",
+        "dietary_tags": ["fish", "gluten-free-option"]
+      },
+      {
+        "name": "Chilli Crab Pasta",
+        "category": "Pasta",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Spaghetti with crab meat, chilli crab base, fried mantou and coriander salad.",
+        "dietary_tags": ["seafood", "spicy"]
+      },
+      {
+        "name": "Mushroom Medley Aglio Olio Orecchiette",
+        "category": "Pasta",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Orecchiette with mushrooms, asparagus, garlic, sun-dried tomato and chilli flakes.",
+        "dietary_tags": ["vegetarian", "gluten-free-option"]
+      },
+      {
+        "name": "Steak Frites",
+        "category": "Mains",
+        "price_cents": 3600,
+        "currency": "SGD",
+        "description": "Australian grass-fed striploin steak with salt and shoestring fries.",
+        "dietary_tags": ["beef"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_flock_cafe_68686146b0",
+    "place_name": "FLOCK CAFE",
+    "source_url": "https://www.flockcafe.com.sg/pages/our-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.93,
+    "notes": "Official Flock Cafe menu page lists item names, descriptions and SGD prices. Representative items selected across breakfast, classics, pasta, waffles and drinks.",
+    "items": [
+      {
+        "name": "Big Breakfast",
+        "category": "All Day Breakfast",
+        "price_cents": 2080,
+        "currency": "SGD",
+        "description": "Eggs with baked beans, sausage, bacon, potatoes, onions, mushrooms and sourdough.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Flock House Salad",
+        "category": "Salad",
+        "price_cents": 1280,
+        "currency": "SGD",
+        "description": "Avocado couscous, tomatoes, roasted garlic, almond, granola and mesclun.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Chicken Katsu Burger",
+        "category": "Classics",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Chicken katsu burger with cheddar, slaw, tomato, lettuce and cajun fries.",
+        "dietary_tags": ["chicken"]
+      },
+      {
+        "name": "Pork Cheek Rigatoni",
+        "category": "Pasta",
+        "price_cents": 1680,
+        "currency": "SGD",
+        "description": "Rigatoni with braised pork cheek, grated parmesan and basil.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Prawn Linguini (Soup Base)",
+        "category": "Pasta",
+        "price_cents": 1680,
+        "currency": "SGD",
+        "description": "Linguini with prawns, dried shrimps, spring onion and chilli padi.",
+        "dietary_tags": ["seafood", "spicy"]
+      },
+      {
+        "name": "Five Cheese Pizza",
+        "category": "Classics",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Pizza with five cheeses, tomato sauce, nuts and raisins.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Summer Waffles",
+        "category": "Waffles",
+        "price_cents": 1300,
+        "currency": "SGD",
+        "description": "Waffles with vanilla or tiramisu ice cream, Nutella, honey and almond flakes.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Ice Banana Caramel Latte",
+        "category": "Drinks",
+        "price_cents": 920,
+        "currency": "SGD",
+        "description": "Iced latte with banana and caramel flavour.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_cafe_melba_at_mediapolis_4e3db87431",
+    "place_name": "Cafe Melba at Mediapolis",
+    "source_url": "https://deliveroo.com.sg/menu/singapore/sg-portsdown/cafe-melba-at-mediapolis-mediacorp-campus",
+    "source_type": "delivery_platform",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Official Cafe Melba site confirms the Mediapolis outlet but does not expose a text menu in the crawled page. Representative priced items are from the Cafe Melba Mediapolis Deliveroo menu; official outlet page cross-check: https://www.cafemelba.com.sg/cafe-melba-fudebar-menu.",
+    "items": [
+      {
+        "name": "Battered Fish and Chips",
+        "category": "Main Course",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Battered fish with homemade tartar, pickled red onion and herbs.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Chicken Parmigiana",
+        "category": "Main Course",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Panko-crusted chicken breast with tomato sauce, mozzarella, fries and salad.",
+        "dietary_tags": ["chicken"]
+      },
+      {
+        "name": "Classic Cheeseburger",
+        "category": "Main Course",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Australian wagyu beef patty with vegetables, burger sauce, pickle and fries.",
+        "dietary_tags": ["beef"]
+      },
+      {
+        "name": "A Nod to Japan",
+        "category": "Main Course",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Sushi rice with oyster mushroom, avocado, cucumber, tofu and seaweed.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Caesar Salad",
+        "category": "Main Course",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Romaine lettuce with croutons, parmesan, egg and bacon bits.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Beef Bolognese",
+        "category": "Main Course",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Pasta with Australian minced beef, tomato sauce and grana padano.",
+        "dietary_tags": ["beef"]
+      },
+      {
+        "name": "Truffle Mushroom",
+        "category": "Pizza",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Pizza with truffle sauce, mozzarella, portobello, rocket and parmesan.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Smashed Avo Toast",
+        "category": "Breakfast",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Sourdough with poached eggs, cherry tomato, dukkah, feta and pomegranate.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "place_id": "google_surrey_hills_grocer_one_holland_village_pet_frie_4adfb5110d",
+    "place_name": "Surrey Hills Grocer - One Holland Village (Pet Friendly)",
+    "source_url": "https://www.surreyhillsgrocer.sg/ohv-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Official One Holland Village menu page is image-based and confirms item names/descriptions. Prices are left null where not visible in the official image menu; three priced OHV items were cross-checked against Little Day Out at https://www.littledayout.com/surrey-hills-grocer-one-holland-village/.",
+    "items": [
+      {
+        "name": "Mexican Corn Soup",
+        "category": "Soup, Salads, Snacks",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Charred corn soup with feta and grilled pita.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Miso Clam Chowder",
+        "category": "Soup, Salads, Snacks",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Clam chowder with vegetables, aged shoyu, sake and toasted focaccia.",
+        "dietary_tags": ["seafood"]
+      },
+      {
+        "name": "Grilled Chicken Caesar Salad",
+        "category": "Soup, Salads, Snacks",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Baby gem lettuce with anchovy garlic dressing, bacon, egg and grilled chicken.",
+        "dietary_tags": ["chicken"]
+      },
+      {
+        "name": "Triple Truffle Fries",
+        "category": "Soup, Salads, Snacks",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Fries with truffle powder, truffle oil, parmesan and truffle mayo.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Classic Stack",
+        "category": "Pancakes",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Three pancakes with vanilla creme chantilly, whipped butter and maple syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fried Chicken Stack",
+        "category": "Pancakes",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Pancakes with buttermilk fried chicken, chilli honey, parmesan and whipped butter.",
+        "dietary_tags": ["chicken"]
+      },
+      {
+        "name": "Truffled Wagyu Donut",
+        "category": "Mains",
+        "price_cents": 3500,
+        "currency": "SGD",
+        "description": "Wagyu patty with pepper relish, truffle cheese, burger sauce and fries.",
+        "dietary_tags": ["beef"]
+      },
+      {
+        "name": "Chicken Katsu Tikka Marsala",
+        "category": "Mains",
+        "price_cents": 3200,
+        "currency": "SGD",
+        "description": "Breaded chicken with tikka masala sauce, parmesan and salad.",
+        "dietary_tags": ["chicken"]
+      },
+      {
+        "name": "Barramundi Salsa Verde",
+        "category": "Mains",
+        "price_cents": 4000,
+        "currency": "SGD",
+        "description": "Locally farmed barramundi with salsa verde and fennel salad.",
+        "dietary_tags": ["seafood"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_common_man_coffee_roasters_stanley_street_51a051d832",
+    "place_name": "Common Man Coffee Roasters - Stanley Street",
+    "source_url": "https://cdn.shopify.com/s/files/1/1000/4780/files/CMCR_New_Day_Menu_Dec25.pdf?v=1765252911",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.94,
+    "notes": "Official Common Man day menu PDF lists 11 Stanley St among covered outlets. Prices are exclusive of service charge and taxes.",
+    "items": [
+      {
+        "name": "Crunchy Granola",
+        "category": "Breakfast",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Spiced nuts and seeds, coconut flakes, goji berries, Greek yoghurt and fruit compote.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Umami Mushroom Avocado Toast",
+        "category": "Breakfast",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Mushrooms, avocado smash, red onion pickle, focaccia and togarashi.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Common Man Full Breakfast",
+        "category": "Breakfast",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Eggs, bacon, pork sausage, tomato, hash browns, mushroom, baked beans and toast.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Warm Kale Salad",
+        "category": "Salads",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Kale with egg white scramble, broccolini, sourdough crumbs and parmesan.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Rainbow Rice Bowl",
+        "category": "Salads",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Brown rice, poached egg, spicy pineapple kimchi, sweet potato chips and buckwheat.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Prawn Linguine Aglio Olio",
+        "category": "Pastas",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Linguine with prawns, roasted garlic, chilli and olive oil.",
+        "dietary_tags": ["seafood", "spicy"]
+      },
+      {
+        "name": "Fish and Chips",
+        "category": "Mains",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Beer-battered halibut with fries, salad and yuzu kosho tartare.",
+        "dietary_tags": ["seafood"]
+      },
+      {
+        "name": "Butter Chicken Rice",
+        "category": "Asian Flavours",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Chicken thigh with mint yoghurt, cashew, pappadum, mango chutney and brown rice.",
+        "dietary_tags": ["chicken", "nuts"]
+      },
+      {
+        "name": "Black",
+        "category": "Espresso Coffee",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Espresso coffee served black.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Kaya Toast Latte",
+        "category": "Specialty Iced Drinks",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Espresso with oat milk, coconut, pandan and kaya foam.",
+        "dietary_tags": []
+      }
+    ]
+  },
+  {
+    "place_id": "google_baker_and_cook_swan_lake_2ff21a3254",
+    "place_name": "Baker & Cook - Swan Lake",
+    "source_url": "https://www.foodpanda.sg/restaurant/s5eo/baker-and-cook-swan-lake",
+    "source_type": "public_delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Outlet-specific foodpanda listing was used for Swan Lake item availability and prices. Official Baker & Cook menu PDF at https://www.bakerandcook.com/s/BC-Serangoon.pdf confirms the current menu family but appears outlet-generic rather than Swan Lake-specific.",
+    "items": [
+      {
+        "name": "B&C Signature Sourdough Bread Board",
+        "category": "Brunch",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Signature sourdough bread board.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Big Breakfast",
+        "category": "Brunch",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Breakfast plate with eggs and sides.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mushroom Pate on Toast",
+        "category": "Brunch",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Mushroom pate served on toast.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Avo Smash",
+        "category": "Brunch",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Avocado smash brunch toast.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Fully Loaded Chicken Sandwich",
+        "category": "Brunch",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Loaded chicken sandwich.",
+        "dietary_tags": ["chicken"]
+      },
+      {
+        "name": "Ham & Cheese Croissant",
+        "category": "Crowd Favourites",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Croissant with ham and cheese.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Tomato & Cheese Croissant",
+        "category": "Crowd Favourites",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Croissant with tomato and cheese.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Butter Croissant",
+        "category": "Sweet Pastries & Tarts",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Classic butter croissant.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Latte",
+        "category": "Coffee",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Espresso with steamed milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Carrot & Apple Juice",
+        "category": "Fresh Juices",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Fresh carrot and apple juice.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_coexist_coffee_co_hillview_b762065bd6",
+    "place_name": "Coexist Coffee Co. @Hillview",
+    "source_url": "https://www.foodpanda.sg/restaurant/z1s3/coexist-coffee-co-hillview",
+    "source_type": "public_delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Official Hillview outlet page at https://coexistcoffee.co/pages/hillview confirms the location and dining policies but does not publish the itemized menu. Foodpanda Hillview listing was used for item names, descriptions and pre-discount menu prices.",
+    "items": [
+      {
+        "name": "Coexist Breakfast",
+        "category": "All Day Brunch",
+        "price_cents": 3150,
+        "currency": "SGD",
+        "description": "Sourdough with mushrooms, potatoes, tomato, maple bacon and pork garlic sausage.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Chicken Waffle",
+        "category": "All Day Brunch",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Belgian waffle with buttermilk fried chicken and maple syrup.",
+        "dietary_tags": ["chicken"]
+      },
+      {
+        "name": "Guac Toast",
+        "category": "All Day Brunch",
+        "price_cents": 1950,
+        "currency": "SGD",
+        "description": "Brioche with guacamole, basil cherry tomatoes and feta.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Surf & Turf CCF",
+        "category": "All Day Brunch",
+        "price_cents": 2050,
+        "currency": "SGD",
+        "description": "Chee cheong fun with tiger prawn, chicken char siew, laksa sauce and egg.",
+        "dietary_tags": ["seafood", "chicken"]
+      },
+      {
+        "name": "Half Roasted Chicken",
+        "category": "Mains",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Half roasted chicken with charred broccoli and chicken jus.",
+        "dietary_tags": ["chicken"]
+      },
+      {
+        "name": "Laksa Fish And Chips",
+        "category": "Mains",
+        "price_cents": 2950,
+        "currency": "SGD",
+        "description": "Tempura halibut with laksa cream sauce, pickles, salad and fries.",
+        "dietary_tags": ["seafood"]
+      },
+      {
+        "name": "Aglio Olio",
+        "category": "Pasta",
+        "price_cents": 1350,
+        "currency": "SGD",
+        "description": "Linguine with garlic, chilli padi, chilli flakes, parsley, kombu dashi and grana padano.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Black Pepper Crab Pasta",
+        "category": "Pasta",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Linguine with soft-shell crab, red swimming crab, black pepper and chilli padi.",
+        "dietary_tags": ["seafood", "spicy"]
+      },
+      {
+        "name": "Chili Crab Shakshuka",
+        "category": "Sharing Items",
+        "price_cents": 2050,
+        "currency": "SGD",
+        "description": "Chilli crab tomato dip with soft-shell crab, fried mantou and sous vide egg.",
+        "dietary_tags": ["seafood", "spicy"]
+      },
+      {
+        "name": "White",
+        "category": "Coffee",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Double espresso with milk.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

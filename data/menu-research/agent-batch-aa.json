@@ -1,0 +1,254 @@
+[
+  {
+    "place_id": "google_katong_laksa_george_s_2923afcd52",
+    "place_name": "Katong Laksa (George's)",
+    "source_url": "https://sethlui.com/katong-laksa-georges-singapore/",
+    "source_type": "review_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Recent SETHLUI review states the stall serves only Katong-style laksa and lists small and large bowl prices. Burpple, Tripadvisor and other local listings corroborate the address, single-dish menu and laksa ingredients, but there is no official restaurant menu page found.",
+    "items": [
+      {
+        "name": "Katong Laksa Small",
+        "category": "Laksa",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Katong-style laksa with coconut gravy, prawns, cockles, fish cake, bean sprouts and sambal.",
+        "dietary_tags": ["shellfish", "fish", "spicy"]
+      },
+      {
+        "name": "Katong Laksa Large",
+        "category": "Laksa",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Larger portion of Katong-style laksa with extra noodles and ingredients.",
+        "dietary_tags": ["shellfish", "fish", "spicy"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_september_coffee_86b5bcbf66",
+    "place_name": "September Coffee",
+    "source_url": "https://septembercoffeesg.com/menu-1",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official menu page publishes food and drinks as menu images; readable item names and prices were cross-checked against Chope's September Coffee menu-image listing and public menu mirrors such as SGMYFoodie.",
+    "items": [
+      {
+        "name": "Parma Brie French Toast",
+        "category": "All-Day Brunch",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Brioche French toast with parma ham, grilled peach, caramelised onions and whipped brie.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Smoked Salmon Sammie",
+        "category": "All-Day Brunch",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Focaccia sandwich with smoked Norwegian salmon, house-made cream cheese, greens and fries.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Fried Chicken French Toast",
+        "category": "All-Day Brunch",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Fried chicken with spicy maple, pickled shallots and brioche French toast.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Aburi Scallops Udon",
+        "category": "Specialty Udon",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Cold udon with glazed aburi scallops, cod roe, ikura, ebiko and yuzu shoyu.",
+        "dietary_tags": ["shellfish", "fish"]
+      },
+      {
+        "name": "Mentaiko Udon",
+        "category": "Specialty Udon",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Cold udon with sweet shrimps, cod roe, cream, ikura and nori.",
+        "dietary_tags": ["shellfish", "fish"]
+      },
+      {
+        "name": "Beef Ragu",
+        "category": "Pasta",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Conchiglie pasta with Angus beef brisket, cream, sous-vide egg and parmigiano reggiano.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Crab Linguine",
+        "category": "Pasta",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Linguine with crab meat, spicy lemon garlic butter, ebiko and nori.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Gula Melaka Latte",
+        "category": "Signatures",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Double espresso with house-made gula melaka, toasted coconut and fresh milk.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_the_apricus_coffee_and_food_co_fdc80fec0f",
+    "place_name": "The Apricus Coffee & Food Co.",
+    "source_url": "https://www.foodpanda.sg/restaurant/o5gk/the-apricus-coffee-and-food-co-jalan-kayu",
+    "source_type": "third_party_delivery",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Foodpanda outlet page for The Apricus Coffee & Food Co. Jalan Kayu lists current delivery categories, item names, descriptions and prices. Prices may reflect delivery-platform pricing.",
+    "items": [
+      {
+        "name": "The Populus Scramble",
+        "category": "All Day Brunch",
+        "price_cents": 2520,
+        "currency": "SGD",
+        "description": "Scrambled eggs with herbs, marinated feta, turkey bacon and toasted croissant.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Populus All Day Big Breakly",
+        "category": "All Day Brunch",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Poached eggs with hollandaise, multigrain toast, mushrooms, greens and baked beans.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Spring Pancake & Fried Chicken",
+        "category": "All Day Brunch",
+        "price_cents": 2730,
+        "currency": "SGD",
+        "description": "Spring onion corn pancake with fried chicken thigh and house ranch dressing.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Fish & Chips",
+        "category": "All Day Brunch",
+        "price_cents": 2880,
+        "currency": "SGD",
+        "description": "Tempura Atlantic halibut with paprika fries, truffle tartar sauce, lemon and greens.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Grass Fed Beef Burger",
+        "category": "All Day Brunch",
+        "price_cents": 2880,
+        "currency": "SGD",
+        "description": "Grass-fed beef burger with gruyere, chilli coriander jam, mustard mayo, pickles and fries.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Norwegian Salmon Brown Butter Linguine",
+        "category": "Pasta",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Linguine with dukkah-spiced salmon, fennel apple slaw, brown butter and kombu dust.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Seafood Linguine",
+        "category": "Pasta",
+        "price_cents": 3235,
+        "currency": "SGD",
+        "description": "Linguine braised in lobster bisque with crab meat, scallops, tobiko and tomatoes.",
+        "dietary_tags": ["shellfish", "fish"]
+      },
+      {
+        "name": "Cold White Brew",
+        "category": "Apricus Cold Brews",
+        "price_cents": 830,
+        "currency": "SGD",
+        "description": "Cold white coffee brew with fixed sugar level.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_bangkok_street_mookata_ang_mo_kio_f46922bdd7",
+    "place_name": "Bangkok Street Mookata - Ang Mo Kio",
+    "source_url": "https://bangkokstreetmookata.com.sg/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "notes": "Official Bangkok Street Mookata ordering site lists mookata sets, meats, seafood, vegetables, sides and drinks with prices. Foodpanda outlet pages corroborate the Ang Mo Kio branch and a similar current delivery menu; some a la carte items are listed as from-prices.",
+    "items": [
+      {
+        "name": "Mookata Set Platter for 2",
+        "category": "Set Menu",
+        "price_cents": 3800,
+        "currency": "SGD",
+        "description": "Raw mookata platter for two with mixed meats, seafood, vegetables, noodles and egg.",
+        "dietary_tags": ["pork", "shellfish", "fish"]
+      },
+      {
+        "name": "Mookata Set Platter for 3-4",
+        "category": "Set Menu",
+        "price_cents": 5800,
+        "currency": "SGD",
+        "description": "Raw mookata platter for three to four diners with meats, seafood, vegetables and sides.",
+        "dietary_tags": ["pork", "shellfish", "fish"]
+      },
+      {
+        "name": "A4 Japanese Wagyu Beef",
+        "category": "Beef",
+        "price_cents": 2880,
+        "currency": "SGD",
+        "description": "A la carte A4 Japanese wagyu beef for grilling.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Sirloin Beef Cube",
+        "category": "Beef",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "A la carte sirloin beef cubes; official site lists from S$12.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Marinated Pork Collar",
+        "category": "Pork",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "A la carte marinated pork collar; official site lists from S$8.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Marinated Garlic Chicken",
+        "category": "Chicken",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "A la carte garlic-marinated chicken; official site lists from S$8.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Deshelled Prawn",
+        "category": "Seafood Catch",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "A la carte deshelled prawns; official site lists from S$8.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Signature Lemongrass",
+        "category": "Homemade Drinks",
+        "price_cents": 300,
+        "currency": "SGD",
+        "description": "Homemade lemongrass drink.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  }
+]

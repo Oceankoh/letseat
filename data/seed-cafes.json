@@ -1,0 +1,1244 @@
+{
+  "version": 1,
+  "generated_for": "LetsEat MVP",
+  "currency": "SGD",
+  "notes": {
+    "scope": "Fictional cafe seed data focused on Singapore for local MVP development.",
+    "launch_geography": "Singapore. MVP cafe discovery, enrichment, and any future approved scraper experiments should target Singapore cafes first.",
+    "google_data": "Ratings, review counts, Google place IDs, and photo URLs are seed values, not live Google data.",
+    "saved_places": "Saved places are intentionally omitted because MVP saves are local browser/device state."
+  },
+  "food_terms": [
+    {
+      "id": "food_term_iced_matcha_latte",
+      "canonical_name": "iced matcha latte",
+      "aliases": ["iced matcha", "matcha latte", "green tea latte"],
+      "category": "drinks",
+      "ingredients": ["matcha", "milk"],
+      "cuisine_tags": ["cafe", "japanese-inspired"]
+    },
+    {
+      "id": "food_term_flat_white",
+      "canonical_name": "flat white",
+      "aliases": ["white coffee", "espresso milk coffee"],
+      "category": "coffee",
+      "ingredients": ["espresso", "milk"],
+      "cuisine_tags": ["cafe"]
+    },
+    {
+      "id": "food_term_banana_bread",
+      "canonical_name": "banana bread",
+      "aliases": ["banana loaf", "toasted banana bread"],
+      "category": "bakes",
+      "ingredients": ["banana", "flour"],
+      "cuisine_tags": ["cafe"]
+    },
+    {
+      "id": "food_term_eggs_benedict",
+      "canonical_name": "eggs benedict",
+      "aliases": ["egg benedict", "eggs benny", "benny"],
+      "category": "brunch",
+      "ingredients": ["egg", "hollandaise"],
+      "cuisine_tags": ["western", "brunch"]
+    },
+    {
+      "id": "food_term_smoked_salmon_bagel",
+      "canonical_name": "smoked salmon bagel",
+      "aliases": ["salmon bagel", "lox bagel"],
+      "category": "brunch",
+      "ingredients": ["smoked salmon", "bagel", "cream cheese"],
+      "cuisine_tags": ["western", "brunch"]
+    },
+    {
+      "id": "food_term_tiramisu",
+      "canonical_name": "tiramisu",
+      "aliases": ["espresso tiramisu", "classic tiramisu"],
+      "category": "dessert",
+      "ingredients": ["coffee", "mascarpone"],
+      "cuisine_tags": ["italian", "dessert"]
+    },
+    {
+      "id": "food_term_kaya_toast",
+      "canonical_name": "kaya toast",
+      "aliases": ["sourdough kaya toast", "kaya butter toast"],
+      "category": "toast",
+      "ingredients": ["kaya", "bread", "butter"],
+      "cuisine_tags": ["singaporean", "cafe"]
+    },
+    {
+      "id": "food_term_black_sesame_cake",
+      "canonical_name": "black sesame cake",
+      "aliases": ["black sesame chiffon", "sesame cake"],
+      "category": "dessert",
+      "ingredients": ["black sesame"],
+      "cuisine_tags": ["asian-inspired", "dessert"]
+    },
+    {
+      "id": "food_term_croissant",
+      "canonical_name": "croissant",
+      "aliases": ["butter croissant", "plain croissant"],
+      "category": "pastry",
+      "ingredients": ["butter", "flour"],
+      "cuisine_tags": ["french", "bakery"]
+    },
+    {
+      "id": "food_term_chicken_waffles",
+      "canonical_name": "chicken waffles",
+      "aliases": ["chicken and waffles", "fried chicken waffle"],
+      "category": "brunch",
+      "ingredients": ["chicken", "waffle"],
+      "cuisine_tags": ["western", "brunch"]
+    }
+  ],
+  "places": [
+    {
+      "id": "place_tiong_bahru_brew_table",
+      "name": "Tiong Bahru Brew Table",
+      "google_place_id": "seed_tiong_bahru_brew_table",
+      "address": "58 Seng Poh Road, Singapore 160058",
+      "neighborhood": "Tiong Bahru",
+      "latitude": 1.284883,
+      "longitude": 103.833085,
+      "categories": ["cafe", "coffee shop", "brunch"],
+      "price_level": 2,
+      "rating": 4.5,
+      "review_count": 842,
+      "opening_hours": {
+        "mon": "08:00-18:00",
+        "tue": "08:00-18:00",
+        "wed": "08:00-18:00",
+        "thu": "08:00-18:00",
+        "fri": "08:00-19:00",
+        "sat": "08:00-19:00",
+        "sun": "08:00-18:00"
+      },
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tiong%20Bahru%20Brew%20Table%20Singapore",
+      "google_reviews_url": "https://www.google.com/maps/search/Tiong%20Bahru%20Brew%20Table%20Singapore%20reviews",
+      "primary_photo_url": "/seed-images/places/tiong-bahru-brew-table.jpg",
+      "source": "manual_seed",
+      "source_updated_at": "2026-05-01T00:00:00+08:00",
+      "latest_menu": {
+        "id": "menu_tiong_bahru_brew_table_2026_05",
+        "source_type": "manual",
+        "source_url": null,
+        "captured_at": "2026-05-01T10:00:00+08:00",
+        "license_status": "internal_seed",
+        "processing_status": "approved_active",
+        "is_active": true,
+        "images": [
+          {
+            "id": "img_tiong_bahru_brew_table_board_1",
+            "image_url": "/seed-images/menus/tiong-bahru-brew-table-board-1.jpg",
+            "image_hash": "seed-tbbt-board-1",
+            "width": 1400,
+            "height": 1900,
+            "ocr_status": "succeeded",
+            "quality_score": 0.93,
+            "sort_order": 1
+          }
+        ],
+        "items": [
+          {
+            "id": "item_tbbt_flat_white",
+            "name": "Flat White",
+            "normalized_name": "flat white",
+            "description": "Double ristretto with steamed milk.",
+            "category": "Coffee",
+            "price": 6.5,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.99,
+            "extraction_confidence": 0.98
+          },
+          {
+            "id": "item_tbbt_iced_matcha_latte",
+            "name": "Iced Matcha Latte",
+            "normalized_name": "iced matcha latte",
+            "description": "Ceremonial matcha with fresh milk over ice.",
+            "category": "Tea",
+            "price": 8.0,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.98,
+            "extraction_confidence": 0.97
+          },
+          {
+            "id": "item_tbbt_banana_bread",
+            "name": "Toasted Banana Bread",
+            "normalized_name": "toasted banana bread",
+            "description": "Served warm with espresso butter.",
+            "category": "Bakes",
+            "price": 7.5,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.96,
+            "extraction_confidence": 0.95
+          },
+          {
+            "id": "item_tbbt_eggs_benedict",
+            "name": "Eggs Benedict",
+            "normalized_name": "eggs benedict",
+            "description": "Poached eggs, ham, hollandaise, sourdough.",
+            "category": "Brunch",
+            "price": 18.0,
+            "dietary_tags": [],
+            "ocr_confidence": 0.97,
+            "extraction_confidence": 0.96
+          },
+          {
+            "id": "item_tbbt_mushroom_toast",
+            "name": "Miso Mushroom Toast",
+            "normalized_name": "miso mushroom toast",
+            "description": "Roasted mushrooms, miso cream, herbs.",
+            "category": "Brunch",
+            "price": 16.0,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.94,
+            "extraction_confidence": 0.93
+          }
+        ]
+      }
+    },
+    {
+      "id": "place_katong_cream_and_coffee",
+      "name": "Katong Cream & Coffee",
+      "google_place_id": "seed_katong_cream_and_coffee",
+      "address": "201 Joo Chiat Road, Singapore 427472",
+      "neighborhood": "Katong",
+      "latitude": 1.306532,
+      "longitude": 103.905181,
+      "categories": ["cafe", "dessert", "coffee shop"],
+      "price_level": 2,
+      "rating": 4.3,
+      "review_count": 613,
+      "opening_hours": {
+        "mon": "09:00-21:00",
+        "tue": "09:00-21:00",
+        "wed": "09:00-21:00",
+        "thu": "09:00-21:00",
+        "fri": "09:00-22:00",
+        "sat": "09:00-22:00",
+        "sun": "09:00-21:00"
+      },
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Katong%20Cream%20and%20Coffee%20Singapore",
+      "google_reviews_url": "https://www.google.com/maps/search/Katong%20Cream%20and%20Coffee%20Singapore%20reviews",
+      "primary_photo_url": "/seed-images/places/katong-cream-and-coffee.jpg",
+      "source": "manual_seed",
+      "source_updated_at": "2026-05-01T00:00:00+08:00",
+      "latest_menu": {
+        "id": "menu_katong_cream_and_coffee_2026_05",
+        "source_type": "manual",
+        "source_url": null,
+        "captured_at": "2026-05-01T11:30:00+08:00",
+        "license_status": "internal_seed",
+        "processing_status": "approved_active",
+        "is_active": true,
+        "images": [
+          {
+            "id": "img_katong_cream_and_coffee_counter_1",
+            "image_url": "/seed-images/menus/katong-cream-and-coffee-counter-1.jpg",
+            "image_hash": "seed-kcc-counter-1",
+            "width": 1600,
+            "height": 1200,
+            "ocr_status": "succeeded",
+            "quality_score": 0.9,
+            "sort_order": 1
+          }
+        ],
+        "items": [
+          {
+            "id": "item_kcc_tiramisu",
+            "name": "Classic Tiramisu",
+            "normalized_name": "classic tiramisu",
+            "description": "Espresso-soaked sponge with mascarpone cream.",
+            "category": "Desserts",
+            "price": 10.5,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.97,
+            "extraction_confidence": 0.96
+          },
+          {
+            "id": "item_kcc_black_sesame_cake",
+            "name": "Black Sesame Chiffon Cake",
+            "normalized_name": "black sesame chiffon cake",
+            "description": "Light chiffon layered with black sesame cream.",
+            "category": "Cakes",
+            "price": 9.8,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.94,
+            "extraction_confidence": 0.92
+          },
+          {
+            "id": "item_kcc_iced_matcha_latte",
+            "name": "Iced Matcha Latte",
+            "normalized_name": "iced matcha latte",
+            "description": "Matcha, milk, light brown sugar.",
+            "category": "Drinks",
+            "price": 7.5,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.95,
+            "extraction_confidence": 0.94
+          },
+          {
+            "id": "item_kcc_kaya_toast",
+            "name": "Kaya Butter Toast",
+            "normalized_name": "kaya butter toast",
+            "description": "Crisp toast with kaya and cold butter slices.",
+            "category": "Toast",
+            "price": 5.8,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.93,
+            "extraction_confidence": 0.92
+          }
+        ]
+      }
+    },
+    {
+      "id": "place_haji_lane_coffee_room",
+      "name": "Haji Lane Coffee Room",
+      "google_place_id": "seed_haji_lane_coffee_room",
+      "address": "23 Haji Lane, Singapore 189216",
+      "neighborhood": "Kampong Glam",
+      "latitude": 1.300847,
+      "longitude": 103.859395,
+      "categories": ["cafe", "coffee shop", "brunch"],
+      "price_level": 2,
+      "rating": 4.6,
+      "review_count": 1260,
+      "opening_hours": {
+        "mon": "08:30-19:00",
+        "tue": "08:30-19:00",
+        "wed": "08:30-19:00",
+        "thu": "08:30-19:00",
+        "fri": "08:30-22:00",
+        "sat": "08:30-22:00",
+        "sun": "08:30-20:00"
+      },
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Haji%20Lane%20Coffee%20Room%20Singapore",
+      "google_reviews_url": "https://www.google.com/maps/search/Haji%20Lane%20Coffee%20Room%20Singapore%20reviews",
+      "primary_photo_url": "/seed-images/places/haji-lane-coffee-room.jpg",
+      "source": "manual_seed",
+      "source_updated_at": "2026-05-01T00:00:00+08:00",
+      "latest_menu": {
+        "id": "menu_haji_lane_coffee_room_2026_05",
+        "source_type": "manual",
+        "source_url": null,
+        "captured_at": "2026-05-01T13:00:00+08:00",
+        "license_status": "internal_seed",
+        "processing_status": "approved_active",
+        "is_active": true,
+        "images": [
+          {
+            "id": "img_haji_lane_coffee_room_wall_1",
+            "image_url": "/seed-images/menus/haji-lane-coffee-room-wall-1.jpg",
+            "image_hash": "seed-hlcr-wall-1",
+            "width": 1200,
+            "height": 1800,
+            "ocr_status": "succeeded",
+            "quality_score": 0.88,
+            "sort_order": 1
+          }
+        ],
+        "items": [
+          {
+            "id": "item_hlcr_smoked_salmon_bagel",
+            "name": "Smoked Salmon Bagel",
+            "normalized_name": "smoked salmon bagel",
+            "description": "Cream cheese, capers, dill, cucumber.",
+            "category": "Brunch",
+            "price": 15.5,
+            "dietary_tags": [],
+            "ocr_confidence": 0.97,
+            "extraction_confidence": 0.96
+          },
+          {
+            "id": "item_hlcr_chicken_waffles",
+            "name": "Fried Chicken Waffle",
+            "normalized_name": "fried chicken waffle",
+            "description": "Buttermilk waffle, spiced chicken, maple butter.",
+            "category": "Brunch",
+            "price": 19.0,
+            "dietary_tags": [],
+            "ocr_confidence": 0.94,
+            "extraction_confidence": 0.93
+          },
+          {
+            "id": "item_hlcr_flat_white",
+            "name": "Flat White",
+            "normalized_name": "flat white",
+            "description": "House espresso blend with textured milk.",
+            "category": "Coffee",
+            "price": 6.0,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.99,
+            "extraction_confidence": 0.99
+          },
+          {
+            "id": "item_hlcr_croissant",
+            "name": "Butter Croissant",
+            "normalized_name": "butter croissant",
+            "description": "Baked daily, served with berry jam.",
+            "category": "Pastry",
+            "price": 5.5,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.96,
+            "extraction_confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "id": "place_telok_ayer_bean_and_bake",
+      "name": "Telok Ayer Bean & Bake",
+      "google_place_id": "seed_telok_ayer_bean_and_bake",
+      "address": "92 Telok Ayer Street, Singapore 048473",
+      "neighborhood": "Telok Ayer",
+      "latitude": 1.281063,
+      "longitude": 103.848739,
+      "categories": ["cafe", "bakery", "coffee shop"],
+      "price_level": 2,
+      "rating": 4.4,
+      "review_count": 735,
+      "opening_hours": {
+        "mon": "07:30-18:00",
+        "tue": "07:30-18:00",
+        "wed": "07:30-18:00",
+        "thu": "07:30-18:00",
+        "fri": "07:30-18:00",
+        "sat": "08:30-17:00",
+        "sun": "closed"
+      },
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Telok%20Ayer%20Bean%20and%20Bake%20Singapore",
+      "google_reviews_url": "https://www.google.com/maps/search/Telok%20Ayer%20Bean%20and%20Bake%20Singapore%20reviews",
+      "primary_photo_url": "/seed-images/places/telok-ayer-bean-and-bake.jpg",
+      "source": "manual_seed",
+      "source_updated_at": "2026-05-01T00:00:00+08:00",
+      "latest_menu": {
+        "id": "menu_telok_ayer_bean_and_bake_2026_05",
+        "source_type": "manual",
+        "source_url": null,
+        "captured_at": "2026-05-01T09:00:00+08:00",
+        "license_status": "internal_seed",
+        "processing_status": "approved_active",
+        "is_active": true,
+        "images": [
+          {
+            "id": "img_telok_ayer_bean_and_bake_case_1",
+            "image_url": "/seed-images/menus/telok-ayer-bean-and-bake-case-1.jpg",
+            "image_hash": "seed-tabb-case-1",
+            "width": 1500,
+            "height": 1300,
+            "ocr_status": "succeeded",
+            "quality_score": 0.91,
+            "sort_order": 1
+          }
+        ],
+        "items": [
+          {
+            "id": "item_tabb_croissant",
+            "name": "Butter Croissant",
+            "normalized_name": "butter croissant",
+            "description": "Laminated in-house with French butter.",
+            "category": "Pastry",
+            "price": 5.2,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.98,
+            "extraction_confidence": 0.97
+          },
+          {
+            "id": "item_tabb_banana_bread",
+            "name": "Banana Walnut Bread",
+            "normalized_name": "banana walnut bread",
+            "description": "Dense banana loaf with toasted walnuts.",
+            "category": "Bakes",
+            "price": 6.8,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.95,
+            "extraction_confidence": 0.94
+          },
+          {
+            "id": "item_tabb_flat_white",
+            "name": "Flat White",
+            "normalized_name": "flat white",
+            "description": "Medium roast espresso, silky milk.",
+            "category": "Coffee",
+            "price": 6.2,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.99,
+            "extraction_confidence": 0.99
+          },
+          {
+            "id": "item_tabb_tiramisu",
+            "name": "Espresso Tiramisu Cup",
+            "normalized_name": "espresso tiramisu cup",
+            "description": "Single-serve tiramisu with dark cocoa.",
+            "category": "Desserts",
+            "price": 8.9,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.93,
+            "extraction_confidence": 0.92
+          }
+        ]
+      }
+    },
+    {
+      "id": "place_holland_village_toast_bar",
+      "name": "Holland Village Toast Bar",
+      "google_place_id": "seed_holland_village_toast_bar",
+      "address": "17 Lorong Mambong, Singapore 277677",
+      "neighborhood": "Holland Village",
+      "latitude": 1.311227,
+      "longitude": 103.795820,
+      "categories": ["cafe", "toast", "coffee shop"],
+      "price_level": 1,
+      "rating": 4.2,
+      "review_count": 488,
+      "opening_hours": {
+        "mon": "07:00-17:00",
+        "tue": "07:00-17:00",
+        "wed": "07:00-17:00",
+        "thu": "07:00-17:00",
+        "fri": "07:00-18:00",
+        "sat": "07:30-18:00",
+        "sun": "07:30-17:00"
+      },
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Holland%20Village%20Toast%20Bar%20Singapore",
+      "google_reviews_url": "https://www.google.com/maps/search/Holland%20Village%20Toast%20Bar%20Singapore%20reviews",
+      "primary_photo_url": "/seed-images/places/holland-village-toast-bar.jpg",
+      "source": "manual_seed",
+      "source_updated_at": "2026-05-01T00:00:00+08:00",
+      "latest_menu": {
+        "id": "menu_holland_village_toast_bar_2026_05",
+        "source_type": "manual",
+        "source_url": null,
+        "captured_at": "2026-05-01T08:15:00+08:00",
+        "license_status": "internal_seed",
+        "processing_status": "approved_active",
+        "is_active": true,
+        "images": [
+          {
+            "id": "img_holland_village_toast_bar_menu_1",
+            "image_url": "/seed-images/menus/holland-village-toast-bar-menu-1.jpg",
+            "image_hash": "seed-hvtb-menu-1",
+            "width": 1300,
+            "height": 1700,
+            "ocr_status": "succeeded",
+            "quality_score": 0.89,
+            "sort_order": 1
+          }
+        ],
+        "items": [
+          {
+            "id": "item_hvtb_kaya_toast",
+            "name": "Sourdough Kaya Toast",
+            "normalized_name": "sourdough kaya toast",
+            "description": "House kaya, salted butter, crisp sourdough.",
+            "category": "Toast",
+            "price": 6.2,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.97,
+            "extraction_confidence": 0.96
+          },
+          {
+            "id": "item_hvtb_iced_matcha_latte",
+            "name": "Iced Green Tea Latte",
+            "normalized_name": "iced green tea latte",
+            "description": "Matcha blend with milk and ice.",
+            "category": "Tea",
+            "price": 6.9,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.9,
+            "extraction_confidence": 0.89
+          },
+          {
+            "id": "item_hvtb_eggs_benedict",
+            "name": "Eggs Benny Toast",
+            "normalized_name": "eggs benny toast",
+            "description": "Poached eggs, hollandaise, sourdough toast.",
+            "category": "Brunch",
+            "price": 14.8,
+            "dietary_tags": [],
+            "ocr_confidence": 0.92,
+            "extraction_confidence": 0.91
+          },
+          {
+            "id": "item_hvtb_flat_white",
+            "name": "Flat White",
+            "normalized_name": "flat white",
+            "description": "Local roast espresso with steamed milk.",
+            "category": "Coffee",
+            "price": 5.8,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.98,
+            "extraction_confidence": 0.97
+          }
+        ]
+      }
+    },
+    {
+      "id": "place_everton_park_pastry_house",
+      "name": "Everton Park Pastry House",
+      "google_place_id": "seed_everton_park_pastry_house",
+      "address": "8 Everton Park, Singapore 080008",
+      "neighborhood": "Everton Park",
+      "latitude": 1.276928,
+      "longitude": 103.837239,
+      "categories": ["cafe", "bakery", "dessert"],
+      "price_level": 2,
+      "rating": 4.7,
+      "review_count": 980,
+      "opening_hours": {
+        "mon": "closed",
+        "tue": "08:00-17:00",
+        "wed": "08:00-17:00",
+        "thu": "08:00-17:00",
+        "fri": "08:00-18:00",
+        "sat": "08:00-18:00",
+        "sun": "08:00-17:00"
+      },
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Everton%20Park%20Pastry%20House%20Singapore",
+      "google_reviews_url": "https://www.google.com/maps/search/Everton%20Park%20Pastry%20House%20Singapore%20reviews",
+      "primary_photo_url": "/seed-images/places/everton-park-pastry-house.jpg",
+      "source": "manual_seed",
+      "source_updated_at": "2026-05-01T00:00:00+08:00",
+      "latest_menu": {
+        "id": "menu_everton_park_pastry_house_2026_05",
+        "source_type": "manual",
+        "source_url": null,
+        "captured_at": "2026-05-01T12:00:00+08:00",
+        "license_status": "internal_seed",
+        "processing_status": "approved_active",
+        "is_active": true,
+        "images": [
+          {
+            "id": "img_everton_park_pastry_house_shelf_1",
+            "image_url": "/seed-images/menus/everton-park-pastry-house-shelf-1.jpg",
+            "image_hash": "seed-epph-shelf-1",
+            "width": 1700,
+            "height": 1200,
+            "ocr_status": "succeeded",
+            "quality_score": 0.92,
+            "sort_order": 1
+          }
+        ],
+        "items": [
+          {
+            "id": "item_epph_black_sesame_cake",
+            "name": "Black Sesame Cake",
+            "normalized_name": "black sesame cake",
+            "description": "Roasted sesame sponge, sesame cream.",
+            "category": "Cakes",
+            "price": 9.5,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.97,
+            "extraction_confidence": 0.96
+          },
+          {
+            "id": "item_epph_croissant",
+            "name": "Plain Croissant",
+            "normalized_name": "plain croissant",
+            "description": "Crisp shell, honeycomb crumb.",
+            "category": "Pastry",
+            "price": 4.8,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.97,
+            "extraction_confidence": 0.96
+          },
+          {
+            "id": "item_epph_tiramisu",
+            "name": "Tiramisu Slice",
+            "normalized_name": "tiramisu slice",
+            "description": "Coffee cream cake with cocoa.",
+            "category": "Cakes",
+            "price": 8.8,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.93,
+            "extraction_confidence": 0.92
+          },
+          {
+            "id": "item_epph_flat_white",
+            "name": "Flat White",
+            "normalized_name": "flat white",
+            "description": "Espresso and milk.",
+            "category": "Coffee",
+            "price": 6.0,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.96,
+            "extraction_confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "id": "place_river_valley_brunch_co",
+      "name": "River Valley Brunch Co",
+      "google_place_id": "seed_river_valley_brunch_co",
+      "address": "268 River Valley Road, Singapore 238313",
+      "neighborhood": "River Valley",
+      "latitude": 1.293973,
+      "longitude": 103.837855,
+      "categories": ["cafe", "brunch", "coffee shop"],
+      "price_level": 3,
+      "rating": 4.1,
+      "review_count": 532,
+      "opening_hours": {
+        "mon": "08:00-16:00",
+        "tue": "08:00-16:00",
+        "wed": "08:00-16:00",
+        "thu": "08:00-16:00",
+        "fri": "08:00-17:00",
+        "sat": "08:00-17:00",
+        "sun": "08:00-17:00"
+      },
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=River%20Valley%20Brunch%20Co%20Singapore",
+      "google_reviews_url": "https://www.google.com/maps/search/River%20Valley%20Brunch%20Co%20Singapore%20reviews",
+      "primary_photo_url": "/seed-images/places/river-valley-brunch-co.jpg",
+      "source": "manual_seed",
+      "source_updated_at": "2026-05-01T00:00:00+08:00",
+      "latest_menu": {
+        "id": "menu_river_valley_brunch_co_2026_05",
+        "source_type": "manual",
+        "source_url": null,
+        "captured_at": "2026-05-01T10:45:00+08:00",
+        "license_status": "internal_seed",
+        "processing_status": "approved_active",
+        "is_active": true,
+        "images": [
+          {
+            "id": "img_river_valley_brunch_co_table_1",
+            "image_url": "/seed-images/menus/river-valley-brunch-co-table-1.jpg",
+            "image_hash": "seed-rvbc-table-1",
+            "width": 1500,
+            "height": 2000,
+            "ocr_status": "succeeded",
+            "quality_score": 0.87,
+            "sort_order": 1
+          }
+        ],
+        "items": [
+          {
+            "id": "item_rvbc_eggs_benedict",
+            "name": "Eggs Benedict",
+            "normalized_name": "eggs benedict",
+            "description": "Poached eggs, smoked ham, hollandaise.",
+            "category": "Brunch",
+            "price": 19.5,
+            "dietary_tags": [],
+            "ocr_confidence": 0.97,
+            "extraction_confidence": 0.96
+          },
+          {
+            "id": "item_rvbc_smoked_salmon_bagel",
+            "name": "Salmon Bagel",
+            "normalized_name": "salmon bagel",
+            "description": "Smoked salmon, dill cream cheese, red onion.",
+            "category": "Brunch",
+            "price": 16.5,
+            "dietary_tags": [],
+            "ocr_confidence": 0.95,
+            "extraction_confidence": 0.94
+          },
+          {
+            "id": "item_rvbc_chicken_waffles",
+            "name": "Chicken and Waffles",
+            "normalized_name": "chicken and waffles",
+            "description": "Crispy chicken, cheddar waffle, chilli honey.",
+            "category": "Brunch",
+            "price": 21.0,
+            "dietary_tags": [],
+            "ocr_confidence": 0.94,
+            "extraction_confidence": 0.93
+          },
+          {
+            "id": "item_rvbc_iced_matcha_latte",
+            "name": "Iced Matcha",
+            "normalized_name": "iced matcha",
+            "description": "Matcha over milk and ice.",
+            "category": "Tea",
+            "price": 7.2,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.91,
+            "extraction_confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "id": "place_bishan_garden_cafe",
+      "name": "Bishan Garden Cafe",
+      "google_place_id": "seed_bishan_garden_cafe",
+      "address": "5 Bishan Street 14, Singapore 579783",
+      "neighborhood": "Bishan",
+      "latitude": 1.350396,
+      "longitude": 103.848103,
+      "categories": ["cafe", "dessert", "brunch"],
+      "price_level": 2,
+      "rating": 4.0,
+      "review_count": 376,
+      "opening_hours": {
+        "mon": "09:00-18:00",
+        "tue": "09:00-18:00",
+        "wed": "09:00-18:00",
+        "thu": "09:00-18:00",
+        "fri": "09:00-19:00",
+        "sat": "08:30-19:00",
+        "sun": "08:30-18:00"
+      },
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bishan%20Garden%20Cafe%20Singapore",
+      "google_reviews_url": "https://www.google.com/maps/search/Bishan%20Garden%20Cafe%20Singapore%20reviews",
+      "primary_photo_url": "/seed-images/places/bishan-garden-cafe.jpg",
+      "source": "manual_seed",
+      "source_updated_at": "2026-05-01T00:00:00+08:00",
+      "latest_menu": {
+        "id": "menu_bishan_garden_cafe_2026_05",
+        "source_type": "manual",
+        "source_url": null,
+        "captured_at": "2026-05-01T14:30:00+08:00",
+        "license_status": "internal_seed",
+        "processing_status": "approved_active",
+        "is_active": true,
+        "images": [
+          {
+            "id": "img_bishan_garden_cafe_board_1",
+            "image_url": "/seed-images/menus/bishan-garden-cafe-board-1.jpg",
+            "image_hash": "seed-bgc-board-1",
+            "width": 1200,
+            "height": 1600,
+            "ocr_status": "succeeded",
+            "quality_score": 0.85,
+            "sort_order": 1
+          }
+        ],
+        "items": [
+          {
+            "id": "item_bgc_banana_bread",
+            "name": "Banana Bread",
+            "normalized_name": "banana bread",
+            "description": "Warm banana loaf with salted butter.",
+            "category": "Bakes",
+            "price": 6.5,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.98,
+            "extraction_confidence": 0.97
+          },
+          {
+            "id": "item_bgc_black_sesame_cake",
+            "name": "Black Sesame Chiffon",
+            "normalized_name": "black sesame chiffon",
+            "description": "Soft chiffon with sesame cream.",
+            "category": "Cakes",
+            "price": 8.5,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.92,
+            "extraction_confidence": 0.91
+          },
+          {
+            "id": "item_bgc_kaya_toast",
+            "name": "Kaya Toast Set",
+            "normalized_name": "kaya toast set",
+            "description": "Kaya toast with soft eggs and kopi.",
+            "category": "Toast",
+            "price": 6.9,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.95,
+            "extraction_confidence": 0.94
+          },
+          {
+            "id": "item_bgc_flat_white",
+            "name": "Flat White",
+            "normalized_name": "flat white",
+            "description": "Espresso with steamed milk.",
+            "category": "Coffee",
+            "price": 5.9,
+            "dietary_tags": ["vegetarian"],
+            "ocr_confidence": 0.98,
+            "extraction_confidence": 0.97
+          }
+        ]
+      }
+    }
+  ],
+  "food_place_evidence": [
+    {
+      "id": "evidence_tbbt_flat_white",
+      "place_id": "place_tiong_bahru_brew_table",
+      "food_term_id": "food_term_flat_white",
+      "menu_item_id": "item_tbbt_flat_white",
+      "evidence_type": "menu_item",
+      "evidence_text": "Flat White",
+      "source_id": "menu_tiong_bahru_brew_table_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.99,
+      "seen_at": "2026-05-01T10:00:00+08:00"
+    },
+    {
+      "id": "evidence_tbbt_iced_matcha_latte",
+      "place_id": "place_tiong_bahru_brew_table",
+      "food_term_id": "food_term_iced_matcha_latte",
+      "menu_item_id": "item_tbbt_iced_matcha_latte",
+      "evidence_type": "menu_item",
+      "evidence_text": "Iced Matcha Latte",
+      "source_id": "menu_tiong_bahru_brew_table_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.98,
+      "seen_at": "2026-05-01T10:00:00+08:00"
+    },
+    {
+      "id": "evidence_tbbt_banana_bread",
+      "place_id": "place_tiong_bahru_brew_table",
+      "food_term_id": "food_term_banana_bread",
+      "menu_item_id": "item_tbbt_banana_bread",
+      "evidence_type": "menu_item",
+      "evidence_text": "Toasted Banana Bread",
+      "source_id": "menu_tiong_bahru_brew_table_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.96,
+      "seen_at": "2026-05-01T10:00:00+08:00"
+    },
+    {
+      "id": "evidence_tbbt_eggs_benedict",
+      "place_id": "place_tiong_bahru_brew_table",
+      "food_term_id": "food_term_eggs_benedict",
+      "menu_item_id": "item_tbbt_eggs_benedict",
+      "evidence_type": "menu_item",
+      "evidence_text": "Eggs Benedict",
+      "source_id": "menu_tiong_bahru_brew_table_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.97,
+      "seen_at": "2026-05-01T10:00:00+08:00"
+    },
+    {
+      "id": "evidence_kcc_tiramisu",
+      "place_id": "place_katong_cream_and_coffee",
+      "food_term_id": "food_term_tiramisu",
+      "menu_item_id": "item_kcc_tiramisu",
+      "evidence_type": "menu_item",
+      "evidence_text": "Classic Tiramisu",
+      "source_id": "menu_katong_cream_and_coffee_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.97,
+      "seen_at": "2026-05-01T11:30:00+08:00"
+    },
+    {
+      "id": "evidence_kcc_black_sesame_cake",
+      "place_id": "place_katong_cream_and_coffee",
+      "food_term_id": "food_term_black_sesame_cake",
+      "menu_item_id": "item_kcc_black_sesame_cake",
+      "evidence_type": "menu_item",
+      "evidence_text": "Black Sesame Chiffon Cake",
+      "source_id": "menu_katong_cream_and_coffee_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.94,
+      "seen_at": "2026-05-01T11:30:00+08:00"
+    },
+    {
+      "id": "evidence_kcc_iced_matcha_latte",
+      "place_id": "place_katong_cream_and_coffee",
+      "food_term_id": "food_term_iced_matcha_latte",
+      "menu_item_id": "item_kcc_iced_matcha_latte",
+      "evidence_type": "menu_item",
+      "evidence_text": "Iced Matcha Latte",
+      "source_id": "menu_katong_cream_and_coffee_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.95,
+      "seen_at": "2026-05-01T11:30:00+08:00"
+    },
+    {
+      "id": "evidence_kcc_kaya_toast",
+      "place_id": "place_katong_cream_and_coffee",
+      "food_term_id": "food_term_kaya_toast",
+      "menu_item_id": "item_kcc_kaya_toast",
+      "evidence_type": "menu_item",
+      "evidence_text": "Kaya Butter Toast",
+      "source_id": "menu_katong_cream_and_coffee_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.93,
+      "seen_at": "2026-05-01T11:30:00+08:00"
+    },
+    {
+      "id": "evidence_hlcr_smoked_salmon_bagel",
+      "place_id": "place_haji_lane_coffee_room",
+      "food_term_id": "food_term_smoked_salmon_bagel",
+      "menu_item_id": "item_hlcr_smoked_salmon_bagel",
+      "evidence_type": "menu_item",
+      "evidence_text": "Smoked Salmon Bagel",
+      "source_id": "menu_haji_lane_coffee_room_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.97,
+      "seen_at": "2026-05-01T13:00:00+08:00"
+    },
+    {
+      "id": "evidence_hlcr_chicken_waffles",
+      "place_id": "place_haji_lane_coffee_room",
+      "food_term_id": "food_term_chicken_waffles",
+      "menu_item_id": "item_hlcr_chicken_waffles",
+      "evidence_type": "menu_item",
+      "evidence_text": "Fried Chicken Waffle",
+      "source_id": "menu_haji_lane_coffee_room_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.94,
+      "seen_at": "2026-05-01T13:00:00+08:00"
+    },
+    {
+      "id": "evidence_hlcr_flat_white",
+      "place_id": "place_haji_lane_coffee_room",
+      "food_term_id": "food_term_flat_white",
+      "menu_item_id": "item_hlcr_flat_white",
+      "evidence_type": "menu_item",
+      "evidence_text": "Flat White",
+      "source_id": "menu_haji_lane_coffee_room_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.99,
+      "seen_at": "2026-05-01T13:00:00+08:00"
+    },
+    {
+      "id": "evidence_hlcr_croissant",
+      "place_id": "place_haji_lane_coffee_room",
+      "food_term_id": "food_term_croissant",
+      "menu_item_id": "item_hlcr_croissant",
+      "evidence_type": "menu_item",
+      "evidence_text": "Butter Croissant",
+      "source_id": "menu_haji_lane_coffee_room_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.96,
+      "seen_at": "2026-05-01T13:00:00+08:00"
+    },
+    {
+      "id": "evidence_tabb_croissant",
+      "place_id": "place_telok_ayer_bean_and_bake",
+      "food_term_id": "food_term_croissant",
+      "menu_item_id": "item_tabb_croissant",
+      "evidence_type": "menu_item",
+      "evidence_text": "Butter Croissant",
+      "source_id": "menu_telok_ayer_bean_and_bake_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.98,
+      "seen_at": "2026-05-01T09:00:00+08:00"
+    },
+    {
+      "id": "evidence_tabb_banana_bread",
+      "place_id": "place_telok_ayer_bean_and_bake",
+      "food_term_id": "food_term_banana_bread",
+      "menu_item_id": "item_tabb_banana_bread",
+      "evidence_type": "menu_item",
+      "evidence_text": "Banana Walnut Bread",
+      "source_id": "menu_telok_ayer_bean_and_bake_2026_05",
+      "match_kind": "prefix_or_token",
+      "confidence": 0.95,
+      "seen_at": "2026-05-01T09:00:00+08:00"
+    },
+    {
+      "id": "evidence_tabb_flat_white",
+      "place_id": "place_telok_ayer_bean_and_bake",
+      "food_term_id": "food_term_flat_white",
+      "menu_item_id": "item_tabb_flat_white",
+      "evidence_type": "menu_item",
+      "evidence_text": "Flat White",
+      "source_id": "menu_telok_ayer_bean_and_bake_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.99,
+      "seen_at": "2026-05-01T09:00:00+08:00"
+    },
+    {
+      "id": "evidence_tabb_tiramisu",
+      "place_id": "place_telok_ayer_bean_and_bake",
+      "food_term_id": "food_term_tiramisu",
+      "menu_item_id": "item_tabb_tiramisu",
+      "evidence_type": "menu_item",
+      "evidence_text": "Espresso Tiramisu Cup",
+      "source_id": "menu_telok_ayer_bean_and_bake_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.93,
+      "seen_at": "2026-05-01T09:00:00+08:00"
+    },
+    {
+      "id": "evidence_hvtb_kaya_toast",
+      "place_id": "place_holland_village_toast_bar",
+      "food_term_id": "food_term_kaya_toast",
+      "menu_item_id": "item_hvtb_kaya_toast",
+      "evidence_type": "menu_item",
+      "evidence_text": "Sourdough Kaya Toast",
+      "source_id": "menu_holland_village_toast_bar_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.97,
+      "seen_at": "2026-05-01T08:15:00+08:00"
+    },
+    {
+      "id": "evidence_hvtb_iced_matcha_latte",
+      "place_id": "place_holland_village_toast_bar",
+      "food_term_id": "food_term_iced_matcha_latte",
+      "menu_item_id": "item_hvtb_iced_matcha_latte",
+      "evidence_type": "menu_item",
+      "evidence_text": "Iced Green Tea Latte",
+      "source_id": "menu_holland_village_toast_bar_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.9,
+      "seen_at": "2026-05-01T08:15:00+08:00"
+    },
+    {
+      "id": "evidence_hvtb_eggs_benedict",
+      "place_id": "place_holland_village_toast_bar",
+      "food_term_id": "food_term_eggs_benedict",
+      "menu_item_id": "item_hvtb_eggs_benedict",
+      "evidence_type": "menu_item",
+      "evidence_text": "Eggs Benny Toast",
+      "source_id": "menu_holland_village_toast_bar_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.92,
+      "seen_at": "2026-05-01T08:15:00+08:00"
+    },
+    {
+      "id": "evidence_hvtb_flat_white",
+      "place_id": "place_holland_village_toast_bar",
+      "food_term_id": "food_term_flat_white",
+      "menu_item_id": "item_hvtb_flat_white",
+      "evidence_type": "menu_item",
+      "evidence_text": "Flat White",
+      "source_id": "menu_holland_village_toast_bar_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.98,
+      "seen_at": "2026-05-01T08:15:00+08:00"
+    },
+    {
+      "id": "evidence_epph_black_sesame_cake",
+      "place_id": "place_everton_park_pastry_house",
+      "food_term_id": "food_term_black_sesame_cake",
+      "menu_item_id": "item_epph_black_sesame_cake",
+      "evidence_type": "menu_item",
+      "evidence_text": "Black Sesame Cake",
+      "source_id": "menu_everton_park_pastry_house_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.97,
+      "seen_at": "2026-05-01T12:00:00+08:00"
+    },
+    {
+      "id": "evidence_epph_croissant",
+      "place_id": "place_everton_park_pastry_house",
+      "food_term_id": "food_term_croissant",
+      "menu_item_id": "item_epph_croissant",
+      "evidence_type": "menu_item",
+      "evidence_text": "Plain Croissant",
+      "source_id": "menu_everton_park_pastry_house_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.97,
+      "seen_at": "2026-05-01T12:00:00+08:00"
+    },
+    {
+      "id": "evidence_epph_tiramisu",
+      "place_id": "place_everton_park_pastry_house",
+      "food_term_id": "food_term_tiramisu",
+      "menu_item_id": "item_epph_tiramisu",
+      "evidence_type": "menu_item",
+      "evidence_text": "Tiramisu Slice",
+      "source_id": "menu_everton_park_pastry_house_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.93,
+      "seen_at": "2026-05-01T12:00:00+08:00"
+    },
+    {
+      "id": "evidence_epph_flat_white",
+      "place_id": "place_everton_park_pastry_house",
+      "food_term_id": "food_term_flat_white",
+      "menu_item_id": "item_epph_flat_white",
+      "evidence_type": "menu_item",
+      "evidence_text": "Flat White",
+      "source_id": "menu_everton_park_pastry_house_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.96,
+      "seen_at": "2026-05-01T12:00:00+08:00"
+    },
+    {
+      "id": "evidence_rvbc_eggs_benedict",
+      "place_id": "place_river_valley_brunch_co",
+      "food_term_id": "food_term_eggs_benedict",
+      "menu_item_id": "item_rvbc_eggs_benedict",
+      "evidence_type": "menu_item",
+      "evidence_text": "Eggs Benedict",
+      "source_id": "menu_river_valley_brunch_co_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.97,
+      "seen_at": "2026-05-01T10:45:00+08:00"
+    },
+    {
+      "id": "evidence_rvbc_smoked_salmon_bagel",
+      "place_id": "place_river_valley_brunch_co",
+      "food_term_id": "food_term_smoked_salmon_bagel",
+      "menu_item_id": "item_rvbc_smoked_salmon_bagel",
+      "evidence_type": "menu_item",
+      "evidence_text": "Salmon Bagel",
+      "source_id": "menu_river_valley_brunch_co_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.95,
+      "seen_at": "2026-05-01T10:45:00+08:00"
+    },
+    {
+      "id": "evidence_rvbc_chicken_waffles",
+      "place_id": "place_river_valley_brunch_co",
+      "food_term_id": "food_term_chicken_waffles",
+      "menu_item_id": "item_rvbc_chicken_waffles",
+      "evidence_type": "menu_item",
+      "evidence_text": "Chicken and Waffles",
+      "source_id": "menu_river_valley_brunch_co_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.94,
+      "seen_at": "2026-05-01T10:45:00+08:00"
+    },
+    {
+      "id": "evidence_rvbc_iced_matcha_latte",
+      "place_id": "place_river_valley_brunch_co",
+      "food_term_id": "food_term_iced_matcha_latte",
+      "menu_item_id": "item_rvbc_iced_matcha_latte",
+      "evidence_type": "menu_item",
+      "evidence_text": "Iced Matcha",
+      "source_id": "menu_river_valley_brunch_co_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.91,
+      "seen_at": "2026-05-01T10:45:00+08:00"
+    },
+    {
+      "id": "evidence_bgc_banana_bread",
+      "place_id": "place_bishan_garden_cafe",
+      "food_term_id": "food_term_banana_bread",
+      "menu_item_id": "item_bgc_banana_bread",
+      "evidence_type": "menu_item",
+      "evidence_text": "Banana Bread",
+      "source_id": "menu_bishan_garden_cafe_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.98,
+      "seen_at": "2026-05-01T14:30:00+08:00"
+    },
+    {
+      "id": "evidence_bgc_black_sesame_cake",
+      "place_id": "place_bishan_garden_cafe",
+      "food_term_id": "food_term_black_sesame_cake",
+      "menu_item_id": "item_bgc_black_sesame_cake",
+      "evidence_type": "menu_item",
+      "evidence_text": "Black Sesame Chiffon",
+      "source_id": "menu_bishan_garden_cafe_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.92,
+      "seen_at": "2026-05-01T14:30:00+08:00"
+    },
+    {
+      "id": "evidence_bgc_kaya_toast",
+      "place_id": "place_bishan_garden_cafe",
+      "food_term_id": "food_term_kaya_toast",
+      "menu_item_id": "item_bgc_kaya_toast",
+      "evidence_type": "menu_item",
+      "evidence_text": "Kaya Toast Set",
+      "source_id": "menu_bishan_garden_cafe_2026_05",
+      "match_kind": "exact_alias",
+      "confidence": 0.95,
+      "seen_at": "2026-05-01T14:30:00+08:00"
+    },
+    {
+      "id": "evidence_bgc_flat_white",
+      "place_id": "place_bishan_garden_cafe",
+      "food_term_id": "food_term_flat_white",
+      "menu_item_id": "item_bgc_flat_white",
+      "evidence_type": "menu_item",
+      "evidence_text": "Flat White",
+      "source_id": "menu_bishan_garden_cafe_2026_05",
+      "match_kind": "exact_menu_item",
+      "confidence": 0.98,
+      "seen_at": "2026-05-01T14:30:00+08:00"
+    }
+  ]
+}

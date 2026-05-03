@@ -1,0 +1,302 @@
+[
+  {
+    "place_id": "google_columbus_coffee_co_14e95922b8",
+    "place_name": "Columbus Coffee Co.",
+    "source_url": "https://www.columbuscoffeeco.com/menu?menu=brunch",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.94,
+    "notes": "Official Columbus Coffee Co. menu pages list current brunch, afternoon and drinks items with GST-inclusive prices. Representative items were selected from the official brunch and afternoons-till-late menus.",
+    "items": [
+      {
+        "name": "Banana Bread & Mascarpone",
+        "category": "Brunch",
+        "price_cents": 1417,
+        "currency": "SGD",
+        "description": "Banana bread with espresso mascarpone, rice crisps and citrus honey.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chia Pudding & Yoghurt",
+        "category": "Brunch",
+        "price_cents": 1635,
+        "currency": "SGD",
+        "description": "Chia pudding with honey Greek yoghurt, granola, bananas, blueberries and almond butter.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Hotcakes & Passionfruit",
+        "category": "Brunch",
+        "price_cents": 1799,
+        "currency": "SGD",
+        "description": "American diner hotcakes with passionfruit curd, blueberries and maple syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Marmite Mushrooms",
+        "category": "Brunch",
+        "price_cents": 1951,
+        "currency": "SGD",
+        "description": "Marmite mushrooms with avocado, kale pesto, pistachio crumb, sunny egg and focaccia.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Fried Chicken French Toast",
+        "category": "Brunch",
+        "price_cents": 2452,
+        "currency": "SGD",
+        "description": "Shokupan French toast with buttermilk fried chicken, hot maple and garlic butter.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Salmon Poke",
+        "category": "Mains",
+        "price_cents": 2158,
+        "currency": "SGD",
+        "description": "Spicy salmon poke with jammy egg, avocado, edamame and miso vinaigrette.",
+        "dietary_tags": ["fish", "spicy"]
+      },
+      {
+        "name": "Peking Chicken Burger w Curly Fries",
+        "category": "Burgers",
+        "price_cents": 2344,
+        "currency": "SGD",
+        "description": "Buttermilk chicken burger with Peking sauce, slaw, red onions and curly fries.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Eggplant & Shrooms",
+        "category": "Donburi",
+        "price_cents": 2071,
+        "currency": "SGD",
+        "description": "Eggplant, tofu, king oyster mushrooms, crispy enoki, nori and Japanese rice.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_dutch_colony_coffee_co_f8bc68fced",
+    "place_name": "Dutch Colony Coffee Co.",
+    "source_url": "https://www.dutchcolony.sg/pages/location",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official locations page links Dutch Colony cafe menus. Item names, descriptions and prices were checked against current public delivery/menu pages including https://www.foodpanda.sg/restaurant/chms/dutch-colony-coffee-co-elementum and https://www.quandoo.sg/place/dutch-colony-coffee-co-new-tech-park-105292/menu because the official site menu links are not fully exposed as text.",
+    "items": [
+      {
+        "name": "Brioche Breakfast Burger",
+        "category": "Breakfasts",
+        "price_cents": 1610,
+        "currency": "SGD",
+        "description": "Brioche bun with guacamole, hash, scrambled eggs, turkey bacon and sweet chilli mayo.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Hearty Breakfast",
+        "category": "Breakfasts",
+        "price_cents": 2530,
+        "currency": "SGD",
+        "description": "Chicken sausage, turkey bacon, scramble, sourdough, mushrooms, tomatoes, hash and avocado.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Chicken Pesto Cream Linguine",
+        "category": "Pastas",
+        "price_cents": 2185,
+        "currency": "SGD",
+        "description": "Linguine with pesto cream, grilled chicken, cherry tomatoes, sous vide egg and parmigiano.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Seafood Marinara Linguine",
+        "category": "Pastas",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Linguine with tomato sauce, mussels, squid, prawns, cherry tomatoes and parmigiano.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Angus Beef Burger",
+        "category": "Mains",
+        "price_cents": 2530,
+        "currency": "SGD",
+        "description": "Angus beef patty with turkey bacon, lettuce, tomato, cheese sauce and fries.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Not-Your-Usual Caesar Salad",
+        "category": "Salads",
+        "price_cents": 1840,
+        "currency": "SGD",
+        "description": "Baby gem lettuce with cucumber, quail eggs, turkey bacon, halloumi and green goddess dressing.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Parmesan Truffle Fries",
+        "category": "Sides",
+        "price_cents": 1380,
+        "currency": "SGD",
+        "description": "Shoestring fries with truffle oil, grated parmigiano and chives.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Flat White",
+        "category": "Espresso Based",
+        "price_cents": 679,
+        "currency": "SGD",
+        "description": "Espresso-based milk coffee.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_little_farms_bistro_katong_point_restaurant_d57042f043",
+    "place_name": "Little Farms Bistro Katong Point",
+    "source_url": "https://littlefarmscafe.com/pages/little-farms-katong-point-bistro",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.8,
+    "notes": "Official Katong Point Bistro page confirms the outlet and links day, night and drinks menus. Representative item prices were cross-checked against the public Deliveroo Katong Point Bistro menu at https://deliveroo.com.sg/menu/Singapore/katong-joo-chiat/little-farms-bistro-katong-point-shopping-centre because the official Google Drive menu PDFs were not text-accessible during capture.",
+    "items": [
+      {
+        "name": "Chicken Avocado Sandwich",
+        "category": "Lunch Exclusive",
+        "price_cents": 3008,
+        "currency": "SGD",
+        "description": "Sourdough sandwich with chicken, avocado, sriracha aioli, cheddar, tomato and house salad.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Avocado, Quinoa & Feta Bowl",
+        "category": "Salads",
+        "price_cents": 2638,
+        "currency": "SGD",
+        "description": "Quinoa bowl with avocado, feta, walnut, blueberry, tomato, greens and lemon miso dressing.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Chicken Breast Barley Risotto",
+        "category": "Mains",
+        "price_cents": 3477,
+        "currency": "SGD",
+        "description": "Chicken breast served with barley risotto.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Pan-Seared Salmon",
+        "category": "Mains",
+        "price_cents": 4316,
+        "currency": "SGD",
+        "description": "Pan-seared salmon main course.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Fish & Chips",
+        "category": "Mains",
+        "price_cents": 3597,
+        "currency": "SGD",
+        "description": "Fish and chips main course.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Tiger Prawn Fettuccine",
+        "category": "Mains",
+        "price_cents": 3477,
+        "currency": "SGD",
+        "description": "Fettuccine pasta with tiger prawns.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Green Juice",
+        "category": "Juices and Smoothies",
+        "price_cents": 1079,
+        "currency": "SGD",
+        "description": "Juice with cucumber, apple, celery and kale.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Strawberry Matcha",
+        "category": "Cold Drinks",
+        "price_cents": 981,
+        "currency": "SGD",
+        "description": "Iced matcha with fresh strawberry puree and oat milk.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_creamier_handcrafted_ice_cream_and_coffee_tiong__62ca52791f",
+    "place_name": "Creamier Handcrafted Ice Cream and Coffee Tiong Bahru",
+    "source_url": "https://creamier.com.sg/pages/tiong-bahru-in-store-ice-cream-flavours",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.91,
+    "notes": "Official Tiong Bahru in-store flavour page lists waffles, ice cream, coffee and tea prices. Delivery prices and pint descriptions were cross-checked against https://deliveroo.com.sg/menu/Singapore/tiong-bahru/creamier-tiong-bahru.",
+    "items": [
+      {
+        "name": "Plain Waffles",
+        "category": "Waffles",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Freshly made plain waffles.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Waffles + Single Scoop Ice Cream",
+        "category": "Waffles",
+        "price_cents": 1090,
+        "currency": "SGD",
+        "description": "Fresh waffles served with one standard scoop of ice cream.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Sea Salt Gula Melaka",
+        "category": "Ice Cream Scoops",
+        "price": null,
+        "currency": "SGD",
+        "description": "Ice cream with palm sugar gula melaka and sea salt.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Roasted Pistachio",
+        "category": "Ice Cream Scoops",
+        "price": null,
+        "currency": "SGD",
+        "description": "Pistachio ice cream made with roasted pistachios.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Mango Passionfruit Sorbet",
+        "category": "Ice Cream Scoops",
+        "price": null,
+        "currency": "SGD",
+        "description": "Fruit sorbet with mango and passionfruit.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Pour-Over",
+        "category": "Coffee",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Pour-over coffee.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Coffee",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Cold brew coffee.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Lychee Tea Fizz",
+        "category": "Ice Cream Floats and Sodas",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Lychee and handmade tea syrup with soda.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  }
+]

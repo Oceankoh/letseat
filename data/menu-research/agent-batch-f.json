@@ -1,0 +1,302 @@
+[
+  {
+    "place_id": "google_chagee_orchardgateway_d5d36722a8",
+    "place_name": "CHAGEE orchardgateway",
+    "source_url": "https://food.grab.com/sg/en/restaurant/chagee-orchardgateway-delivery/4-C6TVCZJWGNBTA6",
+    "source_type": "third_party_delivery",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "GrabFood page is outlet-specific for CHAGEE orchardgateway and lists current categories, item names, descriptions and delivery prices. Official CHAGEE stores page confirms the orchardgateway outlet at 277 Orchard Road #01-18; official product pages confirm the tea series and item descriptions. Prices may include delivery-platform pricing.",
+    "items": [
+      {
+        "name": "BO.YA Jasmine Green Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Jasmine green tea with fresh milk and a floral finish.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Da Hong Pao Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Roasted Da Hong Pao oolong tea with fresh milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Osmanthus Oolong Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Roasted oolong milk tea scented with osmanthus.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Tie Guan Yin Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 570,
+        "currency": "SGD",
+        "description": "Tie Guan Yin oolong tea with fresh milk and orchid notes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Jasmine Lemon Tea",
+        "category": "Fresh Fruit Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Jasmine green tea with lemon juice and fresh lemon.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Da Hong Pao Lemon Tea",
+        "category": "Fresh Fruit Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Da Hong Pao tea with lemon juice and fresh lemon.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Peach Oolong Tea",
+        "category": "Brewed Tea",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Brewed oolong tea with peach aroma.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "New York Cheesecake",
+        "category": "Bakery",
+        "price_cents": 790,
+        "currency": "SGD",
+        "description": "Cream cheese cake on a biscuit base.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_chagee_raffles_city_shopping_centre_8a359d54a4",
+    "place_name": "CHAGEE Raffles City Shopping Centre",
+    "source_url": "https://chagee.com.sg/en/stores",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Official CHAGEE stores page confirms the Raffles City Shopping Centre outlet at 252 North Bridge Road #01-15, and official product pages confirm the tea series and item descriptions. Prices were cross-checked against the public GrabFood CHAGEE orchardgateway menu for Singapore CHAGEE items because an outlet-specific Raffles City menu page was not fetchable in full.",
+    "items": [
+      {
+        "name": "Jasmine Green Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Jasmine green tea with fresh milk and a floral finish.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Ceylon Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Ceylon tea blend with fresh milk and a fruity aroma.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Tie Guan Yin Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 570,
+        "currency": "SGD",
+        "description": "Tie Guan Yin oolong tea with fresh milk and orchid notes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Gardenia Green Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 570,
+        "currency": "SGD",
+        "description": "Green tea infused with gardenia and fresh milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fresh Lemon Jasmine Tea",
+        "category": "Fresh Fruit Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Jasmine tea paired with Xiangshui lemon.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Fresh Lemon Da Hong Pao Tea",
+        "category": "Fresh Fruit Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Da Hong Pao tea paired with Xiangshui lemon.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Da Hong Pao Pure Tea",
+        "category": "Brewed Tea",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Brewed Da Hong Pao tea with roasted aroma.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Osmanthus Oolong Pure Tea",
+        "category": "Brewed Tea",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Brewed oolong tea scented with osmanthus flowers.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_champion_bolo_bun_05082de954",
+    "place_name": "Champion Bolo Bun",
+    "source_url": "https://championbolobun.com/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.72,
+    "notes": "Official website confirms the current bolo bun and signature drinks focus, fresh daily production and preorder channel. Item names and prices were cross-checked against public food articles from TODAY, Eatbook and ConfirmGood because the official preorder app requires JavaScript and did not expose menu data to the crawler. Prices may have changed since those public menu captures.",
+    "items": [
+      {
+        "name": "Classic Bolo Bun",
+        "category": "Bolo Buns",
+        "price_cents": 450,
+        "currency": "SGD",
+        "description": "Freshly baked bolo bun with a crisp cookie crust.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Classic With Butter",
+        "category": "Bolo Buns",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Classic bolo bun filled with a slab of cold butter.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Curry Potato",
+        "category": "Bolo Buns",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Bolo bun filled with mildly spicy curry potato.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Mini of 4",
+        "category": "Bolo Buns",
+        "price_cents": 450,
+        "currency": "SGD",
+        "description": "Four bite-sized mini bolo buns for sharing.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Champion's Milk Tea",
+        "category": "Signature Drinks",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Hong Kong-style milk tea.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Champion's Coffee",
+        "category": "Signature Drinks",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "House coffee drink.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Champion's Lemon Tea",
+        "category": "Signature Drinks",
+        "price_cents": 580,
+        "currency": "SGD",
+        "description": "House lemon tea.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Latte",
+        "category": "Coffee",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Cafe latte.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_killiney_kopitiam_4fc4a3cee1",
+    "place_name": "Killiney Kopitiam",
+    "source_url": "https://killiney-kopitiam.com/pages/menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.8,
+    "notes": "Official Killiney menu page confirms core categories and representative items. Prices were cross-checked against public Foodpanda and PriceListo Singapore Killiney Kopitiam pages because the official menu page does not publish prices. Prices may vary by outlet and delivery platform.",
+    "items": [
+      {
+        "name": "Kaya Butter Toast",
+        "category": "Classic",
+        "price_cents": 430,
+        "currency": "SGD",
+        "description": "Toast with kaya and butter.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "French Toast",
+        "category": "Classic",
+        "price_cents": 475,
+        "currency": "SGD",
+        "description": "Killiney classic French toast.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Soft Boiled Egg",
+        "category": "Classic",
+        "price_cents": 380,
+        "currency": "SGD",
+        "description": "Soft-boiled eggs served as a breakfast item.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chee Cheong Fun",
+        "category": "Classic",
+        "price_cents": 455,
+        "currency": "SGD",
+        "description": "Steamed rice rolls.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Curry Chicken",
+        "category": "Signature",
+        "price_cents": 975,
+        "currency": "SGD",
+        "description": "Killiney signature curry chicken.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Mee Siam",
+        "category": "Signature",
+        "price_cents": 830,
+        "currency": "SGD",
+        "description": "Rice vermicelli in tangy sweet-sour gravy.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Laksa",
+        "category": "Signature",
+        "price_cents": 905,
+        "currency": "SGD",
+        "description": "Spiced coconut noodle soup.",
+        "dietary_tags": ["spicy", "shellfish"]
+      },
+      {
+        "name": "Coffee",
+        "category": "Beverage",
+        "price_cents": 355,
+        "currency": "SGD",
+        "description": "Traditional Killiney coffee.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

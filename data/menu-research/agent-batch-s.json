@@ -1,0 +1,366 @@
+[
+  {
+    "place_id": "google_thus_coffee_c1d6ccbc32",
+    "place_name": "Thus Coffee",
+    "source_url": "https://www.foodpanda.sg/chain/ct3ej/thus-coffee",
+    "source_type": "delivery_platform",
+    "captured_at": "2026-05-03",
+    "confidence": 0.74,
+    "notes": "Priced representative items taken from the public foodpanda Thus Coffee menu. Official site at https://www.thuscoffee.com/menu/ confirms the restaurant menu page, but public access to detailed item pricing is limited.",
+    "items": [
+      {
+        "name": "Thus Breakfast",
+        "category": "Brunch",
+        "price_cents": 2750,
+        "currency": "SGD",
+        "description": "Sous vide eggs, hollandaise, muffin, sausage, bacon, mushrooms and baked beans.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Scramble Lyonnaise",
+        "category": "Brunch",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Scrambled eggs with baked potatoes, mushrooms and spinach.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Summer French Toast",
+        "category": "Brunch",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Brioche French toast with berry compote, Greek yoghurt, berries and almond flakes.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Pulled Pork & Scramble Croissant",
+        "category": "Brunch",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Pulled pork with BBQ sauce and scrambled eggs in a croissant.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Fun Guy's Salad",
+        "category": "Starters",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "King oyster mushrooms, pickled shiitake, kale and baby gem lettuce.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Ham and Cheese",
+        "category": "Sandwich",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Toasted ciabatta with baby spinach and honey mustard sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Chicken Katsu Sando",
+        "category": "Sandwich",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Chicken cutlet sandwich with tonkatsu sauce, coleslaw and paprika fries.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Truffle Fries",
+        "category": "Bites",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Straight cut fries with truffle seasoning.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Crispy Fish Fingers",
+        "category": "Bites",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Crispy fish fingers.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Latte",
+        "category": "Coffee",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Espresso with steamed and foamed milk.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_apollo_coffee_bar_afae7a9159",
+    "place_name": "Apollo Coffee Bar",
+    "source_url": "https://www.apollocoffeebar.com/menu?menu=brunch",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.92,
+    "notes": "Official menu page; prices are listed on the restaurant website and selected items are representative of the brunch, mains, pasta and coffee sections.",
+    "items": [
+      {
+        "name": "Wurst Rosti",
+        "category": "Brunch",
+        "price_cents": 2562,
+        "currency": "SGD",
+        "description": "Potato rosti with sausage and egg.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Pancake & Passionfruit Curd",
+        "category": "Brunch",
+        "price_cents": 1744,
+        "currency": "SGD",
+        "description": "Diner-style hotcakes with passionfruit curd, blueberries and maple syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pita & Hummus",
+        "category": "Brunch",
+        "price_cents": 1799,
+        "currency": "SGD",
+        "description": "Chickpea hummus, spiced cauliflower, pistachio oil, cranberries and pita.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Breakfast Burger",
+        "category": "Brunch",
+        "price_cents": 2180,
+        "currency": "SGD",
+        "description": "Breakfast burger with egg.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Salmon Soba Bowl",
+        "category": "Mains",
+        "price_cents": 2453,
+        "currency": "SGD",
+        "description": "Pan-seared salmon with soy soba, shimeji and crispy egg.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Chilli Chicken Biang Biang Noodles",
+        "category": "Mains",
+        "price_cents": 2180,
+        "currency": "SGD",
+        "description": "Scallion fried chicken with spicy aji verde tomato garlic noodles.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Cereal Prawn",
+        "category": "Pasta",
+        "price_cents": 2344,
+        "currency": "SGD",
+        "description": "Spaghetti with cereal butter prawns, garlic and chilli.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Truffle Mushroom Supreme",
+        "category": "Pasta",
+        "price_cents": 2562,
+        "currency": "SGD",
+        "description": "Mushroom spaghetti with truffle paste, nori and parmesan.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Flat White",
+        "category": "Coffee",
+        "price_cents": 578,
+        "currency": "SGD",
+        "description": "Espresso with milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mocha",
+        "category": "Coffee",
+        "price_cents": 785,
+        "currency": "SGD",
+        "description": "Espresso with chocolate and milk.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_whisk_and_paddle_bt_gombak_park_7fe851921e",
+    "place_name": "Whisk & Paddle (Bt Gombak Park)",
+    "source_url": "https://sgeats.net/whisk-and-paddle-menu-singapore/",
+    "source_type": "public_menu_mirror",
+    "captured_at": "2026-05-03",
+    "confidence": 0.68,
+    "notes": "Representative items and prices taken from a public Singapore menu mirror. Official site at https://www.whiskandpaddle.com.sg/ confirms the Whisk & Paddle brand and directs diners to current outlets and updates, but detailed Bt Gombak Park pricing was not available in accessible official text.",
+    "items": [
+      {
+        "name": "Eggs Benedict",
+        "category": "All Day Breakfast",
+        "price_cents": 1680,
+        "currency": "SGD",
+        "description": "Poached eggs on toast with hollandaise.",
+        "dietary_tags": []
+      },
+      {
+        "name": "French Toast with Seasalt Butter & Syrup",
+        "category": "All Day Breakfast",
+        "price_cents": 1380,
+        "currency": "SGD",
+        "description": "French toast served with seasalt butter and syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Full Butter Waffles with Seasalt Butter & Syrup",
+        "category": "All Day Breakfast",
+        "price_cents": 1380,
+        "currency": "SGD",
+        "description": "Waffles served with seasalt butter and syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Prawns Aglio Olio",
+        "category": "Pasta",
+        "price_cents": 2480,
+        "currency": "SGD",
+        "description": "Aglio olio pasta with prawns.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Italian Carbonara",
+        "category": "Pasta",
+        "price_cents": 2180,
+        "currency": "SGD",
+        "description": "Creamy pasta with bacon.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Mushroom Aglio Olio Pasta",
+        "category": "Pasta",
+        "price_cents": 2080,
+        "currency": "SGD",
+        "description": "Aglio olio pasta with mushrooms.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fish & Chips",
+        "category": "Mains",
+        "price_cents": 2780,
+        "currency": "SGD",
+        "description": "Battered fish with fries.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Salmon Fillet",
+        "category": "Mains",
+        "price_cents": 3480,
+        "currency": "SGD",
+        "description": "Salmon fillet main.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Warm Chocolate Fudge Cake",
+        "category": "Desserts",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Warm chocolate fudge cake.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Flat White",
+        "category": "Coffee",
+        "price_cents": 590,
+        "currency": "SGD",
+        "description": "Espresso with steamed milk.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_oriental_kopi_at_bugis_junction_20173fc81c",
+    "place_name": "Oriental Kopi at Bugis Junction",
+    "source_url": "https://www.foodpanda.sg/restaurant/p5hb/oriental-kopi-bugis-junction",
+    "source_type": "delivery_platform",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Priced representative Bugis Junction items taken from the public foodpanda restaurant menu. Official brand/location information was cross-checked against https://www.paradisefnb.com.sg/brand-oriental-kopi/ and https://www.orientalkopi.asia/.",
+    "items": [
+      {
+        "name": "Oriental Signature Nasi Lemak",
+        "category": "Nasi Lemak",
+        "price_cents": 1179,
+        "currency": "SGD",
+        "description": "Signature nasi lemak.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Oriental Fried Chicken Meat Nasi Lemak",
+        "category": "Nasi Lemak",
+        "price_cents": 1019,
+        "currency": "SGD",
+        "description": "Nasi lemak with fried chicken meat.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Oriental Polo Bun",
+        "category": "Oriental Signature",
+        "price_cents": 526,
+        "currency": "SGD",
+        "description": "Signature polo bun.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Oriental Egg Tart (2pcs)",
+        "category": "Oriental Signature",
+        "price_cents": 595,
+        "currency": "SGD",
+        "description": "Two baked egg tarts.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Double Butter Kaya Toast (Traditional)",
+        "category": "Buns and Toast",
+        "price_cents": 309,
+        "currency": "SGD",
+        "description": "Traditional kaya toast with double butter.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Oriental Chicken Hor Fun",
+        "category": "Noodles",
+        "price_cents": 1133,
+        "currency": "SGD",
+        "description": "Hor fun with chicken.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Penang Char Kuey Teow",
+        "category": "Noodles",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Penang-style fried kuey teow.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mee Goreng Mamak",
+        "category": "Noodles",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Indian-style fried noodles.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Oriental Kopi (Cold)",
+        "category": "Drinks",
+        "price_cents": 412,
+        "currency": "SGD",
+        "description": "Signature cold coffee.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Oriental Kopi (Hot)(Small)",
+        "category": "Drinks",
+        "price_cents": 240,
+        "currency": "SGD",
+        "description": "Signature hot coffee.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

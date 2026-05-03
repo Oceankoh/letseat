@@ -1,0 +1,334 @@
+[
+  {
+    "place_id": "google_my_awesome_cafe_9f55090e34",
+    "place_name": "My Awesome Cafe",
+    "source_url": "https://www.myawesomecafe.com/food",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official food page confirms the cafe food scope; item names and prices were cross-checked against a public menu mirror at https://my-awesome-cafe.restaurants-world.net/menu because the official page is mostly image/overview content.",
+    "items": [
+      {
+        "name": "My Awesome Salad",
+        "category": "Salads and Sandwiches",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Salad with smoked salmon, herb chicken breast, parma ham, roasted pumpkin and tomato.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "My Awesome Sandwich",
+        "category": "Salads and Sandwiches",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Sandwich with smoked salmon, herb chicken breast, parma ham and toasted brie.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "My Awesome Vegetarian Salad Or Sandwich",
+        "category": "Salads and Sandwiches",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Vegetarian salad or sandwich with egg, roasted vegetables, tomatoes, seeds and cheese.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "French Shredded Duck Confit Mayo",
+        "category": "Awesome Burger",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Duck confit burger with mayo.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Peppered Roast Beef Black Truffle Mushroom Dip",
+        "category": "Awesome Burger",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Roast beef burger with black truffle mushroom dip.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Vegetarian Burger",
+        "category": "Awesome Burger",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Vegetarian burger with egg, roasted pumpkin, carrots and cherry tomatoes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Spicy Thai Beef Wrap",
+        "category": "Mains",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Thai-spiced beef wrap with coconut oil, shallots and lime.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "New Fortune En Pappillote Chicken",
+        "category": "Mains",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Oven-baked peri-peri chicken breast with vegetables.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Awesome Duck Platter",
+        "category": "Sharing Platters",
+        "price_cents": 3900,
+        "currency": "SGD",
+        "description": "Duck sharing platter with several duck preparations and walnuts.",
+        "dietary_tags": ["nuts"]
+      },
+      {
+        "name": "Drinkable Idea I Am Awesome Bulb",
+        "category": "Healthy Juices Drinks",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Coconut water drink with goji berries and chia seeds.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_nylon_coffee_a24ad5c50a",
+    "place_name": "Nylon Coffee",
+    "source_url": "https://nylon.coffee/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "notes": "Official Nylon shop page lists current roasted coffee products. In-store espresso bar drinks rotate or are not fully published on the page, so this batch uses official current coffee retail menu items.",
+    "items": [
+      {
+        "name": "Colombia Juan Martin",
+        "category": "Filter Coffee Beans",
+        "price_cents": 2350,
+        "currency": "SGD",
+        "description": "Filter-roast coffee with berry, red plum, nectarine and orange tea notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Nicaragua Finca Libre",
+        "category": "Espresso Coffee Beans",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Espresso-roast coffee with grape, dried fruit and milk chocolate notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Ethiopia Banko Gotiti",
+        "category": "Filter Coffee Beans",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Filter-roast Ethiopian coffee with raspberry, lemonade, peach and bergamot notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "xPods for xBloom",
+        "category": "Coffee Pods",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "xBloom coffee pods with dried pineapple, golden raisin, apricot and plum notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Brazil FAF Organic",
+        "category": "Filter Coffee Beans",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Organic Brazil coffee with red apple, cherry, raisin and milk chocolate notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Colombia La Union",
+        "category": "Espresso Coffee Beans",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Espresso-roast Colombia coffee with dark cherry, black grape, raisin and chocolate notes.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_atlas_coffeehouse_d672e0daec",
+    "place_name": "Atlas Coffeehouse",
+    "source_url": "https://www.atlascoffeehouse.com.sg/menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.94,
+    "notes": "Official menu page; prices shown inclusive of GST. Representative brunch items selected from the Mornings menu.",
+    "items": [
+      {
+        "name": "Banana Bread",
+        "category": "Brunch",
+        "price_cents": 1417,
+        "currency": "SGD",
+        "description": "Banana bread with espresso mascarpone, seed brittle and cranberries.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chia Pudding & Yogurt",
+        "category": "Brunch",
+        "price_cents": 1635,
+        "currency": "SGD",
+        "description": "Chia pudding with Greek yogurt, banana, blueberries, granola and almond butter.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Super Nutty",
+        "category": "Brunch",
+        "price_cents": 1733,
+        "currency": "SGD",
+        "description": "Acai bowl with granola, fruits, cacao nibs, almond butter and honey.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Hotcakes & Passionfruit Curd",
+        "category": "Brunch",
+        "price_cents": 1853,
+        "currency": "SGD",
+        "description": "Diner-style pancakes with passionfruit curd, blueberries, maple and butter.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "The Gentleman's Relish",
+        "category": "Brunch",
+        "price_cents": 2017,
+        "currency": "SGD",
+        "description": "Soft scrambled eggs with tomatoes, compound butter, honey mascarpone and sourdough.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chorizo, Eggs & Avo",
+        "category": "Brunch",
+        "price_cents": 2235,
+        "currency": "SGD",
+        "description": "Pork chorizo, sunny eggs, smashed avocado and sourdough.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "French Toast With Many Berries",
+        "category": "Brunch",
+        "price_cents": 2398,
+        "currency": "SGD",
+        "description": "Brioche French toast with yogurt, berries and berry compote.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mushroom Confit with Poached Eggs",
+        "category": "Brunch",
+        "price_cents": 2496,
+        "currency": "SGD",
+        "description": "Mushroom confit with vine tomatoes, spinach, avocado, poached eggs and sourdough.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Scrambled White & Greens",
+        "category": "Brunch",
+        "price_cents": 2670,
+        "currency": "SGD",
+        "description": "Egg whites with kale, asparagus, spinach, edamame, avocado spread and parmesan.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Wurst Rosti",
+        "category": "Brunch",
+        "price_cents": 2670,
+        "currency": "SGD",
+        "description": "Potato rosti with cheese frank, eggs, bacon fennel sauce and tomato chutney.",
+        "dietary_tags": []
+      }
+    ]
+  },
+  {
+    "place_id": "google_five_oars_coffee_roasters_heritage_0e8fcf989d",
+    "place_name": "Five Oars Coffee Roasters Heritage",
+    "source_url": "https://www.focr.sg/tpg-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.95,
+    "notes": "Official Heritage/Tanjong Pagar menu; prices are before GST and dine-in service charge per source note.",
+    "items": [
+      {
+        "name": "Chia Seed Pudding",
+        "category": "Light",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Chia pudding with coconut, fruits, honey, walnut and mascarpone.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Granola",
+        "category": "Light",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "House granola with Greek-style yogurt, fruits and mixed nuts.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Kale Salad",
+        "category": "Light",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Kale salad with avocado, chickpea, edamame, pomegranate, feta and honey mustard.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Avocado & Eggs",
+        "category": "Brunch",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Sourdough with poached eggs, avocado, cherry tomatoes, guacamole, dukkah and ricotta.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Smoked Salmon Rosti",
+        "category": "Brunch",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "House rosti with poached eggs, smoked salmon, creme fraiche and hollandaise.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Beer-battered Fish & Chips",
+        "category": "Big Plate",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Beer-battered snapper with pea mash, tartar sauce and fries.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Wagyu Cheeseburger",
+        "category": "Big Plate",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Wagyu patty in a potato bun with cheddar, caramelised onions and fries.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Rigatoni Pomodoro",
+        "category": "Rice & Pasta",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "House rigatoni with zucchini, basil, feta and tomato sauce.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mushroom Risotto",
+        "category": "Rice & Pasta",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Risotto with wild mushrooms and grana padano.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Five Oars Waffles",
+        "category": "Sweet",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Sourdough waffles with espresso caramel, nuts, mascarpone, granola and ice cream.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      }
+    ]
+  }
+]

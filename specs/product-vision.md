@@ -15,7 +15,7 @@ LetsEat flips the search model. Users start with the food, and the app finds pla
 
 ## Initial Market
 
-Start with cafes in one city or neighborhood cluster. Cafes are a good first segment because menus are often photo-heavy, item names are repeated across many places, and users frequently search for specific drinks, pastries, brunch dishes, and desserts.
+Start with cafes in Singapore. Cafes are a good first segment because menus are often photo-heavy, item names are repeated across many places, and users frequently search for specific drinks, pastries, brunch dishes, and desserts.
 
 ## Core Promise
 
@@ -36,7 +36,7 @@ The product must show why it believes a place sells the searched food. Evidence 
 
 Included:
 
-- Cafe place catalog for a selected launch area.
+- Singapore cafe place catalog.
 - Progressive Web App experience.
 - Postgres-backed place and menu database.
 - Food search with place results.

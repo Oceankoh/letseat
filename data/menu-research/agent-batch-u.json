@@ -1,0 +1,326 @@
+[
+  {
+    "place_id": "google_nosh_sembawang_af26754626",
+    "place_name": "NOSH @ Sembawang",
+    "source_url": "https://www.noshsg.com/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Official NOSH Bistro ordering page confirms current Sembawang bistro menu items and prices where visible. Additional Sembawang-specific fish, burger, pasta and salad items were cross-checked against foodpanda at https://www.foodpanda.sg/restaurant/wv5s/nosh-bistro-sembawang.",
+    "items": [
+      {
+        "name": "Mozzarella Sticks",
+        "category": "Appetizers",
+        "price_cents": 1490,
+        "currency": "SGD",
+        "description": "Eight mozzarella sticks.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Nuggets",
+        "category": "Appetizers",
+        "price_cents": 1140,
+        "currency": "SGD",
+        "description": "Nine nuggets served with sriracha mayo.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Honey Garlic Chicken",
+        "category": "Appetizers",
+        "price_cents": 2060,
+        "currency": "SGD",
+        "description": "Chicken in honey garlic sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Forest Mushroom Soup",
+        "category": "Appetizers",
+        "price_cents": 1030,
+        "currency": "SGD",
+        "description": "Creamy mushroom soup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fish Goujons",
+        "category": "Appetizers",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Eight fish goujons served with tartar sauce.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Classic Beef Burger with Sidewinders",
+        "category": "Burgers & Hotdogs",
+        "price_cents": 1690,
+        "currency": "SGD",
+        "description": "Beef patty, sliced cheese, ketchup, mustard and sidewinder fries.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Dory & Chips with Tartar Sauce",
+        "category": "Fish & Chips",
+        "price_cents": 1890,
+        "currency": "SGD",
+        "description": "Dory fish with chips and tartar sauce.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Salmon Mentaiko Pasta",
+        "category": "Pasta",
+        "price_cents": 1990,
+        "currency": "SGD",
+        "description": "Smoked salmon pasta with house-made mentaiko sauce and tobiko.",
+        "dietary_tags": ["fish"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_craze_kitchen_e67a4c84eb",
+    "place_name": "Craze Kitchen",
+    "source_url": "https://www.singmenu.com/craze-kitchen-menu/",
+    "source_type": "public_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.68,
+    "notes": "No official parseable current menu page was found. SingMenu states prices are sourced from Craze Kitchen outlets and lists a February 9, 2024 update; items were cross-checked against other public menu mirrors with matching prices.",
+    "items": [
+      {
+        "name": "Aglio Olio",
+        "category": "Italian Pastas",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Italian-style aglio olio pasta.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Vegetarian Pasta",
+        "category": "Italian Pastas",
+        "price_cents": 1250,
+        "currency": "SGD",
+        "description": "Meat-free pasta option.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Prawn Laksa Pasta",
+        "category": "Seasonal Pastas",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Laksa-style pasta with prawns.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Fish & Chips",
+        "category": "Mains",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Fish and chips main.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Hot Chick Steak",
+        "category": "Mains",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Chicken steak main.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Lamb Chops",
+        "category": "Mains",
+        "price_cents": 2150,
+        "currency": "SGD",
+        "description": "Lamb chops main.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Sambal Chicken Paella",
+        "category": "Paella Rice",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Paella rice with sambal chicken.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Bottom Fisher",
+        "category": "Burgers",
+        "price_cents": 1350,
+        "currency": "SGD",
+        "description": "Fish burger.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Truffle Fries",
+        "category": "Appetizers",
+        "price_cents": 1250,
+        "currency": "SGD",
+        "description": "Fries with truffle seasoning.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_tenderbest_makcik_tuckshop_punggol_east_064394b908",
+    "place_name": "Tenderbest Makcik Tuckshop @ Punggol East",
+    "source_url": "https://www.foodpanda.sg/restaurant/lj01/tenderbest-makcik-tuckshop-punggol",
+    "source_type": "delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official Tenderfresh page confirms the Punggol East outlet at 60 Punggol East and links to islandwide ordering, but the menu is not fully text-rendered there. Foodpanda Punggol delivery menu provides current item names and prices.",
+    "items": [
+      {
+        "name": "C1 Signature Crispy Spring Chicken (whole)",
+        "category": "Fried Chicken",
+        "price_cents": 2390,
+        "currency": "SGD",
+        "description": "Whole crispy spring chicken.",
+        "dietary_tags": ["halal"]
+      },
+      {
+        "name": "C2 Crispy Half Spring Chicken with Fries",
+        "category": "Fried Chicken",
+        "price_cents": 1390,
+        "currency": "SGD",
+        "description": "Half spring chicken served with fries.",
+        "dietary_tags": ["halal"]
+      },
+      {
+        "name": "W7 Fish & Chips",
+        "category": "Western Mains",
+        "price_cents": 1490,
+        "currency": "SGD",
+        "description": "Fish and chips western main.",
+        "dietary_tags": ["fish", "halal"]
+      },
+      {
+        "name": "P16 Turkey Bacon Carbonara",
+        "category": "Cream Pasta",
+        "price_cents": 1390,
+        "currency": "SGD",
+        "description": "Cream pasta with turkey bacon.",
+        "dietary_tags": ["halal"]
+      },
+      {
+        "name": "P18 Laksa Prawn Spaghetti",
+        "category": "Fusion Pasta",
+        "price_cents": 1490,
+        "currency": "SGD",
+        "description": "Laksa-style spaghetti with prawns.",
+        "dietary_tags": ["shellfish", "spicy", "halal"]
+      },
+      {
+        "name": "R2 Truffle Mushroom Pizza Rice",
+        "category": "Pizza Rice",
+        "price_cents": 1650,
+        "currency": "SGD",
+        "description": "Pizza rice with truffle mushroom.",
+        "dietary_tags": ["vegetarian", "halal"]
+      },
+      {
+        "name": "Z5 Margherita Pizza",
+        "category": "Pizza",
+        "price_cents": 1450,
+        "currency": "SGD",
+        "description": "Classic margherita pizza.",
+        "dietary_tags": ["vegetarian", "halal"]
+      },
+      {
+        "name": "A10 Onion Blossom",
+        "category": "Sides & Starters",
+        "price_cents": 1090,
+        "currency": "SGD",
+        "description": "Fried onion blossom starter.",
+        "dietary_tags": ["vegetarian", "halal"]
+      },
+      {
+        "name": "T1 Iced French Vanilla Macchiato",
+        "category": "Macchiato",
+        "price_cents": 690,
+        "currency": "SGD",
+        "description": "Iced vanilla macchiato.",
+        "dietary_tags": ["vegetarian", "halal"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_nayana_kpop_cafe_and_restaurant_flora_vista_nice_9f67804ec5",
+    "place_name": "NAYANA Kpop Cafe & Restaurant Flora Vista",
+    "source_url": "https://www.foodpanda.sg/restaurant/w6dx/nayana-kpop-cafe-and-restaurant-flora-vista",
+    "source_type": "delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Official NAYANA website confirms the Flora Vista outlet and menu gallery, while foodpanda provides text-rendered Flora Vista menu items and prices. Chope was used as a secondary source for signature item names and descriptions.",
+    "items": [
+      {
+        "name": "Korean Mandu",
+        "category": "Dumplings",
+        "price_cents": 1049,
+        "currency": "SGD",
+        "description": "Steamed or pan-fried Korean dumplings with sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Vegetarian Curry Rice",
+        "category": "Vegetarian",
+        "price_cents": 1284,
+        "currency": "SGD",
+        "description": "Vegetarian curry rice with vegetables and spices.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Sweet Chilli",
+        "category": "Nayana Fried Chicken",
+        "price_cents": 1519,
+        "currency": "SGD",
+        "description": "Six pieces fried chicken with sweet chilli sauce and sesame seeds.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Hotplate Chicken Dakgalbi",
+        "category": "Nayana Special",
+        "price_cents": 3884,
+        "currency": "SGD",
+        "description": "Chicken thigh with cabbage, rice cakes, sweet potato and mozzarella.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Galbi",
+        "category": "Nayana Special",
+        "price_cents": 3756,
+        "currency": "SGD",
+        "description": "Marinated beef rib cut on a sizzling hotplate with rice and sides.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Kimchi Stew",
+        "category": "Stews & Soups",
+        "price_cents": 2108,
+        "currency": "SGD",
+        "description": "Kimchi stew with sliced pork, bean curd, glass noodles and egg.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Nayana Ginseng Chicken",
+        "category": "Stews & Soups",
+        "price_cents": 3520,
+        "currency": "SGD",
+        "description": "Whole spring chicken stuffed with glutinous rice and chestnut in ginseng broth.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Hot Stone Bibimbap",
+        "category": "Bap",
+        "price_cents": 1873,
+        "currency": "SGD",
+        "description": "Hot stone rice bowl with egg, vegetables and choice of meat.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Japchae",
+        "category": "Side Dishes",
+        "price_cents": 1990,
+        "currency": "SGD",
+        "description": "Korean glass noodles sauteed with vegetables and mushrooms.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "place_id": "google_chagee_vivocity_3387f6bc9f",
+    "place_name": "CHAGEE VivoCity",
+    "source_url": "https://food.grab.com/sg/en/restaurant/chagee-vivocity-delivery/4-C62TNYNCJ3JGT2",
+    "source_type": "third_party_delivery",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "GrabFood page is outlet-specific for CHAGEE VivoCity and lists current categories, item names and delivery prices. Prices may include delivery-platform pricing.",
+    "items": [
+      {
+        "name": "BO.YA Jasmine Green Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Jasmine tea with fresh milk; CHAGEE's signature milk tea.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Da Hong Pao Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Da Hong Pao tea brewed with milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Osmanthus Oolong Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Roasted oolong milk tea with osmanthus notes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Tie Guan Yin Milk Tea",
+        "category": "Fresh Milk Tea",
+        "price_cents": 570,
+        "currency": "SGD",
+        "description": "Tieguanyin tea with milk and orchid-like aroma.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Jasmine Lemon Tea",
+        "category": "Fresh Fruit Tea",
+        "price_cents": 540,
+        "currency": "SGD",
+        "description": "Jasmine green tea with lemon juice and fresh lemon.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Peach Oolong Tea",
+        "category": "Brewed Tea",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Brewed oolong tea with peach aroma.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chocolate Mousse Cake",
+        "category": "Bakery",
+        "price_cents": 720,
+        "currency": "SGD",
+        "description": "Chocolate mousse cake with sponge and chocolate shavings.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "New York Cheesecake",
+        "category": "Bakery",
+        "price_cents": 690,
+        "currency": "SGD",
+        "description": "Cream cheese cake on a biscuit base.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_bacha_coffee_ion_orchard_ff1314e700",
+    "place_name": "Bacha Coffee ION Orchard",
+    "source_url": "https://orchardmalls.com/shop/bacha-coffee-ion-orchard",
+    "source_type": "mall_public_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Orchard Malls page is outlet-specific for Bacha Coffee ION Orchard and includes public menu highlights with prices.",
+    "items": [
+      {
+        "name": "Blue Dawn Coffee",
+        "category": "Coffee",
+        "price_cents": 1250,
+        "currency": "SGD",
+        "description": "Pot of coffee with dark chocolate, hazelnut and toffee notes.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Scrambled Eggs with Black Truffle",
+        "category": "Eggs",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Scrambled eggs served with black truffle.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Croissant with Comte Cheese",
+        "category": "Savoury Croissants",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Croissant with Comte cheese and roquette salad.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Croissant with Truffle Mushroom",
+        "category": "Savoury Croissants",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Croissant with truffle mushroom, roquette and cherry tomato.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "French Toast Sandwich with Smoked Salmon",
+        "category": "French Toasts",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "French toast sandwich with smoked salmon, Comte cheese and gherkin.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mediterranean Chicken Stew",
+        "category": "Poultry",
+        "price_cents": 3200,
+        "currency": "SGD",
+        "description": "Chicken stew with vegetables, olives, chickpeas, raisins and couscous.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Lemon Tartlet",
+        "category": "Pastries",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Lemon tartlet topped with coffee meringue.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Tiramisu",
+        "category": "Desserts",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Tiramisu flavoured with Vienna Dawn Coffee.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_birds_of_paradise_gelato_boutique_katong_east_co_16cb5ce8b8",
+    "place_name": "Birds of Paradise Gelato Boutique - Katong",
+    "source_url": "https://birdsofparadise.sg/collections/a-la-carte-pints",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "notes": "Official Birds of Paradise shop page lists gelato pint flavours, descriptions and prices. Items are representative of the brand's Katong boutique selection; boutique scoop prices may differ from online pint prices.",
+    "items": [
+      {
+        "name": "White Chrysanthemum Pint",
+        "category": "Gelato Pint",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Chrysanthemum gelato with cacao nibs.",
+        "dietary_tags": ["vegetarian", "gluten_free"]
+      },
+      {
+        "name": "Lychee Raspberry Pint",
+        "category": "Gelato Pint",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Lychee gelato with raspberry accents.",
+        "dietary_tags": ["vegetarian", "gluten_free"]
+      },
+      {
+        "name": "Strawberry Basil Pint",
+        "category": "Gelato Pint",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Strawberry gelato rounded with basil.",
+        "dietary_tags": ["vegetarian", "gluten_free"]
+      },
+      {
+        "name": "Sea-Salt Hojicha Pint",
+        "category": "Gelato Pint",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Roasted green tea gelato with sea salt.",
+        "dietary_tags": ["vegetarian", "gluten_free"]
+      },
+      {
+        "name": "Coconut Sorbet Pint",
+        "category": "Gelato Pint",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Dairy-free coconut sorbet made with coconut milk.",
+        "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"]
+      },
+      {
+        "name": "Mango Sorbet Pint",
+        "category": "Gelato Pint",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Dairy-free mango sorbet.",
+        "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"]
+      },
+      {
+        "name": "Pistachio Pint",
+        "category": "Gelato Pint",
+        "price_cents": 2150,
+        "currency": "SGD",
+        "description": "Pistachio gelato made with Sicilian pistachios.",
+        "dietary_tags": ["vegetarian", "gluten_free"]
+      },
+      {
+        "name": "Thyme Cone Chips",
+        "category": "Accompaniments",
+        "price_cents": 300,
+        "currency": "SGD",
+        "description": "House-made thyme cone chips for gelato.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_kafe_utu_7abe6ec2d7",
+    "place_name": "Kafe Utu",
+    "source_url": "https://www.kafeutu.com/wp-content/uploads/2025/09/UtuDinnerMenu-16th-Septweb.pdf",
+    "source_type": "restaurant_website_pdf",
+    "captured_at": "2026-05-03",
+    "confidence": 0.94,
+    "notes": "Official Kafe Utu dinner PDF dated 16 September 2025. The official site also links brunch and drinks PDFs; selected items are representative and descriptions are shortened.",
+    "items": [
+      {
+        "name": "Padron Peppers",
+        "category": "Kidogo",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Pimentos with citron sea salt.",
+        "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"]
+      },
+      {
+        "name": "Malindi Croquettes",
+        "category": "Kidogo",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Cassava leaf croquettes with ginger, garlic and house chilli.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fried Plantain",
+        "category": "Kidogo",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Ripe plantain with Liberian spice and pineapple hot sauce.",
+        "dietary_tags": ["vegetarian", "vegan", "dairy_free", "gluten_free"]
+      },
+      {
+        "name": "Swahili Fish Curry",
+        "category": "Baharini",
+        "price_cents": 3900,
+        "currency": "SGD",
+        "description": "Red snapper curry with tamarind, coconut cream and coconut rice.",
+        "dietary_tags": ["gluten_free"]
+      },
+      {
+        "name": "Groundnut Stew",
+        "category": "Nyama",
+        "price_cents": 3300,
+        "currency": "SGD",
+        "description": "Chicken stew with peanut butter, smoked fish, greens and habanero.",
+        "dietary_tags": ["dairy_free", "gluten_free"]
+      },
+      {
+        "name": "Zanzibar Curry Goat",
+        "category": "Nyama",
+        "price_cents": 3200,
+        "currency": "SGD",
+        "description": "Goat curry with house spices, habanero and coconut rice.",
+        "dietary_tags": ["gluten_free"]
+      },
+      {
+        "name": "Saharan Flatbread Salad",
+        "category": "Vegetarian",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Flatbread salad with halloumi, chickpeas and smoked herb harissa.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Marula Fritters",
+        "category": "Desserts",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Baked tapioca and coconut cream with chocolate Amarula dip.",
+        "dietary_tags": ["vegetarian", "gluten_free"]
+      }
+    ]
+  }
+]

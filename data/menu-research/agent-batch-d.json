@@ -1,0 +1,302 @@
+[
+  {
+    "place_id": "google_wildseed_caf_at_the_alkaff_mansion_3d74f5bb3b",
+    "place_name": "Wildseed Cafe at The Alkaff Mansion",
+    "source_url": "https://www.wildseedcafe.sg/the-alkaff-mansion/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Official outlet page links to the Alkaff Mansion all-day menu PDF and confirms menu periods; item names and prices were cross-checked against Quandoo because the official PDF could not be parsed directly by the research tool. Prices are subject to service charge and GST.",
+    "items": [
+      {
+        "name": "Bagel Eggs Benny",
+        "category": "Breakfast",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Toasted bagel with sous vide eggs, arugula, radish and hollandaise; choice of smoked salmon or bacon.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Fully Loaded Avocado Toast",
+        "category": "Breakfast",
+        "price_cents": 2700,
+        "currency": "SGD",
+        "description": "Sourdough with avocado, prawns, smoked salmon, bacon, mushrooms, tomato, pumpkin and seeds.",
+        "dietary_tags": ["fish", "pork"]
+      },
+      {
+        "name": "Big Pan Breakfast",
+        "category": "Breakfast",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Breakfast plate with smoked chicken bockwurst, corn, mushrooms, avocado, tomato, tater tots and sourdough.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Truffle Brie Pizza",
+        "category": "Lunch",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Pizza with brie, oyster mushrooms, mozzarella, truffle oil and truffle cream sauce.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Soft Shell Chilli Crab Linguine",
+        "category": "Lunch",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Linguine with fried soft shell crab, crab meat, cherry tomatoes and chilli crab sauce.",
+        "dietary_tags": ["spicy", "shellfish"]
+      },
+      {
+        "name": "Honey Pork Ribs",
+        "category": "Lunch",
+        "price_cents": 3200,
+        "currency": "SGD",
+        "description": "Slow-cooked back ribs with rosemary, curly fries, corn and honey glaze.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Enchanted Pistachio & Pear Garden Cake",
+        "category": "Desserts",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Pistachio and pear cake.",
+        "dietary_tags": ["nuts", "vegetarian"]
+      },
+      {
+        "name": "Kit Kat Banana Croffle",
+        "category": "Desserts",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Croffle with Kit Kat bites, banana, vanilla bean ice cream and Kit Kat spread.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_symmetry_1d9751cbfa",
+    "place_name": "Symmetry",
+    "source_url": "https://www.symmetry.com.sg/s/SYM_BRUNCH_JAN2026.pdf",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.94,
+    "notes": "Official January 2026 brunch PDF from Symmetry's menu page. Prices are subject to GST and service charges; V on the menu marks vegetarian-friendly items.",
+    "items": [
+      {
+        "name": "Soft Eggs in Creamy Mushrooms",
+        "category": "Brunch",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "62.5C eggs with pork belly, caramelised onions, chives, mustard and pain de mie.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Dirty Crab",
+        "category": "Brunch",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Sunny-side eggs with crab meat, hash brown, chilli crunch, tobiko, jalapeno aioli and chilli crab dressing.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Symmetry Full Breakfast",
+        "category": "Brunch",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Eggs with chicken cheese sausage, hashbrown, brussels sprouts, bacon, smoked salmon, corn fritter and crab toast.",
+        "dietary_tags": ["fish", "pork", "shellfish"]
+      },
+      {
+        "name": "Spanish Omelette",
+        "category": "Brunch",
+        "price_cents": 2700,
+        "currency": "SGD",
+        "description": "Omelette with jamon iberico, baby spinach, potatoes, cheddar, mojo rojo and jalapeno aioli.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Vegan Breakfast",
+        "category": "Brunch",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Hummus, corn, chickpeas, broccolini, pumpkin, seeds, brussels sprouts, soybeans, hashbrown and lettuce.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Vegetarian Aglio Olio",
+        "category": "Pastas and Burgers",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Pasta with sauteed mushrooms, brussels sprouts, garlic confit, arugula and chilli padi.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Symmetry Hummus",
+        "category": "Sharing Starters",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Hummus with flat bread, crispy chickpeas, roasted beetroot, pumpkin seeds, currant and mojo rojo.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Açai Bowl",
+        "category": "Sweets",
+        "price_cents": 2100,
+        "currency": "SGD",
+        "description": "Acai with bircher muesli, chia seeds, almonds, apples, cherry compote, banana and cocoa nibs.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_five_oars_coffee_roasters_d889131ded",
+    "place_name": "Five Oars Coffee Roasters Katong",
+    "source_url": "https://www.focr.sg/digital-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "notes": "Official Five Oars digital menu for the Upper East Coast/Katong-area outlet. Prices are before GST; dine-in is subject to service charge.",
+    "items": [
+      {
+        "name": "Acai Bowl",
+        "category": "Light",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Acai with mixed berries, banana, mixed nuts and coconut flakes.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Cauliflower Salad",
+        "category": "Light",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Roasted cauliflower, quinoa, baby spinach, halloumi, pine nuts, almonds and lemon vinaigrette.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Brunch",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Sourdough with poached eggs, cherry tomatoes, ricotta, almonds and dukkah.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Chilli Crab Scramble",
+        "category": "Brunch",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Sourdough with scrambled eggs, soft-shell crab and Thai asparagus.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Prawn Aglio Olio",
+        "category": "Brunch",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Squid ink spaghetti with tiger prawns, tomatoes, garlic, chilli and sakura ebi.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Wagyu Cheeseburger",
+        "category": "Brunch",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Brioche bun with wagyu patty, aged cheddar, sunny-side egg and fries.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Salted Caramel Banana Waffles",
+        "category": "Sweet",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Sourdough waffles with banana, cookie crumbs, hazelnuts, salted caramel, ice cream and whipped cream.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Meringue French Toast",
+        "category": "Sweet",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Brioche with lemon curd, meringue, mixed berries, almond crumble, honeycomb and vanilla ice cream.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_rise_bakehouse_tripleone_somerset_d893a5c546",
+    "place_name": "Rise Bakehouse @ TripleOne Somerset",
+    "source_url": "https://risebakehouse.sg/pages/rise-bakehouse-111-somerset",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.8,
+    "notes": "Official 111 Somerset page links to the current store menu and confirms the outlet serves brunch, cakes, coffee, waffles and gelato. Item-level prices were cross-checked against OrchardMalls' parsed menu for this specific outlet.",
+    "items": [
+      {
+        "name": "Classic Gelato Waffles",
+        "category": "Waffles and Gelato",
+        "price_cents": 1590,
+        "currency": "SGD",
+        "description": "Waffles with a scoop of gelato and maple syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fresh Berries Waffles",
+        "category": "Waffles and Gelato",
+        "price_cents": 1890,
+        "currency": "SGD",
+        "description": "Waffles with red berries compote, strawberries, blueberries, berry gelato and maple syrup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Honey Soy Garlic Fried Chicken Waffles",
+        "category": "Waffles and Gelato",
+        "price_cents": 1890,
+        "currency": "SGD",
+        "description": "Brown butter waffles with crispy chicken karaage and honey soy garlic glaze.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Rise Breakfast Waffles",
+        "category": "Brunch",
+        "price_cents": 2290,
+        "currency": "SGD",
+        "description": "Brown butter waffles with chicken bratwurst, sauteed mushrooms, eggs, fruit and salad.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Avocado & Eggs Croast",
+        "category": "Brunch",
+        "price_cents": 1890,
+        "currency": "SGD",
+        "description": "Butter croissant with avocado, eggs and house salad.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Wild Truffle Mushroom Soup",
+        "category": "Sides",
+        "price_cents": 1090,
+        "currency": "SGD",
+        "description": "Blended mushroom soup with truffle oil and sourdough toast.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Scallop Rose Rigatoni",
+        "category": "Pasta",
+        "price_cents": 2390,
+        "currency": "SGD",
+        "description": "Rigatoni with gochujang cream sauce and seared scallops.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Truffle Mushroom Cream Pasta",
+        "category": "Pasta",
+        "price_cents": 1990,
+        "currency": "SGD",
+        "description": "Spaghetti with sauteed mushrooms, truffle cream sauce and Parmigiano Reggiano.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

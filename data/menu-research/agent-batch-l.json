@@ -1,0 +1,366 @@
+[
+  {
+    "place_id": "google_aiman_cafe_5f838a5872",
+    "place_name": "Aiman Cafe",
+    "source_url": "https://www.foodpanda.sg/restaurant/y9zk/aiman-cafe-seafood-jurong-east-street-21",
+    "source_type": "delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "notes": "Foodpanda page for Aiman Cafe Seafood at Jurong East Street 21 lists current delivery categories and prices. Representative items selected from rice, bento, mains and sides.",
+    "items": [
+      {
+        "name": "Nasi Goreng Kampung",
+        "category": "Rice",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Village-style fried rice.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Nasi Goreng",
+        "category": "Rice",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Traditional fried rice with choice of chicken or seafood.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Nasi Goreng Pattaya",
+        "category": "Rice",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Fried rice wrapped in omelette.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Salted Egg Chicken Bento",
+        "category": "Bento Sets",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Crispy fried chicken with salted egg sauce and steamed rice.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Ayam Goreng Kunyit Bento",
+        "category": "Bento Sets",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Turmeric fried chicken with rice and vegetables.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Sweet & Sour Fish Bento",
+        "category": "Bento Sets",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Crispy fried fish in sweet-and-sour sauce with rice.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Claypot Assam Pedas Stingray",
+        "category": "Main Dishes",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Stingray cooked in assam pedas sauce.",
+        "dietary_tags": ["fish", "spicy"]
+      },
+      {
+        "name": "Salted Egg Chicken",
+        "category": "Main Dishes",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Battered chicken cubes stir-fried in salted egg sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Seafood Tom Yum Soup",
+        "category": "Side Dishes",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Spicy and sour tom yum soup with seafood.",
+        "dietary_tags": ["spicy", "shellfish"]
+      },
+      {
+        "name": "Sambal Kangkong",
+        "category": "Side Dishes",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Kangkong stir-fried in sambal sauce.",
+        "dietary_tags": ["spicy"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_seoul_garden_hotpot_and_cafe_imm_afdfdfdd7e",
+    "place_name": "Seoul Garden HOTPOT & CAFE IMM",
+    "source_url": "https://seoulgardenhotpot.com.sg/wp-content/uploads/2024/11/IMM-Cafe-Menu.pdf",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "notes": "Official IMM Cafe PDF confirms cafe drinks and prices. Hotpot food items and prices were cross-checked from the IMM Deliveroo page at https://deliveroo.com.sg/menu/singapore/imm/hotpot-by-seoul-garden-group-imm.",
+    "items": [
+      {
+        "name": "Ginseng Chicken Hot Pot",
+        "category": "Ginseng Chicken",
+        "price_cents": 2310,
+        "currency": "SGD",
+        "description": "Quarter chicken with ginseng, chestnut and glutinous rice.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Soon Dubu Chicken Hot Pot (Non-Spicy)",
+        "category": "Soon Dubu",
+        "price_cents": 1930,
+        "currency": "SGD",
+        "description": "Non-spicy tofu hot pot with chicken, egg, mushrooms and vegetables.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Soon Dubu Beef Hot Pot (Non-Spicy)",
+        "category": "Soon Dubu",
+        "price_cents": 2180,
+        "currency": "SGD",
+        "description": "Non-spicy tofu hot pot with beef short plate, egg and vegetables.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Soon Dubu Seafood Hot Pot (Non-Spicy)",
+        "category": "Soon Dubu",
+        "price_cents": 2180,
+        "currency": "SGD",
+        "description": "Non-spicy tofu hot pot with prawns, clams, egg and vegetables.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Beef Army Stew",
+        "category": "Army Stew",
+        "price_cents": 2180,
+        "currency": "SGD",
+        "description": "Korean army stew with beef.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Kimchi Beef Hot Pot",
+        "category": "Kimchi Hot Pot",
+        "price_cents": 2180,
+        "currency": "SGD",
+        "description": "Kimchi hot pot with beef.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Chicken Japchae",
+        "category": "Japchae",
+        "price_cents": 1680,
+        "currency": "SGD",
+        "description": "Stir-fried sweet potato glass noodles with chicken and vegetables.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Bulgogi Beef Hot Plate",
+        "category": "Hot Plate",
+        "price_cents": 2170,
+        "currency": "SGD",
+        "description": "Bulgogi beef served on a sizzling hot plate with mushrooms and onions.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Cafe Latte",
+        "category": "Coffee",
+        "price_cents": 450,
+        "currency": "SGD",
+        "description": "Hot cafe latte.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Yuja Orange Burst",
+        "category": "Ice Blended",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Ice-blended yuja orange drink.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_sin_ming_roti_prata_faisal_and_aziz_curry_muslim_14b12d08ae",
+    "place_name": "Sin Ming Roti Prata Faisal & Aziz Curry Muslim Food",
+    "source_url": "https://sethlui.com/sin-ming-roti-prata-singapore/",
+    "source_type": "public_menu_article",
+    "captured_at": "2026-05-03",
+    "confidence": 0.66,
+    "notes": "Recent public review confirms the stall menu includes 19 prata types plus Maggi Goreng and Curry Fish Head, but notes the displayed stall menu did not show prices. Selected prices are only used where the article or corroborating public menu sources explicitly state them; otherwise price is null. Additional item names cross-checked at https://sin-ming-roti-prata-faisal-aziz-curry-muslim-food.menu-pick.com/ and https://danielfooddiary.com/2021/02/17/sinmingrotiprata/.",
+    "items": [
+      {
+        "name": "Chicken Murthapa Pizza",
+        "category": "Murtabak",
+        "price_cents": 1000,
+        "currency": "SGD",
+        "description": "Murtabak-style prata filled with egg, onions, chicken and cheese.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Fried Chicken",
+        "category": "A La Carte",
+        "price_cents": 450,
+        "currency": "SGD",
+        "description": "Fried chicken served cut into pieces.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Plain Prata",
+        "category": "Prata",
+        "price": null,
+        "currency": "SGD",
+        "description": "Kosong prata served with curry.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Egg Prata",
+        "category": "Prata",
+        "price": null,
+        "currency": "SGD",
+        "description": "Prata folded with egg and served with curry.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Coin Prata",
+        "category": "Prata",
+        "price": null,
+        "currency": "SGD",
+        "description": "Small crisp prata rounds served with curry.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chicken Floss Prata",
+        "category": "Prata",
+        "price": null,
+        "currency": "SGD",
+        "description": "Prata filled with chicken floss.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Maggi Goreng",
+        "category": "Goreng",
+        "price": null,
+        "currency": "SGD",
+        "description": "Fried instant noodles.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mee Goreng",
+        "category": "Goreng",
+        "price": null,
+        "currency": "SGD",
+        "description": "Fried yellow noodles.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Nasi Briyani",
+        "category": "Rice",
+        "price": null,
+        "currency": "SGD",
+        "description": "Briyani rice with choice of mutton, chicken or fish.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Curry Mutton",
+        "category": "A La Carte",
+        "price": null,
+        "currency": "SGD",
+        "description": "Mutton curry.",
+        "dietary_tags": []
+      }
+    ]
+  },
+  {
+    "place_id": "google_mr_teh_tarik_eating_house_8dd04fe5c8",
+    "place_name": "Mr Teh Tarik Eating House",
+    "source_url": "https://deliveroo.com.sg/menu/singapore/ang-mo-kio-bishan/mr-teh-tarik-eating-house-728-ang-mo-kio-ave-6",
+    "source_type": "delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Deliveroo page for Mr Teh Tarik Eating House at 728 Ang Mo Kio Ave 6 lists meals, sharing boxes, a la carte items and drinks with prices. Foodpanda page at https://www.foodpanda.sg/restaurant/imd0/mr-teh-tarik-eating-house-amk corroborates most item names with slightly different platform prices.",
+    "items": [
+      {
+        "name": "Ayam Penyet Set",
+        "category": "Meal",
+        "price_cents": 980,
+        "currency": "SGD",
+        "description": "Ayam penyet meal with rice and a drink.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Ikan Penyet Set",
+        "category": "Meal",
+        "price_cents": 1180,
+        "currency": "SGD",
+        "description": "Fried fish meal with rice and a drink.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Sambal Chicken Set",
+        "category": "Meal",
+        "price_cents": 880,
+        "currency": "SGD",
+        "description": "Sambal chicken meal with rice and a drink.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Black Pepper Chicken Rice Set",
+        "category": "Meal",
+        "price_cents": 880,
+        "currency": "SGD",
+        "description": "Chicken rice set with black pepper sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Nasi Ayam Set",
+        "category": "Meal",
+        "price_cents": 780,
+        "currency": "SGD",
+        "description": "Chicken rice meal with a drink.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Curry Puff and Goreng Pisang Box",
+        "category": "Sharing Box",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Four curry puffs and four pieces of goreng pisang.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Rojak (1-2 Sharing)",
+        "category": "A La Carte",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Local rojak for one to two people.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Goreng Pisang",
+        "category": "A La Carte",
+        "price_cents": 400,
+        "currency": "SGD",
+        "description": "Four pieces of fried banana fritters.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Iced Teh Tarik",
+        "category": "Drinks",
+        "price_cents": 380,
+        "currency": "SGD",
+        "description": "700 ml iced pulled tea.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Thai Tea with Gula Melaka",
+        "category": "Drinks",
+        "price_cents": 580,
+        "currency": "SGD",
+        "description": "Thai tea sweetened with gula melaka.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

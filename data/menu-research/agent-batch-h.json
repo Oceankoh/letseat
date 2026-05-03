@@ -1,0 +1,334 @@
+[
+  {
+    "place_id": "google_family_mookata_amk_adea102eab",
+    "place_name": "Family Mookata AMK",
+    "source_url": "https://www.familymookata.com/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Official site confirms Ang Mo Kio outlet, buffet prices and menu categories. Menu item names are from the official menu page; individual ingredient prices are not listed because items are part of buffet service. Secondary official menu page: https://www.familymookata.com/menu",
+    "items": [
+      {
+        "name": "Protein Buffet",
+        "category": "Buffet",
+        "price_cents": 1490,
+        "currency": "SGD",
+        "description": "Weekday before 7pm adult buffet with meats and vegetables, no seafood.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Protein Buffet Peak",
+        "category": "Buffet",
+        "price_cents": 1690,
+        "currency": "SGD",
+        "description": "Peak adult buffet after 7pm, weekends and public holidays.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Seafood Buffet",
+        "category": "Buffet",
+        "price_cents": 1990,
+        "currency": "SGD",
+        "description": "Adult buffet with meats, seafood and vegetables.",
+        "dietary_tags": ["pork", "shellfish"]
+      },
+      {
+        "name": "Black Pepper Pork",
+        "category": "Meat Delight",
+        "price": null,
+        "currency": "SGD",
+        "description": "Black pepper marinated pork for mookata grilling.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Garlic Pork",
+        "category": "Meat Delight",
+        "price": null,
+        "currency": "SGD",
+        "description": "Garlic marinated pork for mookata grilling.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Pork Belly",
+        "category": "Meat Delight",
+        "price": null,
+        "currency": "SGD",
+        "description": "Pork belly slices for mookata grilling.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Mala Chicken",
+        "category": "Meat Delight",
+        "price": null,
+        "currency": "SGD",
+        "description": "Mala marinated chicken for mookata grilling.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Tom Yum Chicken",
+        "category": "Meat Delight",
+        "price": null,
+        "currency": "SGD",
+        "description": "Tom yum marinated chicken for mookata grilling.",
+        "dietary_tags": ["spicy"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_al_ameen_eating_corner_a68d3438b3",
+    "place_name": "Al-Ameen Eating Corner",
+    "source_url": "https://www.foodpanda.sg/restaurant/u0t4/al-ameen-woodlands",
+    "source_type": "delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Foodpanda delivery menu for Al Ameen Woodlands was used for current item-level prices. Sluurpy references the official website http://www.al-ameen.com.sg and the Woodgrove address, but the official page was not accessible through the research fetcher.",
+    "items": [
+      {
+        "name": "Plain Prata",
+        "category": "Prata",
+        "price_cents": 150,
+        "currency": "SGD",
+        "description": "One piece of plain prata.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Coin Prata (6pcs)",
+        "category": "Prata",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Six small crispy pratas.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Masala Thosai",
+        "category": "Thosai",
+        "price_cents": 400,
+        "currency": "SGD",
+        "description": "South Indian crepe stuffed with spiced potato.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mee Goreng",
+        "category": "Goreng",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Stir-fried noodles with savoury sweet sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Nasi Goreng Ikan Bilis",
+        "category": "Goreng",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Fried rice served with anchovies.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Chicken Murtabak",
+        "category": "Murtabak",
+        "price_cents": 1000,
+        "currency": "SGD",
+        "description": "Pan-fried flatbread stuffed with minced chicken.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mutton Murtabak",
+        "category": "Murtabak",
+        "price_cents": 1000,
+        "currency": "SGD",
+        "description": "Pan-fried flatbread stuffed with minced mutton.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Chicken Biryani",
+        "category": "Biryani",
+        "price_cents": 1000,
+        "currency": "SGD",
+        "description": "Basmati rice with mildly spiced chicken.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mutton Biryani",
+        "category": "Biryani",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Spiced biryani rice with mutton.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Egg Kothu Prata",
+        "category": "Kothu / Chip Chop Prata",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Shredded prata stir-fried with curry and egg.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_beach_road_scissors_cut_curry_rice_jalan_besar_ab3c00d3cc",
+    "place_name": "Beach Road Scissors Cut Curry Rice - Jalan Besar",
+    "source_url": "https://deliveroo.com.sg/menu/singapore/jalan-besar/beach-road-scissor-cut-curry-rice-jalan-besar",
+    "source_type": "delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.83,
+    "notes": "Deliveroo menu provides item-level prices and descriptions. Foodpanda and GrabFood pages showed matching prices for the main curry rice sets.",
+    "items": [
+      {
+        "name": "Premium Curry Rice Set with Pork Belly and Pork Chop",
+        "category": "Set Menu",
+        "price_cents": 1070,
+        "currency": "SGD",
+        "description": "Curry rice set with pork belly and pork chop.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Famous Beach Road Scissor Cut Curry Rice with Pork Chop",
+        "category": "Set Menu",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Curry rice with egg, cabbage, pork chop, curry and black sauce.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Famous Beach Road Scissor Cut Curry Rice with Chicken Chop",
+        "category": "Set Menu",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Curry rice with egg, cabbage, chicken chop, curry and black sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Famous Beach Road Scissor Cut Curry Rice with Pork Belly",
+        "category": "Set Menu",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Curry rice with egg, cabbage, pork belly, curry and black sauce.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Famous Beach Road Scissor Cut Curry Rice with Curry Chicken Wing",
+        "category": "Set Menu",
+        "price_cents": 750,
+        "currency": "SGD",
+        "description": "Curry rice with egg, cabbage, curry chicken wing and sauces.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Fish Patty (1 Piece)",
+        "category": "Menu",
+        "price_cents": 200,
+        "currency": "SGD",
+        "description": "One fried fish patty.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Fish Cake (1 Piece)",
+        "category": "Menu",
+        "price_cents": 200,
+        "currency": "SGD",
+        "description": "One fried fish cake.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Coke Classic (320ml)",
+        "category": "Drinks",
+        "price_cents": 180,
+        "currency": "SGD",
+        "description": "320ml canned Coca-Cola.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_eden_chinese_garden_halal_certified_33cc9068e5",
+    "place_name": "Eden | Chinese Garden | Halal-Certified",
+    "source_url": "https://edencafe.sg/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official site confirms Eden Cafe location and links to its menu. The official PDF menu timed out in the research fetcher, so item names and prices were cross-checked against Time Out Singapore and a January 2026 Singapore food blog visit.",
+    "items": [
+      {
+        "name": "Singapore Har Cheong Gai Waffles",
+        "category": "All Day Brunch",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Shrimp paste fried chicken served with waffles and maple syrup.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Nyonya Curry Chicken with Mantou",
+        "category": "Local Delights",
+        "price_cents": 1090,
+        "currency": "SGD",
+        "description": "Nyonya curry chicken served with mantou.",
+        "dietary_tags": ["halal"]
+      },
+      {
+        "name": "Laksa",
+        "category": "Local Delights",
+        "price_cents": 890,
+        "currency": "SGD",
+        "description": "Local laksa from the cafe menu.",
+        "dietary_tags": ["halal", "spicy"]
+      },
+      {
+        "name": "Chicken Porridge",
+        "category": "Local Delights",
+        "price_cents": 790,
+        "currency": "SGD",
+        "description": "Chicken porridge from the local dishes menu.",
+        "dietary_tags": ["halal"]
+      },
+      {
+        "name": "Creamy Avocado Buttermilk Fried Cod Fish Pasta",
+        "category": "All Day Brunch",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Pasta in avocado cream sauce topped with fried cod.",
+        "dietary_tags": ["fish", "halal"]
+      },
+      {
+        "name": "Rendang Burger",
+        "category": "All Day Brunch",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Beef rendang burger with egg, slaw, pickles and fries.",
+        "dietary_tags": ["halal"]
+      },
+      {
+        "name": "Avocado on Sourdough",
+        "category": "All Day Brunch",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Avocado served on sourdough toast.",
+        "dietary_tags": ["vegetarian", "halal"]
+      },
+      {
+        "name": "Gelato Scoop",
+        "category": "Dessert",
+        "price_cents": 690,
+        "currency": "SGD",
+        "description": "Single scoop of gelato; flavours include Mao Shan Wang and blueberry yoghurt.",
+        "dietary_tags": ["vegetarian", "halal"]
+      },
+      {
+        "name": "Coconut Ice Cream",
+        "category": "Dessert",
+        "price_cents": 1290,
+        "currency": "SGD",
+        "description": "Coconut ice cream in a coconut shell with gula melaka and peanuts.",
+        "dietary_tags": ["vegetarian", "halal", "nuts"]
+      },
+      {
+        "name": "Strawberry Matcha",
+        "category": "Drinks",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Strawberry matcha drink.",
+        "dietary_tags": ["vegetarian", "halal"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "place_id": "google_the_mind_cafe_mega_store_d67b2570b8",
+    "place_name": "The Mind Cafe Mega Store",
+    "source_url": "https://www.foodpanda.sg/restaurant/lirb/the-mind-cafe-income-at-prinsep",
+    "source_type": "third_party_delivery",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Foodpanda page is for The Mind Cafe at 30 Prinsep Street, matching the Mega Store address. Prices may reflect delivery-platform pricing; official site and public listing confirm the board-game cafe context.",
+    "items": [
+      {
+        "name": "Vegetarian Brownie (Eggless)",
+        "category": "Signature Brownies",
+        "price_cents": 890,
+        "currency": "SGD",
+        "description": "Eggless double chocolate brownie.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Black & White Brownie",
+        "category": "Signature Brownies",
+        "price_cents": 890,
+        "currency": "SGD",
+        "description": "Chocolate brownie with white and milk Belgian chocolate chips.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Oreo Cheesecake",
+        "category": "Signature Sliced Cakes",
+        "price_cents": 890,
+        "currency": "SGD",
+        "description": "American cheesecake topped with Oreo crumbs.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Ondeh Ondeh Sliced Cake",
+        "category": "Signature Sliced Cakes",
+        "price_cents": 990,
+        "currency": "SGD",
+        "description": "Pandan cake with grated coconut and gula melaka.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Blueberry Cheesecake",
+        "category": "Signature Sliced Cakes",
+        "price_cents": 890,
+        "currency": "SGD",
+        "description": "Cheesecake with blueberries on a cake dough base.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Royal Chocolate Truffle Cake",
+        "category": "Signature Sliced Cakes",
+        "price_cents": 1090,
+        "currency": "SGD",
+        "description": "Chocolate sponge layered with milk and dark Belgian chocolate.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "MaLa Salted Egg Noodle With Cocktail Cheese Sausage",
+        "category": "Noodles",
+        "price_cents": 590,
+        "currency": "SGD",
+        "description": "Salted egg noodles with cocktail cheese sausage.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Americano",
+        "category": "Beverages",
+        "price_cents": 490,
+        "currency": "SGD",
+        "description": "Black coffee served without milk or sugar.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_kraft_x_mexicana_a61b33a7ea",
+    "place_name": "Kraft x Mexicana",
+    "source_url": "https://sg.food-menu.org/menu/kraft-x-mexicana",
+    "source_type": "public_menu_listing",
+    "captured_at": "2026-05-03",
+    "confidence": 0.68,
+    "notes": "Public menu listing identifies Kraft x Mexicana as an award-winning Mexican restaurant. Item names were cross-checked against Restaurant Guru, Wanderlog reviews, and Kraft Kitchen public menu mirrors; prices are set null unless directly visible for Kraft x Mexicana in public reviews.",
+    "items": [
+      {
+        "name": "Fish Tacos",
+        "category": "Tacos",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Two fish tacos noted by public diner reviews.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Beef Brisket Tacos",
+        "category": "Tacos",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Two beef brisket tacos noted by public diner reviews.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Grilled Chicken Fajitas",
+        "category": "Fajitas",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Grilled chicken with tortilla wraps, salsa and guacamole.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Salmon Fajitas",
+        "category": "Fajitas",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Salmon fajitas mentioned in diner reviews.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Beef Taco Salad",
+        "category": "Salads",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Beef taco salad from public diner reviews.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Minced Chicken Tortillas Pizza",
+        "category": "Tortilla Pizza",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Tortilla pizza topped with minced chicken.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Nacho Cheese Fries",
+        "category": "Appetizers",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Fries served with nacho cheese.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Calamari Rings",
+        "category": "Appetizers",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Breaded calamari rings.",
+        "dietary_tags": ["seafood"]
+      },
+      {
+        "name": "Grilled Striploin Beef Steak",
+        "category": "Mains",
+        "price_cents": 2490,
+        "currency": "SGD",
+        "description": "Grilled striploin steak.",
+        "dietary_tags": []
+      }
+    ]
+  },
+  {
+    "place_id": "google_bites_and_brews_a7851e925b",
+    "place_name": "Bites & Brews",
+    "source_url": "https://www.quandoo.sg/place/bites-brews-103286/menu",
+    "source_type": "public_menu_listing",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "notes": "Quandoo page lists Bites & Brews menu highlights with prices and links to brunch and dinner menu PDFs. Prices may not include service charge or GST.",
+    "items": [
+      {
+        "name": "Spinach Tagliatelle",
+        "category": "Pasta",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Spinach tagliatelle with red sea prawns, crab, arugula, cherry tomato and garlic-caper butter sauce.",
+        "dietary_tags": ["seafood", "nuts", "spicy"]
+      },
+      {
+        "name": "Mapo Tofu Lasagna",
+        "category": "Pasta",
+        "price_cents": 2100,
+        "currency": "SGD",
+        "description": "Lasagna with Sichuan meat and tofu ragu, mozzarella, tomato sauce and parmesan.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Mafalda Bolognese",
+        "category": "Pasta",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Mafalda pasta with beef ragu, parmesan and egg yolk bottarga.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Soy Ginger Spring Chicken or Grilled Mixed Sausage",
+        "category": "Mains",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Spring chicken or mixed sausage with gnocchi, mustard cream sauce, wing beans and shimeji mushrooms.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Spicy 'Pina Colada' Red Snapper",
+        "category": "Mains",
+        "price_cents": 4500,
+        "currency": "SGD",
+        "description": "Red snapper stuffed with Chinese cabbage, kaffir lime and ginger.",
+        "dietary_tags": ["fish", "spicy"]
+      },
+      {
+        "name": "Gold & Purple Hummas",
+        "category": "Small Plates",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Hummus with za'atar flatbread, roasted eggplant, feta, olives and mint.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fried Chicken Waffle",
+        "category": "Small Plates",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Fried chicken waffle with poached egg and harissa hollandaise.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Truffle Fries",
+        "category": "Small Plates",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Fries with truffle salt and black garlic mayo.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Shawarma Lamb",
+        "category": "Pizza",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Pizza with harissa labneh, feta, mint and peppers.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Seafood",
+        "category": "Pizza",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Pizza with rock shrimp, crab, mussels, clams, calamari, chili crab sauce and mozzarella.",
+        "dietary_tags": ["seafood", "spicy"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_zamas_river_valley_0b1b28be01",
+    "place_name": "Zamas River Valley",
+    "source_url": "https://www.singmenu.com/zamas-river-valley-restaurant-menu/",
+    "source_type": "public_menu_listing",
+    "captured_at": "2026-05-03",
+    "confidence": 0.8,
+    "notes": "SingMenu lists Zamas River Valley menu prices and says prices are sourced from Singapore outlets; public menu mirrors broadly corroborate the same categories. Prices may have changed since the listed 2024 update.",
+    "items": [
+      {
+        "name": "Fish Briyani",
+        "category": "Nasi Briyani",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Fish briyani rice meal.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Chicken Briyani",
+        "category": "Nasi Briyani",
+        "price_cents": 1100,
+        "currency": "SGD",
+        "description": "Chicken briyani rice meal.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Mutton Nasi Briyani",
+        "category": "Nasi Briyani",
+        "price_cents": 1230,
+        "currency": "SGD",
+        "description": "Mutton briyani rice meal.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Rice + Mysore Mutton + Veg",
+        "category": "White Rice Meals With Veg",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "White rice meal with Mysore mutton and vegetables.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Rice + 2 Vegetable Meals",
+        "category": "White Rice Meals With Veg",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "White rice meal with two vegetable sides.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mee Goreng",
+        "category": "Indian Mamak Goreng",
+        "price_cents": 680,
+        "currency": "SGD",
+        "description": "Fried yellow noodles.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Plain Prata 2 Pcs",
+        "category": "Prata",
+        "price_cents": 340,
+        "currency": "SGD",
+        "description": "Two plain prata served with curry.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Egg Prata",
+        "category": "Prata",
+        "price_cents": 290,
+        "currency": "SGD",
+        "description": "Prata filled with egg.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Masala Thosai",
+        "category": "Thosai",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Thosai filled with spiced potato masala.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Mutton Murtabak",
+        "category": "Murtabak",
+        "price_cents": 1300,
+        "currency": "SGD",
+        "description": "Murtabak stuffed with mutton.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Chicken with Cheese Roti John",
+        "category": "Roti John",
+        "price_cents": 980,
+        "currency": "SGD",
+        "description": "Roti John with chicken and cheese.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Teh",
+        "category": "Beverages",
+        "price_cents": 180,
+        "currency": "SGD",
+        "description": "Pulled milk tea.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

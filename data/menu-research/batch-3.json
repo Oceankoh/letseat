@@ -1,0 +1,470 @@
+[
+  {
+    "place_name": "Citrus By The Pool",
+    "source_url": "https://sgmyfoodie.com/citrus-by-the-pool-menu-singapore/",
+    "source_type": "public_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.72,
+    "items": [
+      {
+        "name": "Mushroom Soup",
+        "description": "Creamy mushroom soup starter.",
+        "category": "Appetizers",
+        "price": 6.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.76
+      },
+      {
+        "name": "Green Mango Salad",
+        "description": "Thai-style mango salad.",
+        "category": "Appetizers",
+        "price": 6.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.74
+      },
+      {
+        "name": "Truffle Fries",
+        "description": "Fries with truffle seasoning.",
+        "category": "Sides",
+        "price": 8.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.76
+      },
+      {
+        "name": "Fried Chicken and Waffle",
+        "description": "Fried chicken served with waffle.",
+        "category": "Mains",
+        "price": 16.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.78
+      },
+      {
+        "name": "Baked Salmon",
+        "description": "Baked salmon main dish.",
+        "category": "Mains",
+        "price": 19.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.76
+      },
+      {
+        "name": "Boss Burger",
+        "description": "Burger main from the burgers section.",
+        "category": "Burgers",
+        "price": 16.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.74
+      },
+      {
+        "name": "Fat Prawn Burger",
+        "description": "Prawn burger main.",
+        "category": "Burgers",
+        "price": 17.9,
+        "currency": "SGD",
+        "dietary_tags": ["shellfish"],
+        "confidence": 0.74
+      },
+      {
+        "name": "Mushroom Aglio Olio",
+        "description": "Aglio olio pasta with mushrooms.",
+        "category": "Pasta",
+        "price": 14,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.74
+      },
+      {
+        "name": "Tom Yum Chicken/Seafood Pasta",
+        "description": "Tom yum pasta with chicken or seafood option.",
+        "category": "Pasta",
+        "price": 15,
+        "currency": "SGD",
+        "dietary_tags": ["spicy"],
+        "confidence": 0.72
+      },
+      {
+        "name": "Prawn Pad Thai",
+        "description": "Pad Thai with prawn.",
+        "category": "Asian",
+        "price": 13.9,
+        "currency": "SGD",
+        "dietary_tags": ["shellfish"],
+        "confidence": 0.73
+      },
+      {
+        "name": "Molten Chocolate Lava Cake",
+        "description": "Warm chocolate lava cake dessert.",
+        "category": "Desserts",
+        "price": 13,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.75
+      },
+      {
+        "name": "Citrus Iced Tea",
+        "description": "Citrus-flavoured iced tea.",
+        "category": "Beverages",
+        "price": 4.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.72
+      }
+    ]
+  },
+  {
+    "place_name": "Good Bites",
+    "source_url": "https://www.foodpanda.sg/restaurant/x8wc/good-bites-bishan",
+    "source_type": "public_delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "items": [
+      {
+        "name": "Mozzarella Sticks",
+        "description": "Breaded mozzarella sticks with garlic aioli.",
+        "category": "Sides",
+        "price": 9.9,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.86
+      },
+      {
+        "name": "Fish & Chips",
+        "description": "Battered dory with fries and tartar sauce.",
+        "category": "Mains",
+        "price": 18.5,
+        "currency": "SGD",
+        "dietary_tags": ["fish"],
+        "confidence": 0.88
+      },
+      {
+        "name": "Prime Cheeseburger",
+        "description": "Beef patty with cheese, vegetables, house sauce, fries and salad.",
+        "category": "Burgers",
+        "price": 18.5,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.86
+      },
+      {
+        "name": "Carbonara (Turkey Bacon & Chicken Ham)",
+        "description": "Linguine in cream sauce with turkey bacon and chicken ham.",
+        "category": "Pasta",
+        "price": 19.5,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.86
+      },
+      {
+        "name": "Bolognese (Chicken/Beef)",
+        "description": "Linguine with chicken or beef bolognese and grated cheese.",
+        "category": "Pasta",
+        "price": 17.5,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.85
+      },
+      {
+        "name": "Fried Chicken & Waffle",
+        "description": "Fried chicken on waffle with butter and maple syrup.",
+        "category": "Mains",
+        "price": 18.5,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.86
+      },
+      {
+        "name": "House Salad",
+        "description": "Lettuce, tomatoes and corn with sesame soy dressing and grilled chicken.",
+        "category": "Appetisers",
+        "price": 10.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.84
+      },
+      {
+        "name": "Homemade Mushroom Soup",
+        "description": "Mushroom soup starter.",
+        "category": "Appetisers",
+        "price": 7.5,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.84
+      },
+      {
+        "name": "Baked Salmon",
+        "description": "Baked salmon with mashed potato, mushrooms, cherry tomatoes and cream sauce.",
+        "category": "Mains",
+        "price": 21.9,
+        "currency": "SGD",
+        "dietary_tags": ["fish"],
+        "confidence": 0.86
+      },
+      {
+        "name": "King Prawns Tom Yum Pasta",
+        "description": "Linguine in tangy tom yum sauce with king prawns.",
+        "category": "Pasta",
+        "price": 22.9,
+        "currency": "SGD",
+        "dietary_tags": ["shellfish", "spicy"],
+        "confidence": 0.84
+      },
+      {
+        "name": "Vegetarian Aglio Olio",
+        "description": "Linguine with garlic, herbs, zucchini, snow peas and cherry tomatoes.",
+        "category": "Pasta",
+        "price": 16.5,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.84
+      },
+      {
+        "name": "Truffle Fries",
+        "description": "Fries with truffle oil and Grana Padano.",
+        "category": "Sides",
+        "price": 14.5,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.84
+      }
+    ]
+  },
+  {
+    "place_name": "Whisk & Paddle",
+    "source_url": "https://sgeats.net/whisk-and-paddle-menu-singapore/",
+    "source_type": "public_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.74,
+    "items": [
+      {
+        "name": "Trio Sausage Platter",
+        "description": "Assorted sausage starter platter.",
+        "category": "Starters",
+        "price": 18.8,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.77
+      },
+      {
+        "name": "Mushroom Soup",
+        "description": "Mushroom soup starter.",
+        "category": "Starters",
+        "price": 9.8,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.77
+      },
+      {
+        "name": "Fresh Clams in White Wine Sauce",
+        "description": "Clams cooked with white wine sauce.",
+        "category": "Starters",
+        "price": 14.8,
+        "currency": "SGD",
+        "dietary_tags": ["shellfish"],
+        "confidence": 0.76
+      },
+      {
+        "name": "Duck Confit",
+        "description": "Duck confit main.",
+        "category": "Mains",
+        "price": 34.8,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.77
+      },
+      {
+        "name": "Fish & Chips",
+        "description": "Fish and chips main.",
+        "category": "Mains",
+        "price": 27.8,
+        "currency": "SGD",
+        "dietary_tags": ["fish"],
+        "confidence": 0.77
+      },
+      {
+        "name": "Sambal Seafood Pizza",
+        "description": "Pizza topped with seafood and sambal.",
+        "category": "Pizza & Pasta",
+        "price": 30.8,
+        "currency": "SGD",
+        "dietary_tags": ["seafood", "spicy"],
+        "confidence": 0.75
+      },
+      {
+        "name": "Mushroom Aglio Olio Pasta",
+        "description": "Aglio olio pasta with mushrooms.",
+        "category": "Pizza & Pasta",
+        "price": 20.8,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.76
+      },
+      {
+        "name": "Vongole Linguine",
+        "description": "Linguine with clams.",
+        "category": "Pizza & Pasta",
+        "price": 24.8,
+        "currency": "SGD",
+        "dietary_tags": ["shellfish"],
+        "confidence": 0.76
+      },
+      {
+        "name": "Eggs Benedict",
+        "description": "All-day breakfast eggs Benedict.",
+        "category": "All Day Breakfast",
+        "price": 16.8,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.76
+      },
+      {
+        "name": "French Toast with Seasalt Butter & Syrup",
+        "description": "French toast served with sea salt butter and syrup.",
+        "category": "All Day Breakfast",
+        "price": 13.8,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.75
+      },
+      {
+        "name": "Calamari",
+        "description": "Fried calamari bar bite.",
+        "category": "Bar Bites",
+        "price": 12.8,
+        "currency": "SGD",
+        "dietary_tags": ["seafood"],
+        "confidence": 0.76
+      },
+      {
+        "name": "Warm Chocolate Fudge Cake",
+        "description": "Warm chocolate dessert cake.",
+        "category": "Desserts",
+        "price": 7.5,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.75
+      }
+    ]
+  },
+  {
+    "place_name": "Brunches Cafe",
+    "source_url": "https://brunches.sg/menus/",
+    "source_type": "official_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.93,
+    "items": [
+      {
+        "name": "Granola Parfait",
+        "description": "Honey oat granola with mixed berries and natural yoghurt.",
+        "category": "All Day Breakfast",
+        "price": 10.9,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.95
+      },
+      {
+        "name": "Acai Granola Fruit Bowl",
+        "description": "Greek yoghurt bowl with acai, chia seeds and fruit.",
+        "category": "All Day Breakfast",
+        "price": 15.9,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.95
+      },
+      {
+        "name": "Fluffy Pancake Stacks",
+        "description": "Two pancakes with seasonal fruit, butter and maple syrup.",
+        "category": "All Day Breakfast",
+        "price": 16.9,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.95
+      },
+      {
+        "name": "Eggs Benedict",
+        "description": "Poached eggs with bacon, arugula, wholemeal toast and hollandaise.",
+        "category": "All Day Breakfast",
+        "price": 20.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.95
+      },
+      {
+        "name": "Eggs Porto",
+        "description": "Poached eggs with portobello mushroom, arugula, wholemeal toast and hollandaise.",
+        "category": "All Day Breakfast",
+        "price": 19.9,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.95
+      },
+      {
+        "name": "Rustic Mushroom Soup",
+        "description": "Creamy mushroom soup with white truffle oil.",
+        "category": "Starters and Sides",
+        "price": 11.9,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.95
+      },
+      {
+        "name": "Portobello Mushroom Fried Fritters",
+        "description": "Portobello mushroom fritters with lemon and tartar sauce.",
+        "category": "Starters and Sides",
+        "price": 11.9,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.95
+      },
+      {
+        "name": "Spicy Chicken Drumlets",
+        "description": "Chicken drumlets in spicy buffalo-style sauce.",
+        "category": "Starters and Sides",
+        "price": 12.9,
+        "currency": "SGD",
+        "dietary_tags": ["spicy"],
+        "confidence": 0.95
+      },
+      {
+        "name": "Vegetarian Pasta in Tomato Sauce",
+        "description": "Linguine with aubergine, zucchini, mushroom and bell peppers in tomato herb sauce.",
+        "category": "Main Dish",
+        "price": 18.9,
+        "currency": "SGD",
+        "dietary_tags": ["vegetarian"],
+        "confidence": 0.95
+      },
+      {
+        "name": "Fruitti di Mare",
+        "description": "Seafood linguine with prawns, squid, mussels and clams in chilli tomato cream sauce.",
+        "category": "Main Dish",
+        "price": 21.9,
+        "currency": "SGD",
+        "dietary_tags": ["seafood", "shellfish", "spicy"],
+        "confidence": 0.95
+      },
+      {
+        "name": "Chicken Steak with Cranberry Sauce",
+        "description": "Grilled boneless chicken thigh with tomato, fries and salad.",
+        "category": "Main Dish",
+        "price": 18.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.95
+      },
+      {
+        "name": "Home-made Traditional Tiramisu",
+        "description": "Mascarpone tiramisu with espresso-soaked sponge fingers.",
+        "category": "Plated Desserts",
+        "price": 12.9,
+        "currency": "SGD",
+        "dietary_tags": [],
+        "confidence": 0.95
+      }
+    ]
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "place_id": "google_kurasu_singapore_0ad7e151eb",
+    "place_name": "Kurasu Singapore",
+    "source_url": "https://kurasu.sg/collections/coffee-beans",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Official Kurasu Singapore coffee collection and product pages list current retail coffee items and prices. Kurasu's official Singapore store page confirms the Waterloo cafe serves the same lineup of coffee as Kyoto; in-store espresso drink prices were not published, so this batch uses official coffee retail menu items.",
+    "items": [
+      {
+        "name": "Kurasu Drip Coffee Bag - Ethiopia Sidamo Decaf",
+        "category": "Drip Coffee Bag",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Medium-roast drip bag with peach, cherry, citrus and caramel notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Kurasu House Blend Dark",
+        "category": "Coffee Beans",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Medium-dark blend with orange peel, dark chocolate and buttery notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "FAF Medium",
+        "category": "Coffee Beans",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Medium-roast coffee beans sold through Kurasu Singapore.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Kurasu Drip Coffee Bag - FAF Medium",
+        "category": "Drip Coffee Bag",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Single-serve drip coffee bag using FAF medium-roast coffee.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Kurasu Drip Coffee Bag - FAF Dark",
+        "category": "Drip Coffee Bag",
+        "price_cents": 500,
+        "currency": "SGD",
+        "description": "Single-serve drip coffee bag using FAF dark-roast coffee.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_yahava_koffeeworks_singapore_91b3f427f9",
+    "place_name": "Yahava KoffeeWorks Singapore",
+    "source_url": "https://www.yahava.sg/collections/koffee",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "notes": "Official Yahava Singapore koffee collection lists current product prices; official product pages supplied coffee descriptions. Prices use the collection page where it differed from older product-page snippets.",
+    "items": [
+      {
+        "name": "Blackgold",
+        "category": "Koffee",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Single-origin bold coffee with dark cocoa and berry notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Espresso",
+        "category": "Koffee",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Blend of Colombia, Ethiopia and Papua New Guinea coffees with cocoa and caramel notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Colombian",
+        "category": "Koffee",
+        "price_cents": 2100,
+        "currency": "SGD",
+        "description": "Bold single-origin Colombian coffee from the Bucaramanga region.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Kahava",
+        "category": "Koffee",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Bold single-origin coffee with citrus, berries, nuts and dark chocolate notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Romeo No.5",
+        "category": "Koffee",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Medium blend of Colombian, Ethiopian and Rwandan coffee beans.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Quattro",
+        "category": "Koffee",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Bold Italian-style dark roast blend of Colombian, Ethiopian, Indian and Papua New Guinean beans.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Pacifica",
+        "category": "Koffee",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Medium organic blend of Mexican and Peruvian arabicas with butter and chocolate milk notes.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Rush Brothers Coffee Capsules",
+        "category": "Coffee Capsules",
+        "price_cents": 2475,
+        "currency": "SGD",
+        "description": "Papua New Guinea coffee capsules compatible with original-line Nespresso machines.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_enchanted_cafe_rangoon_road_c74d5b40ef",
+    "place_name": "Enchanted Cafe Rangoon Road",
+    "source_url": "https://www.foodpanda.sg/restaurant/airc/enchanted-cafe-rangoon-road",
+    "source_type": "delivery_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Official Enchanted Cafe menu page confirms the Rangoon Road outlet and halal cafe positioning, but its menu content is largely image-based. Representative item names, descriptions and prices were taken from the current Foodpanda delivery menu for Enchanted Cafe Rangoon Road.",
+    "items": [
+      {
+        "name": "Acai Bowl",
+        "category": "Popular",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Organic acai blended with banana and soy milk, topped with almond butter, berries and seeds.",
+        "dietary_tags": ["vegan", "nuts"]
+      },
+      {
+        "name": "Almond Butter Toast",
+        "category": "Nostalgic Toast",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Baked Ezekiel bread with homemade almond butter.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Avocado On Toast",
+        "category": "All Day Brunches",
+        "price_cents": 1300,
+        "currency": "SGD",
+        "description": "Ezekiel bread with smashed avocado, pumpkin seeds, roasted almonds, salad and lemon.",
+        "dietary_tags": ["vegan", "nuts"]
+      },
+      {
+        "name": "Truffled Mushroom With Scrambled Eggs On Toast",
+        "category": "All Day Brunches",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Ezekiel bread with baked mushroom, scrambled eggs and mixed salad.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Smoked Salmon On Toast",
+        "category": "All Day Brunches",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Smoked salmon with mayonnaise and black sesame, served with mixed salad.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Beef Pie With Mashed Potato & Double Cheese",
+        "category": "Mains",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Minced beef and diced vegetables with mashed potato, cheddar and grana padano.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Truffle Mushroom Linguine",
+        "category": "Mains",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Linguine with mushrooms and truffle oil in cream sauce.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chilli Crabmeat Linguine",
+        "category": "Mains",
+        "price_cents": 2100,
+        "currency": "SGD",
+        "description": "Linguine with crabmeat and egg in homemade tomato sauce.",
+        "dietary_tags": ["shellfish"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_le_petit_paris_ca104d73d1",
+    "place_name": "Le Petit Paris",
+    "source_url": "https://www.lepetitparis.shop/menus?menu=menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.93,
+    "notes": "Official Le Petit Paris menu page lists menu items, descriptions and SGD prices. Representative appetizers, mains, pasta and brunch items selected from the published menu.",
+    "items": [
+      {
+        "name": "Fresh Onion Soup",
+        "category": "Appetizers",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Caramelized onions, beef stock, brioche bread and emmental cheese.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Country Pork Pate With Pistachio",
+        "category": "Appetizers",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Pork pate with cornichon pickles, cranberry jam and sourdough bread.",
+        "dietary_tags": ["pork", "nuts"]
+      },
+      {
+        "name": "French De-Shelled Escargot",
+        "category": "Appetizers",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Escargot with butter, parsley, pork chorizo and croutons.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Ratatouille with Eggs",
+        "category": "Appetizers",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Vegetable ratatouille served with two fried eggs.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Smoke Pork Belly (12hr Slow Cooked)",
+        "category": "Main Course",
+        "price_cents": 3400,
+        "currency": "SGD",
+        "description": "Slow-cooked pork belly with creamy mash potato.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Baked Duck Confit Parmentier",
+        "category": "Main Course",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Duck confit with mash potato, breadcrumbs and garlic oil.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Angus Beef Skirt Steak",
+        "category": "Main Course",
+        "price_cents": 4500,
+        "currency": "SGD",
+        "description": "Australian Angus beef with lettuce, french fries and tartare sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Seafood Spaghetti Marinara",
+        "category": "Main Course",
+        "price_cents": 3400,
+        "currency": "SGD",
+        "description": "Spaghetti with king prawns, scallops, cherry tomato sauce and parmesan tuile.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Penne Pasta With Fresh Cherry Tomato Sauce",
+        "category": "Pasta",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Penne pasta with homemade cherry tomato sauce and parmesan tuile.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Brioche Egg Benedict",
+        "category": "Breakfast & Brunch Menu",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Toasted brioche with eggs, sauteed potatoes and hollandaise sauce.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

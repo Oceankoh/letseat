@@ -1,0 +1,172 @@
+[
+  {
+    "place_id": "google_ps_cafe_harding_road_ada56f67a1",
+    "place_name": "PS.Cafe Harding Road",
+    "source_url": "https://www.pscafe.com/pscafe-harding-qr-food-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.72,
+    "notes": "Official page exposes menu sections and menu images; representative well-known PS.Cafe items added from the public QR menu context.",
+    "items": [
+      { "name": "PS. Truffle Shoestring Fries", "description": "Shoestring fries with truffle aroma and parmesan-style seasoning.", "category": "Starters", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.72 },
+      { "name": "Caesar Salad", "description": "Classic Caesar-style salad.", "category": "Starters", "price": null, "currency": "SGD", "dietary_tags": [], "confidence": 0.68 },
+      { "name": "PS. Burger", "description": "House burger from the all-day mains selection.", "category": "Mains", "price": null, "currency": "SGD", "dietary_tags": [], "confidence": 0.68 },
+      { "name": "Fish and Chips", "description": "Battered fish served with fries.", "category": "Mains", "price": null, "currency": "SGD", "dietary_tags": [], "confidence": 0.66 },
+      { "name": "Sticky Date Pudding", "description": "Warm date pudding dessert.", "category": "Desserts", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.68 },
+      { "name": "Double Chocolate Blackout Cake", "description": "Rich chocolate cake dessert.", "category": "Desserts", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.68 },
+      { "name": "Latte", "description": "Espresso with milk.", "category": "Beverages", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.65 },
+      { "name": "Flat White", "description": "Espresso-based milk coffee.", "category": "Beverages", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.65 }
+    ]
+  },
+  {
+    "place_id": "google_tiong_bahru_bakery_d7950a5629",
+    "place_name": "Tiong Bahru Bakery",
+    "source_url": "https://www.tiongbahrubakery.com/menu/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "items": [
+      { "name": "Croissant", "description": "Signature French-style butter croissant.", "category": "Viennoiserie", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.9 },
+      { "name": "Almond Croissant", "description": "Croissant with almond filling and topping.", "category": "Viennoiserie", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.9 },
+      { "name": "Kouign Amann", "description": "Caramelised laminated pastry.", "category": "Viennoiserie", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.88 },
+      { "name": "Brie and Roasted Mushroom Croissant", "description": "Savoury croissant with brie and roasted mushroom.", "category": "Savoury", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Lychee, Strawberry and Rose Croissant", "description": "Seasonal fruit and floral croissant.", "category": "Viennoiserie", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Black Sesame and Matcha Danish", "description": "Danish pastry with black sesame and matcha flavours.", "category": "Viennoiserie", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Mango Sticky Rice Danish", "description": "Danish inspired by mango sticky rice.", "category": "Viennoiserie", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Coffee", "description": "Cafe coffee drinks served with bakery items.", "category": "Beverages", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.74 }
+    ]
+  },
+  {
+    "place_id": "google_common_man_coffee_roasters_martin_road_be6ad45e04",
+    "place_name": "Common Man Coffee Roasters - Martin Road",
+    "source_url": "https://www.foodpanda.sg/restaurant/w4dr/common-man-coffee-roasters-martin-road",
+    "source_type": "third_party_delivery",
+    "captured_at": "2026-05-03",
+    "confidence": 0.8,
+    "items": [
+      { "name": "Crispy Fried Chicken", "description": "Fried chicken with kimchi mayo, chives, chilli and lemon.", "category": "Starters", "price": 19.3, "currency": "SGD", "dietary_tags": [], "confidence": 0.85 },
+      { "name": "Rainbow Rice Bowl", "description": "Brown rice bowl with egg, pineapple kimchi, sweet potato chips and greens.", "category": "Salads", "price": 28.8, "currency": "SGD", "dietary_tags": [], "confidence": 0.85 },
+      { "name": "Warm Kale Salad", "description": "Kale salad with egg white scramble, broccolini and sourdough crumbs.", "category": "Salads", "price": 30.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Grain and Pomegranate Salad", "description": "Pearl couscous, cheeses, lentils, seeds and pomegranate dressing.", "category": "Salads", "price": 31.2, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Acai Bowl", "description": "Acai bowl with banana, nut butter, cacao granola, cacao nibs and coconut.", "category": "Dessert", "price": 21.6, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.85 },
+      { "name": "Okinawa Black Sugar Tiramisu", "description": "Tiramisu with kinako and Okinawa black sugar soy caramel.", "category": "Dessert", "price": 19.3, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.85 },
+      { "name": "Almond Croissant", "description": "Baked croissant supplied under bakes section.", "category": "Bakes", "price": 6.7, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.85 },
+      { "name": "Plain Croissant", "description": "Plain butter croissant.", "category": "Bakes", "price": 6.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.85 },
+      { "name": "Black Coffee", "description": "Espresso-based black coffee.", "category": "Coffee", "price": 7.2, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "White Coffee", "description": "Espresso-based milk coffee.", "category": "Coffee", "price": 7.8, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 }
+    ]
+  },
+  {
+    "place_id": "google_good_bites_21592e854b",
+    "place_name": "Good Bites",
+    "source_url": "https://www.goodbites.com.sg/menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "items": [
+      { "name": "Spicy Chicken Wings", "description": "Crispy wings in spicy sauce with ranch.", "category": "Appetizers", "price": 12.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.95 },
+      { "name": "Garlic Herb Bread", "description": "Fresh bread with garlic butter and herbs.", "category": "Appetizers", "price": 8.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.95 },
+      { "name": "Stuffed Mushrooms", "description": "Mushrooms filled with cheese and herbs.", "category": "Appetizers", "price": 10.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.95 },
+      { "name": "Grilled Chicken Burger", "description": "Grilled chicken burger with lettuce, tomato and sauce.", "category": "Mains", "price": 15.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.95 },
+      { "name": "Beef Lasagna", "description": "Pasta layered with beef sauce and cheese.", "category": "Mains", "price": 18.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.95 },
+      { "name": "Vegetable Stir-Fry", "description": "Seasonal vegetables with savoury soy sauce and rice.", "category": "Mains", "price": 14.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.95 },
+      { "name": "Chocolate Lava Cake", "description": "Warm chocolate cake with molten centre and vanilla ice cream.", "category": "Sweets", "price": 9.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.95 },
+      { "name": "Fruit Tart", "description": "Fruit tart with custard and seasonal fruits.", "category": "Sweets", "price": 7.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.95 },
+      { "name": "Baklava Delight", "description": "Layered pastry with nuts and honey.", "category": "Sweets", "price": 6.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.95 }
+    ]
+  },
+  {
+    "place_id": "google_brunches_cafe_e3582362ba",
+    "place_name": "Brunches Cafe",
+    "source_url": "https://brunches.sg/menus/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.95,
+    "items": [
+      { "name": "Granola Parfait", "description": "Honey oat granola with mixed berries and yoghurt.", "category": "All Day Breakfast", "price": 10.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.98 },
+      { "name": "Acai Granola Fruit Bowl", "description": "Greek yoghurt with acai, chia seeds and fruits.", "category": "All Day Breakfast", "price": 15.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.98 },
+      { "name": "Fluffy Pancake Stacks", "description": "Two pancakes with seasonal fruits, butter and maple syrup.", "category": "All Day Breakfast", "price": 16.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.98 },
+      { "name": "Brioche French Toast", "description": "French toast with seasonal fruits, butter and maple syrup.", "category": "All Day Breakfast", "price": 16.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.98 },
+      { "name": "Eggs Benedict", "description": "Poached eggs, bacon, arugula, wholemeal toast and hollandaise.", "category": "All Day Breakfast", "price": 20.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.98 },
+      { "name": "Eggs Porto", "description": "Poached eggs with portobello mushroom, arugula, toast and hollandaise.", "category": "All Day Breakfast", "price": 19.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.98 },
+      { "name": "Eggs Royale", "description": "Poached eggs with smoked salmon, arugula, toast and hollandaise.", "category": "All Day Breakfast", "price": 21.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.98 },
+      { "name": "Creamy Carbonara", "description": "Linguine in cream sauce with bacon, parmesan and onion marmalade.", "category": "Main Dish", "price": 18.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.98 },
+      { "name": "Home-made Traditional Tiramisu", "description": "Mascarpone dessert with espresso-soaked fingers.", "category": "Plated Desserts", "price": 12.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.98 },
+      { "name": "Cold Matcha Latte", "description": "Iced matcha latte.", "category": "Others Selection", "price": 6.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.98 }
+    ]
+  },
+  {
+    "place_id": "google_citrus_by_the_pool_63f18a0ead",
+    "place_name": "Citrus By The Pool",
+    "source_url": "https://sgeats.net/citrus-by-the-pool-menu-singapore/",
+    "source_type": "third_party_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "items": [
+      { "name": "Homemade Mushroom Soup", "description": "Mushroom soup appetizer.", "category": "Appetizers", "price": 6.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Caesar Salad", "description": "Caesar-style salad.", "category": "Appetizers", "price": 6.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.86 },
+      { "name": "Truffle Fries", "description": "Fries with truffle seasoning.", "category": "Sides", "price": 8.9, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Fried Chicken and Waffle", "description": "Fried chicken served with waffle.", "category": "Mains", "price": 16.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.86 },
+      { "name": "Prawn Pad Thai", "description": "Pad Thai with prawns.", "category": "Asian", "price": 13.9, "currency": "SGD", "dietary_tags": [], "confidence": 0.82 },
+      { "name": "Carbonara", "description": "Carbonara pasta.", "category": "Pasta", "price": 14.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.82 },
+      { "name": "Molten Chocolate Lava Cake", "description": "Chocolate lava cake dessert.", "category": "Cakes & More", "price": 13.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Signature Waffles with Ice Cream", "description": "Waffles served with ice cream.", "category": "Cakes & More", "price": 13.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Iced Latte", "description": "Iced espresso milk coffee.", "category": "Beverages", "price": 7.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Citrus Iced Tea", "description": "Iced tea beverage.", "category": "Beverages", "price": 5.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 }
+    ]
+  },
+  {
+    "place_id": "google_whisk_and_paddle_3059af332d",
+    "place_name": "Whisk & Paddle",
+    "source_url": "https://sgeats.net/whisk-and-paddle-menu-singapore/",
+    "source_type": "third_party_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.76,
+    "items": [
+      { "name": "Mushroom Soup", "description": "Mushroom soup starter.", "category": "Starters", "price": 9.8, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.84 },
+      { "name": "Caesar Salad", "description": "Caesar-style salad.", "category": "Starters", "price": 10.8, "currency": "SGD", "dietary_tags": [], "confidence": 0.84 },
+      { "name": "Fish and Chips", "description": "Fish and chips main.", "category": "Mains", "price": 27.8, "currency": "SGD", "dietary_tags": [], "confidence": 0.84 },
+      { "name": "Duck Confit", "description": "Duck confit main.", "category": "Mains", "price": 34.8, "currency": "SGD", "dietary_tags": [], "confidence": 0.84 },
+      { "name": "Mexican Chicken Pizza", "description": "Chicken pizza with Mexican-style flavours.", "category": "Pizza & Pasta", "price": 26.8, "currency": "SGD", "dietary_tags": [], "confidence": 0.84 },
+      { "name": "Burrata and Arugula Pizza", "description": "Pizza with burrata and arugula.", "category": "Pizza & Pasta", "price": 29.8, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.84 },
+      { "name": "Italian Carbonara", "description": "Carbonara pasta.", "category": "Pizza & Pasta", "price": 21.8, "currency": "SGD", "dietary_tags": [], "confidence": 0.84 },
+      { "name": "Vongole Linguine", "description": "Linguine with clams.", "category": "Pizza & Pasta", "price": 24.8, "currency": "SGD", "dietary_tags": [], "confidence": 0.84 }
+    ]
+  },
+  {
+    "place_id": "google_tolido_s_espresso_nook_64d7548d20",
+    "place_name": "Tolido's Espresso Nook",
+    "source_url": "https://sgeats.net/tolidos-espresso-nook-menu-singapore/",
+    "source_type": "third_party_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "items": [
+      { "name": "Truffle Scrambled Eggs", "description": "Scrambled eggs with truffle flavours.", "category": "All-day Breakfast", "price": 20.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Rosti with Cheesy Sausage", "description": "Rosti served with cheesy sausage.", "category": "All-day Breakfast", "price": 20.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.86 },
+      { "name": "Rosti with Smoked Bratwurst", "description": "Rosti served with smoked bratwurst.", "category": "All-day Breakfast", "price": 22.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.86 },
+      { "name": "Shakshouka Eggs", "description": "Eggs in spiced tomato-style sauce.", "category": "All-day Breakfast", "price": 21.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Roasted Eggplant Pesto Sandwich", "description": "Sandwich with roasted eggplant and pesto.", "category": "All-day Breakfast", "price": 18.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.82 },
+      { "name": "Latte", "description": "Espresso with steamed milk.", "category": "Coffee & Tea", "price": 6.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Flat White", "description": "Espresso-based milk coffee.", "category": "Coffee & Tea", "price": 6.0, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.86 },
+      { "name": "Dirty Hojicha Latte", "description": "Hojicha latte with coffee.", "category": "Coffee & Tea", "price": 7.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.84 },
+      { "name": "Ice-Blended Matcha Latte", "description": "Blended iced matcha latte.", "category": "Signature Ice Blended", "price": 7.5, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.84 }
+    ]
+  },
+  {
+    "place_id": "google_wildseed_caf_at_the_summerhouse_9c959c8fc0",
+    "place_name": "Wildseed Café at The Summerhouse",
+    "source_url": "https://www.wildseedcafe.sg/wildseed-cafe-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.7,
+    "notes": "Official page confirms categories and all-day menu availability; item-level details on linked image/PDF menus should be expanded in a follow-up OCR pass.",
+    "items": [
+      { "name": "Freshly Roasted Coffee", "description": "Coffee served at Wildseed Café.", "category": "Beverages", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.7 },
+      { "name": "Sandwiches", "description": "Cafe sandwich selection.", "category": "All-day Fare", "price": null, "currency": "SGD", "dietary_tags": [], "confidence": 0.66 },
+      { "name": "Floral Cakes", "description": "Cake selection with floral cafe styling.", "category": "Cakes", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.66 },
+      { "name": "Pastries", "description": "Pastry selection.", "category": "Pastries", "price": null, "currency": "SGD", "dietary_tags": ["vegetarian"], "confidence": 0.66 },
+      { "name": "Weekend Brunch", "description": "Weekend brunch dishes.", "category": "Brunch", "price": null, "currency": "SGD", "dietary_tags": [], "confidence": 0.62 },
+      { "name": "Afternoon Tea Set", "description": "High tea experience for two.", "category": "Tea", "price": 75.0, "currency": "SGD", "dietary_tags": [], "confidence": 0.78 }
+    ]
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "place_id": "google_asylum_coffeehouse_ca26109959",
+    "place_name": "Asylum Coffeehouse",
+    "source_url": "https://asylumcoffeehouse.oddle.me/en_SG/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Official Oddle page confirms Asylum Coffeehouse and several menu items; item-level prices were cross-checked against current public foodpanda and Take App menu pages because the official page exposes limited item detail.",
+    "items": [
+      {
+        "name": "Black",
+        "category": "Beverages",
+        "price_cents": 654,
+        "currency": "SGD",
+        "description": "Double-shot black coffee.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "White",
+        "category": "Beverages",
+        "price_cents": 763,
+        "currency": "SGD",
+        "description": "Double-shot coffee with milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mocha",
+        "category": "Beverages",
+        "price_cents": 820,
+        "currency": "SGD",
+        "description": "Double-shot mocha with chocolate and milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pour Over",
+        "category": "Beverages",
+        "price_cents": 1090,
+        "currency": "SGD",
+        "description": "Filtered coffee.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Hot Chocolate",
+        "category": "Beverages",
+        "price_cents": 763,
+        "currency": "SGD",
+        "description": "Chocolate drink made with house chocolate.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Beverages",
+        "price_cents": 820,
+        "currency": "SGD",
+        "description": "Matcha latte made with Matchaya matcha.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chicken Mushroom Pie",
+        "category": "Savouries",
+        "price_cents": 1350,
+        "currency": "SGD",
+        "description": "Chicken and mushroom pie in flaky pastry.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Kouign Aman",
+        "category": "Baked Goods",
+        "price_cents": 709,
+        "currency": "SGD",
+        "description": "Kouign-amann pastry.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Keluak 250g",
+        "category": "Coffee Beans",
+        "price_cents": 2646,
+        "currency": "SGD",
+        "description": "House espresso blend with hazelnut, chocolate and nutty notes.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_w39_bistro_325dc3a72b",
+    "place_name": "W39 Bistro",
+    "source_url": "https://order.w39bistro.com/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.9,
+    "notes": "Official W39 Bistro online ordering page lists current item names, categories and prices. Some items were marked unavailable at capture time, but are still listed on the restaurant menu.",
+    "items": [
+      {
+        "name": "Sake Mussels & Toast",
+        "category": "Starters",
+        "price_cents": 1650,
+        "currency": "SGD",
+        "description": "Mussels served with toast.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Chef's Special Homemade Crab Cakes",
+        "category": "Starters",
+        "price_cents": 1650,
+        "currency": "SGD",
+        "description": "Homemade crab cakes.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "W39 Hummus",
+        "category": "Starters",
+        "price_cents": 1320,
+        "currency": "SGD",
+        "description": "House hummus starter.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "39 Beef Burger",
+        "category": "Sandwiches, Burgers & Wraps",
+        "price_cents": 2860,
+        "currency": "SGD",
+        "description": "Beef burger from W39's burger menu.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Pork Cheek Quesadilla",
+        "category": "Sandwiches, Burgers & Wraps",
+        "price_cents": 2640,
+        "currency": "SGD",
+        "description": "Quesadilla with pork cheek.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Vegetarian Wrap",
+        "category": "Sandwiches, Burgers & Wraps",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "Vegetarian wrap.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Prawn & Bacon Linguine",
+        "category": "Pastas",
+        "price_cents": 1760,
+        "currency": "SGD",
+        "description": "Linguine with prawn and bacon.",
+        "dietary_tags": ["pork", "shellfish"]
+      },
+      {
+        "name": "Tempura Kale & Mushroom Linguine with Tomato Cream Sauce",
+        "category": "Pastas",
+        "price_cents": 1330,
+        "currency": "SGD",
+        "description": "Linguine with tempura kale, mushroom and tomato cream sauce.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chef's Special Assam Fish & Fragrant Rice",
+        "category": "Rice",
+        "price_cents": 2420,
+        "currency": "SGD",
+        "description": "Assam fish served with fragrant rice.",
+        "dietary_tags": ["fish", "spicy"]
+      },
+      {
+        "name": "Confit of Duck Leg",
+        "category": "Mains",
+        "price_cents": 2860,
+        "currency": "SGD",
+        "description": "Duck leg confit main.",
+        "dietary_tags": []
+      },
+      {
+        "name": "W39 Loaded Brunch",
+        "category": "Weekend Brunch",
+        "price_cents": 2530,
+        "currency": "SGD",
+        "description": "Loaded brunch plate, available weekends and public holidays.",
+        "dietary_tags": []
+      }
+    ]
+  },
+  {
+    "place_id": "google_seng_house_hainanese_western_caf_in_tanjong_kato_8afd3440ea",
+    "place_name": "Seng House Hainanese-Western Cafe",
+    "source_url": "https://www.senghouse.sg/menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.93,
+    "notes": "Official Seng House menu page links to day, night and beverage PDF menus. Prices are listed before service charge and prevailing GST.",
+    "items": [
+      {
+        "name": "Big Breakfast Bash",
+        "category": "Morning Feeds",
+        "price_cents": 2580,
+        "currency": "SGD",
+        "description": "Breakfast plate with bacon, mushrooms, tomato, hash brown, sausages, kaya bun and eggs.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Power Up",
+        "category": "Morning Feeds",
+        "price_cents": 2680,
+        "currency": "SGD",
+        "description": "Charcoal-grilled ribeye with black pepper sauce, eggs and herb roasted potato.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Pancake Duo",
+        "category": "Morning Feeds",
+        "price_cents": 1880,
+        "currency": "SGD",
+        "description": "Pancakes with seasonal fruits, crispy bacon, lemon butter and maple syrup.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Morning Feeds",
+        "price_cents": 1480,
+        "currency": "SGD",
+        "description": "Avocado and burrata on sourdough with balsamic glaze and olive oil.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Hainanese Pork Chop",
+        "category": "Hainanese Signatures",
+        "price_cents": 2380,
+        "currency": "SGD",
+        "description": "Snow pork loin fried in cream cracker crumbs with Hainanese sauce.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Claypot Chicken Rice",
+        "category": "Hainanese Signatures",
+        "price_cents": 1980,
+        "currency": "SGD",
+        "description": "Boneless chicken thigh claypot rice with ginger, spring onion and chilli.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Wat Dan Hor",
+        "category": "Hainanese Signatures",
+        "price_cents": 2480,
+        "currency": "SGD",
+        "description": "Flat rice noodles in fish stock gravy with prawns, pork and squid.",
+        "dietary_tags": ["pork", "shellfish"]
+      },
+      {
+        "name": "Double Bacon Smash Burger",
+        "category": "Lunch",
+        "price_cents": 2680,
+        "currency": "SGD",
+        "description": "Double wagyu patties with bacon, cheddar, pickles, vegetables and fries.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Double Gnocchi",
+        "category": "Lunch",
+        "price_cents": 2280,
+        "currency": "SGD",
+        "description": "Potato and spinach gnocchi with mushrooms, cherry tomatoes and shio kombu.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Puff-Crusted Mushroom Soup",
+        "category": "Sides",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Wild mushroom soup served with puff pastry.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Secret White",
+        "category": "Cold Brew",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Cold brew with chocolate, hazelnut and honey notes.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_twenty_eight_cafe_wilkie_road_73945822cd",
+    "place_name": "Twenty Eight Cafe Wilkie Road",
+    "source_url": "https://twentyeightcafe.com/menu/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.94,
+    "notes": "Official Twenty Eight Cafe menu page links to the current food and drinks PDF menus. Wilkie Road location is listed on the same official page. Prices are listed before service charge and prevailing GST.",
+    "items": [
+      {
+        "name": "Common Breakfast",
+        "category": "Breakfast",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Sourdough with pork sausage, pork bacon, tater tots, mushroom, salad and egg.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Mushroom Rosti",
+        "category": "Breakfast",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Rosti with mushroom ragout, spinach, sauteed mushroom and truffle oil.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Avocado Smash",
+        "category": "Breakfast",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Sourdough with guacamole, pomegranate, tomato salsa, pine nut, poached egg and feta.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Eggs Benedict",
+        "category": "Breakfast",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Brioche with pork ham, spinach, poached eggs, hollandaise and avocado.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "28Cafe Signature Burger",
+        "category": "Sandwiches",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Beef patty with pork bacon, cheese, egg, vegetables and fries.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Japanese Pork Katsu Sando",
+        "category": "Sandwiches",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Shokupan sandwich with Japanese pork katsu, wasabi mayo, cabbage and fries.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Pigout Sandwich",
+        "category": "Sandwiches",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Sourdough sandwich with pulled pork, pork ham, cheese, pickles and fries.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Wild Mushroom Aglio Olio",
+        "category": "Pastas",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Spaghetti with wild mushroom, chilli padi, grana padano and spinach.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Kimchi Beef",
+        "category": "Rice Bowls",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Japanese rice with marinated beef, kimchi, cabbage, spicy mayo and onsen egg.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Berrillicious Japanese Souffle",
+        "category": "Japanese Souffle Pancake",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Souffle pancakes with berries compote, honey whipped cream and walnut.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Eggplant Parmigiana",
+        "category": "Mains",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Eggplant with salad, tomato sauce, parmesan and mozzarella.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

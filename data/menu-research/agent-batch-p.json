@@ -1,0 +1,342 @@
+[
+  {
+    "place_id": "google_the_book_cafe_7b0b4c6ce7",
+    "place_name": "The Book Cafe",
+    "source_url": "https://www.thebookcafesg.com/menus",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.78,
+    "notes": "Official menu page links to the October 2025 menu PDF and confirms all-day breakfast, brunch, sandwiches, pastas, mains, desserts, coffee and drinks. Prices were cross-checked against public menu mirrors because the official PDF is served through the ordering widget.",
+    "items": [
+      {
+        "name": "Eggs Benedict",
+        "category": "Breakfast",
+        "price_cents": 2095,
+        "currency": "SGD",
+        "description": "Breakfast eggs Benedict.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Eggs Royal",
+        "category": "Breakfast",
+        "price_cents": 2295,
+        "currency": "SGD",
+        "description": "Breakfast eggs with smoked salmon.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Muesli",
+        "category": "Breakfast",
+        "price_cents": 1195,
+        "currency": "SGD",
+        "description": "Breakfast muesli.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mushroom Soup",
+        "category": "Soup",
+        "price_cents": 1095,
+        "currency": "SGD",
+        "description": "Mushroom soup.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chicken Avocado Salad",
+        "category": "Salad",
+        "price_cents": 2095,
+        "currency": "SGD",
+        "description": "Chicken salad with avocado.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Seafood Pasta",
+        "category": "Pasta",
+        "price_cents": 2295,
+        "currency": "SGD",
+        "description": "Pasta with seafood.",
+        "dietary_tags": ["shellfish", "fish"]
+      },
+      {
+        "name": "Kimchi Fried Rice",
+        "category": "Asian",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Kimchi fried rice.",
+        "dietary_tags": ["spicy"]
+      },
+      {
+        "name": "Pan-Fried Cod Fish",
+        "category": "Plats",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Pan-fried cod fish main.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Homemade Honey Basil Lemonade",
+        "category": "Iced Beverages",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "House lemonade with honey and basil.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_la_saigon_cafe_b09a3fd93a",
+    "place_name": "La Saigon Cafe",
+    "source_url": "https://www.lasaigoncafe.com/pages/main-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official La Saigon main menu page confirms dine-in/takeaway menus and customer favourites. Item prices were supplemented from the current Quandoo public menu page where visible.",
+    "items": [
+      {
+        "name": "Buttery Caramel Toast",
+        "category": "Breakfast",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Sourdough baguette with caramelised milk butter; petite size.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fluffy Egg Banh Mi",
+        "category": "Breakfast",
+        "price_cents": 700,
+        "currency": "SGD",
+        "description": "Sourdough baguette with scrambled eggs, pickles, greens and mayonnaise; petite size.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "La Saigon Breakfast Delight",
+        "category": "Breakfast",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Baguette or croissant with sunny-side egg, avocado, bacon, greens and tomatoes.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Lemongrass Chicken (Dry)",
+        "category": "Noodles",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Lemongrass chicken with rice vermicelli and kombucha pickles.",
+        "dietary_tags": []
+      },
+      {
+        "name": "La Saigon Oxtail Pho",
+        "category": "Noodles",
+        "price": null,
+        "currency": "SGD",
+        "description": "Oxtail pho with beef balls and egg.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Signature LaSaigon's Beef Pho",
+        "category": "Customer Favourites",
+        "price": null,
+        "currency": "SGD",
+        "description": "Beef pho with slow-simmered broth and fresh herbs.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Sourdough Banh Mi",
+        "category": "Customer Favourites",
+        "price": null,
+        "currency": "SGD",
+        "description": "Handmade sourdough banh mi with in-house roasted pork and house pickles.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Fresh Soft Shell Crab Roll",
+        "category": "Customer Favourites",
+        "price": null,
+        "currency": "SGD",
+        "description": "Fresh roll with soft shell crab and vegetables.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Tiramisu Coffee",
+        "category": "Customer Favourites",
+        "price": null,
+        "currency": "SGD",
+        "description": "Vietnamese coffee dessert drink.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_baker_and_cook_dempsey_7791a9c821",
+    "place_name": "Baker & Cook - Dempsey",
+    "source_url": "https://www.bakerandcook.com/sgw-menu",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Official Baker & Cook menu and locations pages confirm the Dempsey outlet and menu links. Dempsey-specific brunch highlights were cross-checked against Quandoo; broader Plank/Baker & Cook items were cross-checked against official Baker & Cook food and bakery pages plus Deliveroo for prices.",
+    "items": [
+      {
+        "name": "Simply Scrambled Eggs",
+        "category": "Brunch",
+        "price_cents": 1380,
+        "currency": "SGD",
+        "description": "Scrambled eggs and roasted tomatoes with toasted B&C bread.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Eggs Benedict",
+        "category": "Brunch",
+        "price_cents": 1490,
+        "currency": "SGD",
+        "description": "Poached eggs on Pain au Levain with spinach and hollandaise.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Big Breakfast with Sourdough",
+        "category": "Brunch",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Bacon, chicken harissa sausage, mushrooms, potatoes, tomatoes, eggs and sourdough.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Pain au Levain",
+        "category": "Breads",
+        "price_cents": 1050,
+        "currency": "SGD",
+        "description": "Baker & Cook sourdough loaf.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Spelt Sourdough",
+        "category": "Breads",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Spelt sourdough bread.",
+        "dietary_tags": ["vegan"]
+      },
+      {
+        "name": "Butter Croissant",
+        "category": "Sweet Pastries & Tarts",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Classic butter croissant.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Miso Eggplant",
+        "category": "Burgers",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Miso eggplant burger.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "The Classic Pepperoni",
+        "category": "Pizza",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Sourdough pizza with tomato sauce, mozzarella and pork pepperoni.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Creamy Mushroom Fettuccine",
+        "category": "Sourdough Pasta",
+        "price_cents": 1650,
+        "currency": "SGD",
+        "description": "Fettuccine with mushrooms, parmesan, parsley, cream and truffle oil.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_common_man_coffee_roasters_joo_chiat_road_4f850cb5f1",
+    "place_name": "Common Man Coffee Roasters - Joo Chiat Road",
+    "source_url": "https://commonmancoffeeroasters.com/pages/our-menus",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.95,
+    "notes": "Official CMCR menu page links to current Dec 2025 day and night menu PDFs covering the Joo Chiat outlet at 185 Joo Chiat Road. Prices are listed before service charge and taxes.",
+    "items": [
+      {
+        "name": "Crunchy Granola",
+        "category": "Breakfast",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Spiced nuts and seeds, coconut, goji berries, Greek yoghurt and fruit compote.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Breakfast Pancakes",
+        "category": "Breakfast",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Brown butter pancakes with chilli scrambled eggs, bacon, feta and maple butter syrup.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Umami Mushroom Avocado Toast",
+        "category": "Breakfast",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Mushrooms, avocado smash, red onion pickle, focaccia and togarashi.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Common Man Full Breakfast",
+        "category": "Breakfast",
+        "price_cents": 3000,
+        "currency": "SGD",
+        "description": "Eggs, bacon, pork sausage, tomato, hash browns, mushroom, beans and toast.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Rainbow Rice Bowl",
+        "category": "Salads",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Organic brown rice, poached egg, pineapple kimchi, sweet potato chips and buckwheat.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Prawn Linguine Aglio Olio",
+        "category": "Pastas",
+        "price_cents": 2400,
+        "currency": "SGD",
+        "description": "Linguine with prawns, roasted garlic, chilli and olive oil.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Smash Burger",
+        "category": "Mains",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Beef patties, cheddar, onion jam, lettuce, mayo, brioche bun and herbed fries.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Hokkaido Pork Katsu",
+        "category": "Asian Flavours",
+        "price_cents": 3200,
+        "currency": "SGD",
+        "description": "Pork loin with kimchi, pickled daikon, yuzu kosho tartare and brown rice.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Kaya Toast Latte",
+        "category": "Specialty Iced Drinks",
+        "price_cents": 950,
+        "currency": "SGD",
+        "description": "Espresso with oat milk, coconut, pandan and kaya foam.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Black",
+        "category": "Espresso Coffee",
+        "price_cents": 600,
+        "currency": "SGD",
+        "description": "Espresso-based black coffee; regular size.",
+        "dietary_tags": ["vegan"]
+      }
+    ]
+  }
+]

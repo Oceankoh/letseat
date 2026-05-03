@@ -1,0 +1,274 @@
+[
+  {
+    "place_id": "google_punch_350d5751b4",
+    "place_name": "PUNCH",
+    "source_url": "https://sgmyfoodie.com/punch-menu-singapore/",
+    "source_type": "public_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "Official menu page at https://punch.sg/menu confirms the menu and representative item set; prices were taken from a public Singapore menu page because the official page is image-heavy.",
+    "items": [
+      {
+        "name": "Antioxidant Fruit Salad",
+        "category": "Fruits & Grains",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Seasonal fruit with honey Greek yoghurt.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Bircher Muesli",
+        "category": "Fruits & Grains",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Soaked oats with fruit, yoghurt and toasted coconut.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Earl Grey Pancakes",
+        "category": "Pancakes",
+        "price_cents": 2100,
+        "currency": "SGD",
+        "description": "Tea-infused pancake stack with pear and macadamia crumble.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "French Toast",
+        "category": "Pancakes",
+        "price_cents": 2000,
+        "currency": "SGD",
+        "description": "Brioche French toast with berries, mascarpone and salted caramel.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Scrambled Eggs on Toast",
+        "category": "Eggs",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Soft scrambled eggs served on toast.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Poached Eggs with Avocado",
+        "category": "Eggs",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Poached eggs with smashed avocado on seeded toast.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Grilled Cheese Sandwich",
+        "category": "Sandwiches",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Cheese sandwich served with tomato soup for dipping.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Reuben Sandwich",
+        "category": "Sandwiches",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Light rye sandwich with corned beef, cheese and sauerkraut.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Carbonara",
+        "category": "Weekday Lunch",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Egg fettuccine with pancetta, mushrooms and parmesan.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Pineapple Slushie",
+        "category": "Drinks",
+        "price_cents": 850,
+        "currency": "SGD",
+        "description": "Pineapple, mint, basil and coconut water slushie.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_toby_s_estate_coffee_roasters_singapore_a50eebe771",
+    "place_name": "Toby's Estate Coffee Roasters Singapore",
+    "source_url": "https://tobysestate.com.sg/flagship-cafes-roastery/",
+    "source_type": "restaurant_website",
+    "captured_at": "2026-05-03",
+    "confidence": 0.95,
+    "notes": "Official cafe page exposes January 2025 food and drinks menu images; prices exclude stated service charge and GST.",
+    "items": [
+      {
+        "name": "Croissant",
+        "category": "All Day Menu",
+        "price_cents": 550,
+        "currency": "SGD",
+        "description": "Croissant served with butter and jam.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Eggs on Toast",
+        "category": "All Day Menu",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Eggs with choice of toast or croissant.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Bircher Muesli",
+        "category": "All Day Menu",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Overnight oats with granola, fruit and berry coulis.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "French Toast",
+        "category": "All Day Menu",
+        "price_cents": 1850,
+        "currency": "SGD",
+        "description": "French toast with crispy bacon, apple, maple syrup and berry coulis.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Avo on Toast",
+        "category": "All Day Menu",
+        "price_cents": 2100,
+        "currency": "SGD",
+        "description": "Sourdough with seasoned avocado, mushrooms, arugula and poached egg.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chicken Bowl",
+        "category": "All Day Menu",
+        "price_cents": 2200,
+        "currency": "SGD",
+        "description": "Grilled chicken bowl with grains or rice, vegetables and poached egg.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Crispy Chicken Burger",
+        "category": "All Day Menu",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Buttermilk chicken burger served with fries and sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Lemon Ricotta Pancake",
+        "category": "Desserts",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Lemon ricotta pancake with maple syrup, fruit and cream.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Berry Berry Banana Smoothie",
+        "category": "Smoothies / Shakes",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Berry and banana smoothie.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Toby's Estate Tea",
+        "category": "Non-Coffee Beverages",
+        "price_cents": 650,
+        "currency": "SGD",
+        "description": "Hot tea selection including English Breakfast and Earl Grey.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_name": "The Coastal Settlement",
+    "source_url": "https://sgmenu.org/the-coastal-settlement-menu/",
+    "source_type": "public_menu_page",
+    "captured_at": "2026-05-03",
+    "confidence": 0.76,
+    "notes": "Included because exact place_name is present in the local Google Places import. No official live menu page was found; this public menu page says prices were taken from official sources.",
+    "items": [
+      {
+        "name": "Wild Mushroom Soup",
+        "category": "Sharing",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Mushroom soup starter.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Otak-Otak",
+        "category": "Sharing",
+        "price_cents": 1900,
+        "currency": "SGD",
+        "description": "Spiced fish cake sharing plate.",
+        "dietary_tags": ["fish", "spicy"]
+      },
+      {
+        "name": "Truffle Fries",
+        "category": "Sharing",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Fries with truffle seasoning.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Wagyu Beef & Mushroom",
+        "category": "Thin Crust Pizzas",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Thin crust pizza with wagyu beef and mushrooms.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Margherita",
+        "category": "Thin Crust Pizzas",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "Tomato and cheese thin crust pizza.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "TCS Grilled Chicken",
+        "category": "Mains",
+        "price_cents": 2600,
+        "currency": "SGD",
+        "description": "House grilled chicken main.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Wagyu Cheese Burger",
+        "category": "Mains",
+        "price_cents": 2300,
+        "currency": "SGD",
+        "description": "Wagyu beef cheeseburger.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Fish & Chips",
+        "category": "Mains",
+        "price_cents": 2800,
+        "currency": "SGD",
+        "description": "Fish and chips main.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Scallop & Prawn Laksa",
+        "category": "Rice & Noodles",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Laksa with scallops and prawns.",
+        "dietary_tags": ["shellfish", "spicy"]
+      },
+      {
+        "name": "Sticky Date Pudding",
+        "category": "Desserts",
+        "price_cents": 1600,
+        "currency": "SGD",
+        "description": "Warm sticky date pudding dessert.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

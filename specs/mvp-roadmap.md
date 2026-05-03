@@ -8,7 +8,7 @@ Deliverables:
 
 - Repo scaffold for PWA, backend, and docs.
 - Postgres database setup.
-- Seed cafe dataset for one geography.
+- Seed Singapore cafe dataset.
 - Basic place model.
 - Basic latest-menu and menu item models.
 - Manual CSV or admin import for menus.
@@ -115,6 +115,7 @@ Exit criteria:
 
 - Google Maps scraping may be legally or technically unsuitable.
 - Places APIs may not provide enough menu or review data.
+- Google Places, OCR, proxy, hosted browser, or LLM extraction usage may incur costs if importers run without strict caps.
 - OCR quality may be poor for handwritten, reflective, or angled menus.
 - Replacing menus can accidentally remove still-valid items if OCR or moderation misses them.
 - Food synonyms and ambiguous queries can produce noisy matches.
@@ -129,9 +130,10 @@ Exit criteria:
 
 ## Open Questions
 
-- What is the first launch geography?
+- Which Singapore neighborhoods should be seeded first?
 - Should the app use user location by default or ask users to select an area?
 - Which data sources are acceptable for production?
+- What monthly budget and per-run request cap should be enforced for real data importers?
 - Should users be able to upload menu photos anonymously?
 - How much moderation is needed before user-submitted menu data goes live?
 - What is the minimum confidence threshold for showing a food/place match?

@@ -1,0 +1,366 @@
+[
+  {
+    "place_id": "google_green_on_earth_vegetarian_cafe_the_rail_mall_8a990ec7f7",
+    "place_name": "Green on Earth Vegetarian Cafe @ The Rail Mall",
+    "source_url": "https://www.foodpanda.sg/restaurant/v0ru/green-on-earth-the-rail-mall",
+    "source_type": "delivery_platform",
+    "captured_at": "2026-05-03",
+    "confidence": 0.86,
+    "notes": "Foodpanda page for The Rail Mall outlet lists current menu items and delivery prices. The Rail Mall store page confirms the outlet and vegetarian zi char focus at https://railmall.com.sg/our-stores/?type=dining. Prices may include delivery-platform markup; items marked 'from' use the displayed starting price.",
+    "items": [
+      {
+        "name": "Ma La Xiang Guo",
+        "category": "Ma La Xiang Guo",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Custom mala stir-fry with selected ingredients.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Si Chuan Boiled Fish",
+        "category": "Specialties",
+        "price_cents": 3500,
+        "currency": "SGD",
+        "description": "Spicy Sichuan-style boiled fish dish.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Sweet & Sour Yam Ring Monkey Head Mushroom",
+        "category": "Specialties",
+        "price_cents": 2900,
+        "currency": "SGD",
+        "description": "Yam ring with monkey head mushroom in sweet and sour sauce.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Fried Thai Bean Curd",
+        "category": "Appetizers",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Fried bean curd appetizer.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Stir-fried Spinach",
+        "category": "Stir-fried Vegetable",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Spinach stir-fried with seasoning.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Sambal Kang Kong",
+        "category": "Stir-fried Vegetable",
+        "price_cents": 1580,
+        "currency": "SGD",
+        "description": "Kang kong stir-fried with sambal sauce.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Braised Bean Curd",
+        "category": "Bean Curd",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Soft tofu braised in savoury sauce.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Oat Meal Mushroom",
+        "category": "Mushrooms",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Mushrooms cooked with seasoned oatmeal.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Petai Fried Rice",
+        "category": "Rice",
+        "price_cents": 990,
+        "currency": "SGD",
+        "description": "Fried rice with petai beans and vegetables.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Mushroom Udon Noodles",
+        "category": "Noodles",
+        "price_cents": 990,
+        "currency": "SGD",
+        "description": "Udon noodles stir-fried with mushrooms and vegetables.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_bok_s_kitchen_by_hidden_chefs_singapore_b2018345f1",
+    "place_name": "Bok's Kitchen by Hidden Chefs - Singapore",
+    "source_url": "https://www.foodpanda.sg/chain/cn0us/boks-kitchen",
+    "source_type": "delivery_platform",
+    "captured_at": "2026-05-03",
+    "confidence": 0.84,
+    "notes": "Foodpanda page for Bok's Kitchen (Boon Lay) lists current delivery items and prices. Time Out and older public menu pages corroborate core dishes such as rice bowls, pastas, bread bowls and brunch items, but this batch uses the current Foodpanda prices where available.",
+    "items": [
+      {
+        "name": "Beef Rice Bowl",
+        "category": "Rice Bowls",
+        "price_cents": 1700,
+        "currency": "SGD",
+        "description": "Rib eye steak rice bowl with pickled radish.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Grilled Chicken Rice Bowl",
+        "category": "Rice Bowls",
+        "price_cents": 1500,
+        "currency": "SGD",
+        "description": "Honey and herb grilled chicken rice bowl with pickled radish.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Salmon Teriyaki Rice Bowl",
+        "category": "Rice Bowls",
+        "price_cents": 1800,
+        "currency": "SGD",
+        "description": "Oven-baked salmon with teriyaki sauce, sweet corn and edamame.",
+        "dietary_tags": ["fish"]
+      },
+      {
+        "name": "Veggie Lover Rice Bowl",
+        "category": "Rice Bowls",
+        "price_cents": 1200,
+        "currency": "SGD",
+        "description": "Mushrooms, baby spinach, sweet corn, edamame, tomato and pickled radish.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Carbonara Al Funghi",
+        "category": "Pasta",
+        "price_cents": 1300,
+        "currency": "SGD",
+        "description": "Linguine with cream sauce and assorted mushrooms.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pork Loin Aglio Olio",
+        "category": "Pasta",
+        "price_cents": 1490,
+        "currency": "SGD",
+        "description": "Spaghetti with garlic, olive oil, chilli and pork loin.",
+        "dietary_tags": ["pork", "spicy"]
+      },
+      {
+        "name": "Spinach Mushrooms Aglio Olio",
+        "category": "Pasta",
+        "price_cents": 1400,
+        "currency": "SGD",
+        "description": "Spaghetti with mushrooms, spinach, tomato, garlic and chilli.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Prawn Paste Wings",
+        "category": "Sides",
+        "price_cents": 920,
+        "currency": "SGD",
+        "description": "Chicken wings fried in shrimp paste batter.",
+        "dietary_tags": ["shellfish"]
+      },
+      {
+        "name": "Potato Crisps",
+        "category": "Sides",
+        "price_cents": 680,
+        "currency": "SGD",
+        "description": "Matchstick potatoes fried and drizzled with tangy sauce.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "French Fries",
+        "category": "Sides",
+        "price_cents": 720,
+        "currency": "SGD",
+        "description": "Thin-cut fried potatoes.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_da_paolo_gastronomia_bukit_timah_01101960f0",
+    "place_name": "Da Paolo Gastronomia - Bukit Timah",
+    "source_url": "https://www.dapaolo.com.sg/assets/Menus/Gastronomia/Da_Paolo_Gastronomia_Menu_Raffles_Place.pdf",
+    "source_type": "restaurant_menu_pdf",
+    "captured_at": "2026-05-03",
+    "confidence": 0.88,
+    "notes": "Official Da Paolo Gastronomia PDF lists the current Gastronomia menu. The PDF is for Raffles Place, while the Bukit Timah outlet is the same Gastronomia concept; Tripadvisor confirms the Bukit Timah Gastronomia outlet. Prices are subject to 5% dine-in charge per the PDF.",
+    "items": [
+      {
+        "name": "Pomodoro Basilico",
+        "category": "Pasta",
+        "price_cents": 1450,
+        "currency": "SGD",
+        "description": "Pasta with Italian tomatoes and basil.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Arrabbiata",
+        "category": "Pasta",
+        "price_cents": 1450,
+        "currency": "SGD",
+        "description": "Pasta with Italian tomatoes, chilli and garlic.",
+        "dietary_tags": ["vegetarian", "spicy"]
+      },
+      {
+        "name": "Amatriciana",
+        "category": "Pasta",
+        "price_cents": 1580,
+        "currency": "SGD",
+        "description": "Pasta with tomato, bacon, onions and parmesan.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Bolognese",
+        "category": "Pasta",
+        "price_cents": 1680,
+        "currency": "SGD",
+        "description": "Pasta with beef ragout and tomato sauce.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Fresh Mozzarella & Basil Pesto Panini",
+        "category": "Grilled Panini",
+        "price_cents": 1090,
+        "currency": "SGD",
+        "description": "Grilled panini with mozzarella and basil pesto.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "Parma Ham & Wild Rocket Panini",
+        "category": "Grilled Panini",
+        "price_cents": 1290,
+        "currency": "SGD",
+        "description": "Grilled panini with parma ham and wild rocket.",
+        "dietary_tags": ["pork"]
+      },
+      {
+        "name": "Beef Lasagna",
+        "category": "Baked Meals",
+        "price_cents": 1350,
+        "currency": "SGD",
+        "description": "Baked beef lasagna.",
+        "dietary_tags": []
+      },
+      {
+        "name": "Spinach Lasagna",
+        "category": "Baked Meals",
+        "price_cents": 1290,
+        "currency": "SGD",
+        "description": "Baked spinach lasagna.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Green Salad with Roasted Vegetables",
+        "category": "Salads",
+        "price_cents": 1250,
+        "currency": "SGD",
+        "description": "Green salad served with roasted vegetables.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Pumpkin Soup",
+        "category": "Soups",
+        "price_cents": 680,
+        "currency": "SGD",
+        "description": "Pumpkin soup.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  },
+  {
+    "place_id": "google_awfully_chocolate_vivocity_caf_bakery_cake_shop__df482fdb5f",
+    "place_name": "Awfully Chocolate VivoCity Cafe",
+    "source_url": "https://vivocitysentosa.com/shop/awfully-chocolate-vivocity-cafe-bakery-cake-shop-birthday-cakes",
+    "source_type": "mall_public_menu",
+    "captured_at": "2026-05-03",
+    "confidence": 0.82,
+    "notes": "VivoCity public outlet page lists the VivoCity cafe and menu-highlight drink prices. Official Awfully Chocolate product pages corroborate current cake, chocolate and ice-cream retail items; product prices may apply to online order sizes rather than dine-in portions.",
+    "items": [
+      {
+        "name": "70% Hot Chocolate",
+        "category": "Cafe Drinks",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Hot chocolate drink made with 70% dark chocolate.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "60% Hot Chocolate",
+        "category": "Cafe Drinks",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Hot chocolate drink made with 60% dark chocolate.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Oat Milk Hot Chocolate",
+        "category": "Cafe Drinks",
+        "price_cents": 900,
+        "currency": "SGD",
+        "description": "Hot chocolate drink prepared with oat milk.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Chocolate Milk",
+        "category": "Cafe Drinks",
+        "price_cents": 800,
+        "currency": "SGD",
+        "description": "Chocolate milk made with premium dark cocoa.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Super Stacked Chocolate Cake",
+        "category": "Cakes",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Layered chocolate cake served warmed at the cafe.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Hei Dark Chocolate Ice Cream",
+        "category": "Ice Cream",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Dark chocolate ice cream.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "All Chocolate Cake",
+        "category": "Cakes",
+        "price_cents": null,
+        "currency": "SGD",
+        "description": "Awfully Chocolate's signature chocolate cake.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Caramel Brittle & Sea Salt Chocolate Bar",
+        "category": "Chocolate Bars",
+        "price_cents": 1460,
+        "currency": "SGD",
+        "description": "45% dark milk chocolate bar with caramel brittle and sea salt.",
+        "dietary_tags": ["vegetarian"]
+      },
+      {
+        "name": "Hazelnut Crunch Chocolate Bar",
+        "category": "Chocolate Bars",
+        "price_cents": 1460,
+        "currency": "SGD",
+        "description": "45% dark milk chocolate bar with roasted hazelnuts.",
+        "dietary_tags": ["vegetarian", "nuts"]
+      },
+      {
+        "name": "6pcs Dark Chocolate Truffles",
+        "category": "Chocolates",
+        "price_cents": 2500,
+        "currency": "SGD",
+        "description": "Box of six dark chocolate truffles.",
+        "dietary_tags": ["vegetarian"]
+      }
+    ]
+  }
+]

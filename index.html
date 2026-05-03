@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0f766e">
+    <meta name="description" content="Search by food and find Singapore cafes and restaurants that sell it.">
+    <title>LetsEat</title>
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="assets/icons/letseat-icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="assets/icons/letseat-icon.svg">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#" aria-label="LetsEat home">
+          <span class="brand-mark" aria-hidden="true">LE</span>
+          <span>
+            <span class="brand-name">LetsEat</span>
+            <span class="brand-line">Singapore food search</span>
+          </span>
+        </a>
+        <nav class="top-actions" aria-label="Primary actions">
+          <button class="ghost-button" type="button" id="installButton" hidden>Install</button>
+          <button class="ghost-button" type="button" id="locationButton">Use location</button>
+        </nav>
+      </header>
+
+      <main>
+        <section class="search-band" aria-labelledby="searchTitle">
+          <div class="search-copy">
+            <p class="eyebrow">Singapore cafe MVP</p>
+            <h1 id="searchTitle">Find Singapore cafes by the food you want.</h1>
+            <p class="subcopy">Search Singapore menus for matcha, tiramisu, shakshuka, banana bread, cold brew, or anything else you are craving.</p>
+          </div>
+
+          <form class="search-panel" id="searchForm" role="search">
+            <label class="search-label" for="searchInput">Food search</label>
+            <div class="search-row">
+              <input id="searchInput" name="q" type="search" autocomplete="off" placeholder="Try iced matcha latte" aria-describedby="resultCount">
+              <button class="primary-button" type="submit">Search</button>
+            </div>
+            <div class="quick-searches" aria-label="Quick searches">
+              <button type="button" data-query="iced matcha">Iced matcha</button>
+              <button type="button" data-query="banana bread">Banana bread</button>
+              <button type="button" data-query="tiramisu">Tiramisu</button>
+              <button type="button" data-query="shakshuka">Shakshuka</button>
+            </div>
+          </form>
+        </section>
+
+        <section class="control-strip" aria-label="Search controls">
+          <div class="segmented-control" role="radiogroup" aria-label="Sort results">
+            <button type="button" data-sort="relevance" aria-pressed="true">Relevance</button>
+            <button type="button" data-sort="reviews" aria-pressed="false">Google reviews</button>
+            <button type="button" data-sort="distance" aria-pressed="false">Distance</button>
+          </div>
+          <div class="view-switch" role="radiogroup" aria-label="View results">
+            <button type="button" data-view="list" aria-pressed="true">List</button>
+            <button type="button" data-view="map" aria-pressed="false">Map</button>
+          </div>
+          <label class="toggle-control">
+            <input type="checkbox" id="savedOnlyToggle">
+            <span>Saved only</span>
+          </label>
+        </section>
+
+        <section class="content-grid">
+          <div class="results-pane" aria-live="polite">
+            <div class="results-head">
+              <div>
+                <p class="eyebrow" id="resultCount">Loading cafes</p>
+                <h2 id="resultsTitle">Latest menu matches</h2>
+              </div>
+              <button class="text-button" type="button" id="clearButton">Clear</button>
+            </div>
+
+            <div class="empty-state" id="emptyState" hidden>
+              <h3>No direct cafe match yet</h3>
+              <p>Try a broader food term, switch off saved-only, or upload a newer menu from a place detail panel.</p>
+            </div>
+
+            <div class="results-list" id="resultsList"></div>
+
+            <div class="map-view" id="mapView" hidden>
+              <div class="map-canvas" id="mapCanvas" aria-label="Stylized Singapore map of cafe results"></div>
+            </div>
+          </div>
+
+          <aside class="detail-pane" id="detailPane" aria-labelledby="detailTitle">
+            <div class="detail-placeholder" id="detailPlaceholder">
+              <p class="eyebrow">Place detail</p>
+              <h2 id="detailTitle">Choose a cafe</h2>
+              <p>Select a result to inspect its latest menu, save it locally, or open Google Maps.</p>
+            </div>
+            <article class="place-detail" id="placeDetail" hidden></article>
+          </aside>
+        </section>
+      </main>
+    </div>
+
+    <template id="resultCardTemplate">
+      <article class="result-card">
+        <button class="card-main" type="button">
+          <span class="photo-tile" aria-hidden="true"></span>
+          <span class="card-copy">
+            <span class="card-topline">
+              <span class="place-name"></span>
+              <span class="confidence-pill"></span>
+            </span>
+            <span class="place-meta"></span>
+            <span class="match-line"></span>
+            <span class="evidence-line"></span>
+          </span>
+        </button>
+        <div class="card-actions">
+          <button class="icon-button save-action" type="button" aria-label="Save place">Save</button>
+          <a class="icon-link maps-action" target="_blank" rel="noreferrer">Maps</a>
+          <a class="icon-link reviews-action" target="_blank" rel="noreferrer">Reviews</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
